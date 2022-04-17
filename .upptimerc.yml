@@ -89,6 +89,14 @@ sites:
     url: http://hippodromedecarrere.fr
   - name: Le Galion
     url: http://saem-legalion.net
+  - name: Grande Baie Martinique
+    url: https://grandebaiemartinique.com
+  - name: Collecte dechets
+    url: http://collecte-dechets.cacem.fr
+  - name: Mission locale du centre de la Martinique
+    url: https://www.milcem.com
+  - name: Office du tourisme du centre de la Martinique
+    url: https://tourisme-centre.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -100,7 +108,7 @@ status-website:
   introMessage: Based on **[upptime](https://github.com/upptime/upptime)**. Contribute on the public github repository [martinique-public-websites](https://github.com/glefait/martinique-public-websites).
   navbar:
     - title: Status
-      href: /
+      href: /martinique-public-websites
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
