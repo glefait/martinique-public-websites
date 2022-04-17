@@ -95,17 +95,19 @@
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "75.69%",
+    "uptimeDay": "75.69%",
+    "uptimeWeek": "75.69%",
+    "uptimeMonth": "75.69%",
+    "uptimeYear": "75.69%",
     "time": 1167,
     "timeDay": 1167,
     "timeWeek": 1167,
     "timeMonth": 1167,
     "timeYear": 1167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-17": 134
+    }
   },
   {
     "name": "Saint-Joseph",
@@ -162,7 +164,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "La Trinité",
+    "name": "La Trinite",
     "url": "https://www.mairie-latrinite.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-latrinite.fr",
     "slug": "la-trinite",
@@ -198,7 +200,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Rivière-Pilote",
+    "name": "Riviere-Pilote",
     "url": "https://rivierepilote.fr",
     "icon": "https://favicons.githubusercontent.com/rivierepilote.fr",
     "slug": "riviere-pilote",
@@ -216,22 +218,24 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Rivière-Salée",
+    "name": "Riviere-Salee",
     "url": "http://riviere-salee.fr",
     "icon": "https://favicons.githubusercontent.com/riviere-salee.fr",
     "slug": "riviere-salee",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 2694,
     "timeDay": 2694,
     "timeWeek": 2694,
     "timeMonth": 2694,
     "timeYear": 2694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-17": 1
+    }
   },
   {
     "name": "Saint-Pierre",
@@ -252,7 +256,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Les Anses d'Arlet",
+    "name": "Les Anses d Arlet",
     "url": "https://ville-ansesdarlet.fr",
     "icon": "https://favicons.githubusercontent.com/ville-ansesdarlet.fr",
     "slug": "les-anses-d-arlet",
@@ -324,7 +328,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Le François",
+    "name": "Le Francois",
     "url": "https://www.ville-francois.fr",
     "icon": "https://favicons.githubusercontent.com/www.ville-francois.fr",
     "slug": "le-francois",
@@ -414,7 +418,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Comité Martiniquais du tourisme",
+    "name": "Comite Martiniquais du tourisme",
     "url": "https://www.martinique.org",
     "icon": "https://favicons.githubusercontent.com/www.martinique.org",
     "slug": "comite-martiniquais-du-tourisme",
@@ -491,18 +495,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cesecem.mq",
     "slug": "cesecem",
     "status": "down",
-    "uptime": "1.10%",
-    "uptimeDay": "1.10%",
-    "uptimeWeek": "1.10%",
-    "uptimeMonth": "1.10%",
-    "uptimeYear": "1.10%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-17": 2
+      "2022-04-17": 137
     }
   },
   {
@@ -524,7 +528,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Maison Martiniquaise des Personnes en situation d’Handicap",
+    "name": "Maison Martiniquaise des Personnes en situation d Handicap",
     "url": "https://mdph972.fr",
     "icon": "https://favicons.githubusercontent.com/mdph972.fr",
     "slug": "maison-martiniquaise-des-personnes-en-situation-d-handicap",
@@ -542,7 +546,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Association de Gestion de l’Environnement de la Formation en Martinique",
+    "name": "Association de Gestion de l Environnement de la Formation en Martinique",
     "url": "https://www.agefma.mq",
     "icon": "https://favicons.githubusercontent.com/www.agefma.mq",
     "slug": "association-de-gestion-de-l-environnement-de-la-formation-en-martinique",
@@ -578,7 +582,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Martinique Développement",
+    "name": "Martinique Developpement",
     "url": "https://www.martiniquedev.fr",
     "icon": "https://favicons.githubusercontent.com/www.martiniquedev.fr",
     "slug": "martinique-developpement",
@@ -596,7 +600,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Campus Caraïbéen des Arts",
+    "name": "Campus Caraibeen des Arts",
     "url": "https://cca-martinique.com",
     "icon": "https://favicons.githubusercontent.com/cca-martinique.com",
     "slug": "campus-caraibeen-des-arts",
@@ -632,27 +636,27 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Pôle Agro-Ressource de Martinique",
+    "name": "Pole Agro-Ressource de Martinique",
     "url": "http://www.parm.asso.fr",
     "icon": "https://favicons.githubusercontent.com/www.parm.asso.fr",
     "slug": "pole-agro-ressource-de-martinique",
     "status": "down",
-    "uptime": "29.67%",
-    "uptimeDay": "29.67%",
-    "uptimeWeek": "29.67%",
-    "uptimeMonth": "29.67%",
-    "uptimeYear": "29.67%",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-17": 1
+      "2022-04-17": 137
     }
   },
   {
-    "name": "Biodiversité Martinique",
+    "name": "Biodiversite Martinique",
     "url": "http://www.biodiversite-martinique.fr",
     "icon": "https://favicons.githubusercontent.com/www.biodiversite-martinique.fr",
     "slug": "biodiversite-martinique",
@@ -742,7 +746,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Hyppodrome de Carrère",
+    "name": "Hyppodrome de Carrere",
     "url": "http://hippodromedecarrere.fr",
     "icon": "https://favicons.githubusercontent.com/hippodromedecarrere.fr",
     "slug": "hyppodrome-de-carrere",
