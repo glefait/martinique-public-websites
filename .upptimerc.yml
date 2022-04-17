@@ -19,6 +19,76 @@ sites:
     url: https://saintjoseph972.com
   - name: Le Lamentin
     url: http://www.mairie-lelamentin.fr
+  - name: Sainte-Luce
+    url: https://www.sainteluce.fr
+  - name: La Trinité
+    url: https://www.mairie-latrinite.fr
+  - name: Le Vauclin
+    url: http://ville-vauclin.fr
+  - name: Rivière-Pilote
+    url: https://rivierepilote.fr
+  - name: Rivière-Salée
+    url: http://riviere-salee.fr
+  - name: Saint-Pierre
+    url: https://saintpierre-mq.fr
+  - name: Les Anses d'Arlet
+    url: https://ville-ansesdarlet.fr
+  - name: Trois-Ilets
+    url: https://villedestroisilets.com
+  - name: Le Carbet
+    url: https://www.villeducarbet.fr
+  - name: Le Lorrain
+    url: https://villedulorrain.com
+  - name: Le François
+    url: https://www.ville-francois.fr
+  - name: Le Robert
+    url: https://www.ville-robert.fr
+  - name: Sainte-Marie
+    url: https://www.ville-saintemarie.fr
+  - name: Case-Pilote
+    url: https://mairiecasepilote.fr
+  - name: Morne-Vert
+    url: https://www.morne-vert.fr
+  - name: Comité Martiniquais du tourisme
+    url: https://www.martinique.org
+  - name: Martinique Transport
+    url: http://www.martiniquetransport.mq
+  - name: Observatoire Eau Martinique
+    url: https://www.observatoire-eau-martinique.fr
+  - name: Odyssi
+    url: https://www.odyssi.fr
+  - name: cesecem
+    url: http://www.cesecem.mq
+  - name: Parc Naturel Regional de la Martinique
+    url: http://pnr-martinique.com
+  - name: Maison Martiniquaise des Personnes en situation d’Handicap
+    url: https://mdph972.fr
+  - name: Association de Gestion de l’Environnement de la Formation en Martinique
+    url: https://www.agefma.mq
+  - name: Tropiques Atrium
+    url: https://tropiques-atrium.fr
+  - name: Martinique Développement
+    url: https://www.martiniquedev.fr
+  - name: Campus Caraïbéen des Arts
+    url: https://cca-martinique.com
+  - name: Technopole Martinique
+    url: https://www.technopolemartinique.org
+  - name: Pôle Agro-Ressource de Martinique
+    url: http://www.parm.asso.fr
+  - name: Biodiversité Martinique
+    url: http://www.biodiversite-martinique.fr
+  - name: Initiative Martinique Active
+    url: http://www.initiative-martinique.com
+  - name: Institut Martiniquais du Sport
+    url: https://www.ims.mq
+  - name: ADIL Martinique
+    url: https://www.adilmartinique.org
+  - name: Institut Martiniquais de formation professionnelle pour adultes
+    url: https://imfpa.mq
+  - name: Hyppodrome de Carrère
+    url: http://hippodromedecarrere.fr
+  - name: Le Galion
+    url: http://saem-legalion.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,8 +96,8 @@ status-website:
   baseUrl: /martinique-public-websites
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Martinique public websites monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Monitor Martinique's public websites"
+  introMessage: Based on **[upptime](https://github.com/upptime/upptime)**. Contribute on the public github repository [martinique-public-websites](https://github.com/glefait/martinique-public-websites).
   navbar:
     - title: Status
       href: /
