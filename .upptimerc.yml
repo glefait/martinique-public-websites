@@ -5,6 +5,20 @@ repo: martinique-public-websites # The name of this repository
 sites:
   - name: CTM
     url: https://www.collectivitedemartinique.mq
+  - name: CACEM
+    url: https://www.cacem.fr
+  - name: Espace Sud
+    url: http://espacesud.fr
+  - name: Cap Nord
+    url: http://www.capnordmartinique.fr
+  - name: Fort-de-France
+    url: https://www.fortdefrance.fr
+  - name: Schoelcher
+    url: https://www.mairie-schoelcher.fr
+  - name: Saint-Joseph
+    url: https://saintjoseph972.com
+  - name: Le Lamentin
+    url: http://www.mairie-lelamentin.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
