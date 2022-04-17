@@ -21,17 +21,17 @@ sites:
     url: http://www.mairie-lelamentin.fr
   - name: Sainte-Luce
     url: https://www.sainteluce.fr
-  - name: La Trinité
+  - name: La Trinite
     url: https://www.mairie-latrinite.fr
   - name: Le Vauclin
     url: http://ville-vauclin.fr
-  - name: Rivière-Pilote
+  - name: Riviere-Pilote
     url: https://rivierepilote.fr
-  - name: Rivière-Salée
+  - name: Riviere-Salee
     url: http://riviere-salee.fr
   - name: Saint-Pierre
     url: https://saintpierre-mq.fr
-  - name: Les Anses d'Arlet
+  - name: Les Anses d Arlet
     url: https://ville-ansesdarlet.fr
   - name: Trois-Ilets
     url: https://villedestroisilets.com
@@ -39,7 +39,7 @@ sites:
     url: https://www.villeducarbet.fr
   - name: Le Lorrain
     url: https://villedulorrain.com
-  - name: Le François
+  - name: Le Francois
     url: https://www.ville-francois.fr
   - name: Le Robert
     url: https://www.ville-robert.fr
@@ -49,7 +49,7 @@ sites:
     url: https://mairiecasepilote.fr
   - name: Morne-Vert
     url: https://www.morne-vert.fr
-  - name: Comité Martiniquais du tourisme
+  - name: Comite Martiniquais du tourisme
     url: https://www.martinique.org
   - name: Martinique Transport
     url: http://www.martiniquetransport.mq
@@ -61,21 +61,21 @@ sites:
     url: http://www.cesecem.mq
   - name: Parc Naturel Regional de la Martinique
     url: http://pnr-martinique.com
-  - name: Maison Martiniquaise des Personnes en situation d’Handicap
+  - name: Maison Martiniquaise des Personnes en situation d Handicap
     url: https://mdph972.fr
-  - name: Association de Gestion de l’Environnement de la Formation en Martinique
+  - name: Association de Gestion de l Environnement de la Formation en Martinique
     url: https://www.agefma.mq
   - name: Tropiques Atrium
     url: https://tropiques-atrium.fr
-  - name: Martinique Développement
+  - name: Martinique Developpement
     url: https://www.martiniquedev.fr
-  - name: Campus Caraïbéen des Arts
+  - name: Campus Caraibeen des Arts
     url: https://cca-martinique.com
   - name: Technopole Martinique
     url: https://www.technopolemartinique.org
-  - name: Pôle Agro-Ressource de Martinique
+  - name: Pole Agro-Ressource de Martinique
     url: http://www.parm.asso.fr
-  - name: Biodiversité Martinique
+  - name: Biodiversite Martinique
     url: http://www.biodiversite-martinique.fr
   - name: Initiative Martinique Active
     url: http://www.initiative-martinique.com
@@ -85,7 +85,7 @@ sites:
     url: https://www.adilmartinique.org
   - name: Institut Martiniquais de formation professionnelle pour adultes
     url: https://imfpa.mq
-  - name: Hyppodrome de Carrère
+  - name: Hyppodrome de Carrere
     url: http://hippodromedecarrere.fr
   - name: Le Galion
     url: http://saem-legalion.net
