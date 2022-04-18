@@ -94,19 +94,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
-    "status": "down",
-    "uptime": "89.84%",
-    "uptimeDay": "88.48%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "89.84%",
-    "uptimeYear": "89.84%",
-    "time": 1322,
-    "timeDay": 1323,
-    "timeWeek": 1322,
-    "timeMonth": 1322,
-    "timeYear": 1322,
+    "status": "up",
+    "uptime": "89.43%",
+    "uptimeDay": "87.94%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "89.43%",
+    "time": 1319,
+    "timeDay": 1348,
+    "timeWeek": 1319,
+    "timeMonth": 1319,
+    "timeYear": 1319,
     "dailyMinutesDown": {
-      "2022-04-18": 20,
+      "2022-04-18": 28,
       "2022-04-17": 146
     }
   },
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 1019,
+      "2022-04-18": 1029,
       "2022-04-17": 198
     }
   },
@@ -652,7 +652,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 1019,
+      "2022-04-18": 1029,
       "2022-04-17": 197
     }
   },
