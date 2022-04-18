@@ -97,6 +97,8 @@ sites:
     url: https://www.milcem.com
   - name: Office du tourisme du centre de la Martinique
     url: https://tourisme-centre.fr
+  - name: Préfecture de la Martinique
+    url: https://www.martinique.gouv.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
