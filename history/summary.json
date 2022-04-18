@@ -94,19 +94,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
-    "status": "up",
-    "uptime": "90.04%",
-    "uptimeDay": "87.82%",
-    "uptimeWeek": "90.04%",
-    "uptimeMonth": "90.04%",
-    "uptimeYear": "90.04%",
+    "status": "down",
+    "uptime": "90.40%",
+    "uptimeDay": "90.65%",
+    "uptimeWeek": "90.40%",
+    "uptimeMonth": "90.40%",
+    "uptimeYear": "90.40%",
     "time": 1271,
     "timeDay": 1308,
     "timeWeek": 1271,
     "timeMonth": 1271,
     "timeYear": 1271,
     "dailyMinutesDown": {
-      "2022-04-18": 40,
+      "2022-04-18": 37,
       "2022-04-17": 146
     }
   },
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 1256,
+      "2022-04-18": 1294,
       "2022-04-17": 198
     }
   },
@@ -641,18 +641,18 @@
     "icon": "https://favicons.githubusercontent.com/www.parm.asso.fr",
     "slug": "pole-agro-ressource-de-martinique",
     "status": "down",
-    "uptime": "0.04%",
+    "uptime": "0.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 1256,
+      "2022-04-18": 1294,
       "2022-04-17": 197
     }
   },
