@@ -94,19 +94,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
-    "status": "down",
-    "uptime": "83.87%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "83.87%",
-    "uptimeMonth": "83.87%",
-    "uptimeYear": "83.87%",
-    "time": 1263,
-    "timeDay": 1263,
-    "timeWeek": 1263,
-    "timeMonth": 1263,
-    "timeYear": 1263,
+    "status": "up",
+    "uptime": "82.49%",
+    "uptimeDay": "82.49%",
+    "uptimeWeek": "82.49%",
+    "uptimeMonth": "82.49%",
+    "uptimeYear": "82.49%",
+    "time": 1207,
+    "timeDay": 1207,
+    "timeWeek": 1207,
+    "timeMonth": 1207,
+    "timeYear": 1207,
     "dailyMinutesDown": {
-      "2022-04-18": 2,
+      "2022-04-18": 18,
       "2022-04-17": 146
     }
   },
@@ -350,19 +350,17 @@
     "icon": "https://favicons.githubusercontent.com/www.ville-robert.fr",
     "slug": "le-robert",
     "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "98.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4196,
     "timeDay": 4196,
     "timeWeek": 4196,
     "timeMonth": 4196,
     "timeYear": 4196,
-    "dailyMinutesDown": {
-      "2022-04-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sainte-Marie",
@@ -496,18 +494,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cesecem.mq",
     "slug": "cesecem",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 306,
+      "2022-04-18": 323,
       "2022-04-17": 198
     }
   },
@@ -654,7 +652,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 306,
+      "2022-04-18": 323,
       "2022-04-17": 197
     }
   },
@@ -826,19 +824,17 @@
     "icon": "https://favicons.githubusercontent.com/www.milcem.com",
     "slug": "mission-locale-du-centre-de-la-martinique",
     "status": "up",
-    "uptime": "97.96%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "97.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1255,
     "timeDay": 1255,
     "timeWeek": 1255,
     "timeMonth": 1255,
     "timeYear": 1255,
-    "dailyMinutesDown": {
-      "2022-04-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Office du tourisme du centre de la Martinique",
