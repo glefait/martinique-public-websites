@@ -95,13 +95,13 @@
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
     "status": "up",
-    "uptime": "94.73%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "94.73%",
-    "uptimeYear": "94.73%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "94.80%",
     "time": 1255,
-    "timeDay": 1189,
+    "timeDay": 1203,
     "timeWeek": 1255,
     "timeMonth": 1255,
     "timeYear": 1255,
@@ -422,19 +422,17 @@
     "icon": "https://favicons.githubusercontent.com/www.martinique.org",
     "slug": "comite-martiniquais-du-tourisme",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1057,
     "timeDay": 884,
     "timeWeek": 1057,
     "timeMonth": 1057,
     "timeYear": 1057,
-    "dailyMinutesDown": {
-      "2022-04-19": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Martinique Transport",
@@ -507,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1384,
+      "2022-04-19": 1431,
       "2022-04-18": 1440,
       "2022-04-17": 198
     }
@@ -655,7 +653,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1385,
+      "2022-04-19": 1431,
       "2022-04-18": 1440,
       "2022-04-17": 197
     }
@@ -737,7 +735,7 @@
     "url": "https://imfpa.mq",
     "icon": "https://favicons.githubusercontent.com/imfpa.mq",
     "slug": "institut-martiniquais-de-formation-professionnelle-pour-adultes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
