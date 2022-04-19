@@ -94,18 +94,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
-    "status": "up",
-    "uptime": "94.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "94.59%",
+    "status": "down",
+    "uptime": "94.62%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "94.62%",
+    "uptimeYear": "94.62%",
     "time": 1268,
     "timeDay": 1237,
     "timeWeek": 1268,
     "timeMonth": 1268,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2022-04-19": 2,
       "2022-04-18": 35,
       "2022-04-17": 146
     }
@@ -505,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1298,
+      "2022-04-19": 1349,
       "2022-04-18": 1440,
       "2022-04-17": 198
     }
@@ -653,7 +654,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1298,
+      "2022-04-19": 1349,
       "2022-04-18": 1440,
       "2022-04-17": 197
     }
@@ -664,19 +665,17 @@
     "icon": "https://favicons.githubusercontent.com/www.biodiversite-martinique.fr",
     "slug": "biodiversite-martinique",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1955,
     "timeDay": 2078,
     "timeWeek": 1955,
     "timeMonth": 1955,
     "timeYear": 1955,
-    "dailyMinutesDown": {
-      "2022-04-19": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Initiative Martinique Active",
