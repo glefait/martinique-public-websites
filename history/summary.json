@@ -95,11 +95,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
     "status": "up",
-    "uptime": "94.80%",
+    "uptime": "94.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "94.80%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "94.81%",
     "time": 1255,
     "timeDay": 1203,
     "timeWeek": 1255,
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1431,
+      "2022-04-19": 1437,
       "2022-04-18": 1440,
       "2022-04-17": 198
     }
@@ -653,7 +653,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1431,
+      "2022-04-19": 1437,
       "2022-04-18": 1440,
       "2022-04-17": 197
     }
@@ -735,17 +735,17 @@
     "url": "https://imfpa.mq",
     "icon": "https://favicons.githubusercontent.com/imfpa.mq",
     "slug": "institut-martiniquais-de-formation-professionnelle-pour-adultes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4719,
-    "timeDay": 4478,
-    "timeWeek": 4719,
-    "timeMonth": 4719,
-    "timeYear": 4719,
+    "time": 4621,
+    "timeDay": 4354,
+    "timeWeek": 4621,
+    "timeMonth": 4621,
+    "timeYear": 4621,
     "dailyMinutesDown": {}
   },
   {
