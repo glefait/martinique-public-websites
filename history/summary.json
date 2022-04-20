@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
     "status": "up",
-    "uptime": "94.95%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "94.95%",
-    "uptimeYear": "94.95%",
+    "uptime": "95.23%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "95.23%",
     "time": 1369,
     "timeDay": 1493,
     "timeWeek": 1369,
     "timeMonth": 1369,
     "timeYear": 1369,
     "dailyMinutesDown": {
-      "2022-04-20": 48,
+      "2022-04-20": 36,
       "2022-04-18": 35,
       "2022-04-17": 146
     }
@@ -506,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 1030,
+      "2022-04-20": 1055,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 198
@@ -655,7 +655,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 1030,
+      "2022-04-20": 1055,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 197
@@ -720,18 +720,20 @@
     "url": "https://www.adilmartinique.org",
     "icon": "https://favicons.githubusercontent.com/www.adilmartinique.org",
     "slug": "adil-martinique",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1312,
-    "timeDay": 1327,
-    "timeWeek": 1312,
-    "timeMonth": 1312,
-    "timeYear": 1312,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1283,
+    "timeDay": 1249,
+    "timeWeek": 1283,
+    "timeMonth": 1283,
+    "timeYear": 1283,
+    "dailyMinutesDown": {
+      "2022-04-20": 0
+    }
   },
   {
     "name": "Institut Martiniquais de formation professionnelle pour adultes",
