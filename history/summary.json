@@ -94,19 +94,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
-    "status": "up",
-    "uptime": "95.10%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
+    "status": "down",
+    "uptime": "95.09%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "95.09%",
+    "uptimeYear": "95.09%",
     "time": 1238,
     "timeDay": 1100,
     "timeWeek": 1238,
     "timeMonth": 1238,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2022-04-20": 36,
+      "2022-04-20": 38,
       "2022-04-18": 35,
       "2022-04-17": 146
     }
@@ -153,19 +153,17 @@
     "icon": "https://favicons.githubusercontent.com/www.sainteluce.fr",
     "slug": "sainte-luce",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1388,
     "timeDay": 1658,
     "timeWeek": 1388,
     "timeMonth": 1388,
     "timeYear": 1388,
-    "dailyMinutesDown": {
-      "2022-04-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "La Trinite",
@@ -508,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 934,
+      "2022-04-20": 963,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 198
@@ -657,7 +655,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 934,
+      "2022-04-20": 963,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 197
