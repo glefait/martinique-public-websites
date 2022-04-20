@@ -95,11 +95,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
     "status": "up",
-    "uptime": "95.09%",
+    "uptime": "95.10%",
     "uptimeDay": "97.51%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "95.09%",
-    "uptimeYear": "95.09%",
+    "uptimeWeek": "95.10%",
+    "uptimeMonth": "95.10%",
+    "uptimeYear": "95.10%",
     "time": 1238,
     "timeDay": 1100,
     "timeWeek": 1238,
@@ -152,19 +152,19 @@
     "url": "https://www.sainteluce.fr",
     "icon": "https://favicons.githubusercontent.com/www.sainteluce.fr",
     "slug": "sainte-luce",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1506,
-    "timeDay": 1901,
-    "timeWeek": 1506,
-    "timeMonth": 1506,
-    "timeYear": 1506,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 1388,
+    "timeDay": 1658,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
     "dailyMinutesDown": {
-      "2022-04-20": 2
+      "2022-04-20": 11
     }
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 923,
+      "2022-04-20": 934,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 198
@@ -657,7 +657,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 923,
+      "2022-04-20": 934,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 197
