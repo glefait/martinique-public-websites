@@ -509,7 +509,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-21": 650,
+      "2022-04-21": 656,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
@@ -629,19 +629,19 @@
     "url": "https://www.technopolemartinique.org",
     "icon": "https://favicons.githubusercontent.com/www.technopolemartinique.org",
     "slug": "technopole-martinique",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1374,
-    "timeDay": 1020,
-    "timeWeek": 1374,
-    "timeMonth": 1374,
-    "timeYear": 1374,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1490,
+    "timeDay": 1408,
+    "timeWeek": 1490,
+    "timeMonth": 1490,
+    "timeYear": 1490,
     "dailyMinutesDown": {
-      "2022-04-21": 1
+      "2022-04-21": 6
     }
   },
   {
@@ -661,7 +661,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-21": 650,
+      "2022-04-21": 656,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
