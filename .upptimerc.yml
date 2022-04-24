@@ -59,6 +59,7 @@ sites:
     url: https://www.odyssi.fr
   - name: cesecem
     url: http://www.cesecem.mq
+    __dangerous__insecure: true
   - name: Parc Naturel Regional de la Martinique
     url: http://pnr-martinique.com
   - name: Maison Martiniquaise des Personnes en situation d Handicap
