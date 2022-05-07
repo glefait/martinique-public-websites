@@ -75,7 +75,7 @@ sites:
   - name: Technopole Martinique
     url: https://www.technopolemartinique.org
   - name: Pole Agro-Ressource de Martinique
-    url: http://www.parm.asso.fr
+    url: https://parm.mq
   - name: Biodiversite Martinique
     url: http://www.biodiversite-martinique.fr
   - name: Initiative Martinique Active
