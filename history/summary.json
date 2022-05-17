@@ -297,19 +297,17 @@
     "icon": "https://favicons.githubusercontent.com/villedestroisilets.com",
     "slug": "trois-ilets",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1397,
     "timeDay": 1053,
     "timeWeek": 1222,
     "timeMonth": 1397,
     "timeYear": 1397,
-    "dailyMinutesDown": {
-      "2022-05-17": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Le Carbet",
@@ -600,18 +598,20 @@
     "url": "https://tropiques-atrium.fr",
     "icon": "https://favicons.githubusercontent.com/tropiques-atrium.fr",
     "slug": "tropiques-atrium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2826,
-    "timeDay": 1620,
-    "timeWeek": 2424,
-    "timeMonth": 2826,
-    "timeYear": 2826,
-    "dailyMinutesDown": {}
+    "time": 2763,
+    "timeDay": 1153,
+    "timeWeek": 2231,
+    "timeMonth": 2763,
+    "timeYear": 2763,
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "Martinique Developpement",
@@ -677,8 +677,8 @@
     "slug": "pole-agro-ressource-de-martinique",
     "status": "down",
     "uptime": "30.67%",
-    "uptimeDay": "38.48%",
-    "uptimeWeek": "91.21%",
+    "uptimeDay": "38.07%",
+    "uptimeWeek": "91.15%",
     "uptimeMonth": "30.67%",
     "uptimeYear": "30.67%",
     "time": 1240,
@@ -687,7 +687,7 @@
     "timeMonth": 1240,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2022-05-17": 886,
+      "2022-05-17": 892,
       "2022-05-07": 1266,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
