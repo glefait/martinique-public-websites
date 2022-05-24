@@ -13,7 +13,7 @@
     "time": 1329,
     "timeDay": 954,
     "timeWeek": 960,
-    "timeMonth": 1401,
+    "timeMonth": 1402,
     "timeYear": 1329,
     "dailyMinutesDown": {
       "2022-04-28": 19
@@ -33,7 +33,7 @@
     "time": 2020,
     "timeDay": 7123,
     "timeWeek": 3396,
-    "timeMonth": 2140,
+    "timeMonth": 2122,
     "timeYear": 2020,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 1372,
     "timeDay": 1419,
     "timeWeek": 1312,
-    "timeMonth": 1332,
+    "timeMonth": 1338,
     "timeYear": 1372,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 800,
     "timeDay": 535,
     "timeWeek": 659,
-    "timeMonth": 813,
+    "timeMonth": 789,
     "timeYear": 800,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 1040,
     "timeDay": 727,
     "timeWeek": 869,
-    "timeMonth": 1054,
+    "timeMonth": 1046,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2022-05-05": 44,
@@ -100,18 +100,17 @@
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
     "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "98.56%",
+    "uptime": "98.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "98.58%",
     "time": 1601,
     "timeDay": 1081,
     "timeWeek": 1123,
-    "timeMonth": 1614,
+    "timeMonth": 1613,
     "timeYear": 1601,
     "dailyMinutesDown": {
-      "2022-05-24": 9,
       "2022-04-29": 59,
       "2022-04-28": 84,
       "2022-04-27": 22,
@@ -138,7 +137,7 @@
     "time": 2448,
     "timeDay": 1859,
     "timeWeek": 3371,
-    "timeMonth": 2611,
+    "timeMonth": 2591,
     "timeYear": 2448,
     "dailyMinutesDown": {}
   },
@@ -156,7 +155,7 @@
     "time": 1773,
     "timeDay": 1492,
     "timeWeek": 1677,
-    "timeMonth": 1811,
+    "timeMonth": 1809,
     "timeYear": 1773,
     "dailyMinutesDown": {}
   },
@@ -174,7 +173,7 @@
     "time": 897,
     "timeDay": 452,
     "timeWeek": 642,
-    "timeMonth": 772,
+    "timeMonth": 762,
     "timeYear": 897,
     "dailyMinutesDown": {}
   },
@@ -192,7 +191,7 @@
     "time": 817,
     "timeDay": 425,
     "timeWeek": 587,
-    "timeMonth": 825,
+    "timeMonth": 815,
     "timeYear": 817,
     "dailyMinutesDown": {}
   },
@@ -210,7 +209,7 @@
     "time": 2306,
     "timeDay": 2267,
     "timeWeek": 1325,
-    "timeMonth": 2330,
+    "timeMonth": 2376,
     "timeYear": 2306,
     "dailyMinutesDown": {
       "2022-05-05": 45
@@ -230,7 +229,7 @@
     "time": 630,
     "timeDay": 548,
     "timeWeek": 533,
-    "timeMonth": 631,
+    "timeMonth": 625,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2022-04-28": 27
@@ -250,7 +249,7 @@
     "time": 5140,
     "timeDay": 1505,
     "timeWeek": 4413,
-    "timeMonth": 4405,
+    "timeMonth": 4488,
     "timeYear": 5140,
     "dailyMinutesDown": {}
   },
@@ -268,7 +267,7 @@
     "time": 1214,
     "timeDay": 860,
     "timeWeek": 1013,
-    "timeMonth": 1206,
+    "timeMonth": 1198,
     "timeYear": 1214,
     "dailyMinutesDown": {
       "2022-04-26": 17
@@ -288,7 +287,7 @@
     "time": 1683,
     "timeDay": 1825,
     "timeWeek": 1633,
-    "timeMonth": 1694,
+    "timeMonth": 1683,
     "timeYear": 1683,
     "dailyMinutesDown": {}
   },
@@ -306,7 +305,7 @@
     "time": 1369,
     "timeDay": 1152,
     "timeWeek": 1176,
-    "timeMonth": 1376,
+    "timeMonth": 1371,
     "timeYear": 1369,
     "dailyMinutesDown": {}
   },
@@ -324,7 +323,7 @@
     "time": 1245,
     "timeDay": 1077,
     "timeWeek": 1032,
-    "timeMonth": 1271,
+    "timeMonth": 1267,
     "timeYear": 1245,
     "dailyMinutesDown": {}
   },
@@ -342,7 +341,7 @@
     "time": 3581,
     "timeDay": 3606,
     "timeWeek": 3405,
-    "timeMonth": 3592,
+    "timeMonth": 3584,
     "timeYear": 3581,
     "dailyMinutesDown": {
       "2022-05-12": 51
@@ -362,7 +361,7 @@
     "time": 957,
     "timeDay": 635,
     "timeWeek": 722,
-    "timeMonth": 985,
+    "timeMonth": 983,
     "timeYear": 957,
     "dailyMinutesDown": {}
   },
@@ -380,7 +379,7 @@
     "time": 2629,
     "timeDay": 2071,
     "timeWeek": 2234,
-    "timeMonth": 2505,
+    "timeMonth": 2496,
     "timeYear": 2629,
     "dailyMinutesDown": {}
   },
@@ -398,7 +397,7 @@
     "time": 707,
     "timeDay": 497,
     "timeWeek": 591,
-    "timeMonth": 711,
+    "timeMonth": 707,
     "timeYear": 707,
     "dailyMinutesDown": {}
   },
@@ -416,7 +415,7 @@
     "time": 1451,
     "timeDay": 963,
     "timeWeek": 1338,
-    "timeMonth": 1469,
+    "timeMonth": 1461,
     "timeYear": 1451,
     "dailyMinutesDown": {}
   },
@@ -434,7 +433,7 @@
     "time": 2944,
     "timeDay": 2343,
     "timeWeek": 2564,
-    "timeMonth": 2913,
+    "timeMonth": 2880,
     "timeYear": 2944,
     "dailyMinutesDown": {}
   },
@@ -452,7 +451,7 @@
     "time": 1129,
     "timeDay": 725,
     "timeWeek": 744,
-    "timeMonth": 1133,
+    "timeMonth": 1064,
     "timeYear": 1129,
     "dailyMinutesDown": {}
   },
@@ -470,7 +469,7 @@
     "time": 2774,
     "timeDay": 1638,
     "timeWeek": 3061,
-    "timeMonth": 2864,
+    "timeMonth": 2892,
     "timeYear": 2774,
     "dailyMinutesDown": {
       "2022-04-28": 51
@@ -490,7 +489,7 @@
     "time": 1250,
     "timeDay": 1672,
     "timeWeek": 1144,
-    "timeMonth": 1264,
+    "timeMonth": 1258,
     "timeYear": 1250,
     "dailyMinutesDown": {}
   },
@@ -508,7 +507,7 @@
     "time": 946,
     "timeDay": 1020,
     "timeWeek": 787,
-    "timeMonth": 926,
+    "timeMonth": 917,
     "timeYear": 946,
     "dailyMinutesDown": {}
   },
@@ -518,15 +517,15 @@
     "icon": "https://favicons.githubusercontent.com/www.cesecem.mq",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "81.76%",
+    "uptime": "81.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "81.76%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "81.79%",
     "time": 1904,
     "timeDay": 2116,
     "timeWeek": 2055,
-    "timeMonth": 1904,
+    "timeMonth": 1887,
     "timeYear": 1904,
     "dailyMinutesDown": {
       "2022-04-28": 49,
@@ -554,7 +553,7 @@
     "time": 1621,
     "timeDay": 1418,
     "timeWeek": 1501,
-    "timeMonth": 1612,
+    "timeMonth": 1596,
     "timeYear": 1621,
     "dailyMinutesDown": {}
   },
@@ -572,7 +571,7 @@
     "time": 799,
     "timeDay": 543,
     "timeWeek": 608,
-    "timeMonth": 817,
+    "timeMonth": 754,
     "timeYear": 799,
     "dailyMinutesDown": {}
   },
@@ -590,7 +589,7 @@
     "time": 1132,
     "timeDay": 1016,
     "timeWeek": 933,
-    "timeMonth": 1128,
+    "timeMonth": 1124,
     "timeYear": 1132,
     "dailyMinutesDown": {}
   },
@@ -608,7 +607,7 @@
     "time": 2683,
     "timeDay": 1706,
     "timeWeek": 2212,
-    "timeMonth": 2806,
+    "timeMonth": 2834,
     "timeYear": 2683,
     "dailyMinutesDown": {}
   },
@@ -626,7 +625,7 @@
     "time": 1645,
     "timeDay": 1447,
     "timeWeek": 1304,
-    "timeMonth": 1628,
+    "timeMonth": 1609,
     "timeYear": 1645,
     "dailyMinutesDown": {}
   },
@@ -644,7 +643,7 @@
     "time": 1182,
     "timeDay": 965,
     "timeWeek": 994,
-    "timeMonth": 1194,
+    "timeMonth": 1186,
     "timeYear": 1182,
     "dailyMinutesDown": {}
   },
@@ -662,7 +661,7 @@
     "time": 1827,
     "timeDay": 1544,
     "timeWeek": 2038,
-    "timeMonth": 1895,
+    "timeMonth": 1898,
     "timeYear": 1827,
     "dailyMinutesDown": {
       "2022-05-12": 16,
@@ -674,19 +673,19 @@
     "url": "https://parm.mq",
     "icon": "https://favicons.githubusercontent.com/parm.mq",
     "slug": "pole-agro-ressource-de-martinique",
-    "status": "down",
-    "uptime": "24.91%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
+    "status": "up",
+    "uptime": "24.87%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.01%",
     "uptimeMonth": "31.39%",
-    "uptimeYear": "24.91%",
-    "time": 1240,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 1240,
-    "timeYear": 1240,
+    "uptimeYear": "24.87%",
+    "time": 1282,
+    "timeDay": 1737,
+    "timeWeek": 1737,
+    "timeMonth": 1282,
+    "timeYear": 1282,
     "dailyMinutesDown": {
-      "2022-05-24": 730,
+      "2022-05-24": 828,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -731,7 +730,7 @@
     "time": 1991,
     "timeDay": 1813,
     "timeWeek": 1802,
-    "timeMonth": 1993,
+    "timeMonth": 1992,
     "timeYear": 1991,
     "dailyMinutesDown": {}
   },
@@ -749,7 +748,7 @@
     "time": 3954,
     "timeDay": 3230,
     "timeWeek": 3570,
-    "timeMonth": 3947,
+    "timeMonth": 3912,
     "timeYear": 3954,
     "dailyMinutesDown": {}
   },
@@ -767,7 +766,7 @@
     "time": 2501,
     "timeDay": 1636,
     "timeWeek": 1929,
-    "timeMonth": 2496,
+    "timeMonth": 2480,
     "timeYear": 2501,
     "dailyMinutesDown": {}
   },
@@ -785,7 +784,7 @@
     "time": 1486,
     "timeDay": 1369,
     "timeWeek": 1344,
-    "timeMonth": 1490,
+    "timeMonth": 1484,
     "timeYear": 1486,
     "dailyMinutesDown": {}
   },
@@ -821,7 +820,7 @@
     "time": 2753,
     "timeDay": 2508,
     "timeWeek": 2135,
-    "timeMonth": 2648,
+    "timeMonth": 2607,
     "timeYear": 2753,
     "dailyMinutesDown": {
       "2022-04-27": 73
@@ -841,7 +840,7 @@
     "time": 670,
     "timeDay": 567,
     "timeWeek": 489,
-    "timeMonth": 631,
+    "timeMonth": 625,
     "timeYear": 670,
     "dailyMinutesDown": {}
   },
@@ -859,7 +858,7 @@
     "time": 2486,
     "timeDay": 2266,
     "timeWeek": 2237,
-    "timeMonth": 2549,
+    "timeMonth": 2556,
     "timeYear": 2486,
     "dailyMinutesDown": {
       "2022-04-27": 838,
@@ -881,7 +880,7 @@
     "time": 500,
     "timeDay": 452,
     "timeWeek": 412,
-    "timeMonth": 501,
+    "timeMonth": 492,
     "timeYear": 500,
     "dailyMinutesDown": {}
   },
@@ -899,7 +898,7 @@
     "time": 903,
     "timeDay": 723,
     "timeWeek": 735,
-    "timeMonth": 893,
+    "timeMonth": 886,
     "timeYear": 903,
     "dailyMinutesDown": {}
   },
@@ -917,7 +916,7 @@
     "time": 1983,
     "timeDay": 1861,
     "timeWeek": 1802,
-    "timeMonth": 1922,
+    "timeMonth": 1894,
     "timeYear": 1983,
     "dailyMinutesDown": {}
   },
