@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.collectivitedemartinique.mq",
     "slug": "ctm",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.66%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 1258,
     "timeDay": 962,
     "timeWeek": 1102,
@@ -25,18 +25,20 @@
     "url": "https://www.cacem.fr",
     "icon": "https://favicons.githubusercontent.com/www.cacem.fr",
     "slug": "cacem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1856,
-    "timeDay": 1361,
-    "timeWeek": 1476,
-    "timeMonth": 2024,
-    "timeYear": 1856,
-    "dailyMinutesDown": {}
+    "time": 1839,
+    "timeDay": 1201,
+    "timeWeek": 1401,
+    "timeMonth": 1988,
+    "timeYear": 1839,
+    "dailyMinutesDown": {
+      "2022-06-16": 3
+    }
   },
   {
     "name": "Espace Sud",
@@ -64,10 +66,10 @@
     "url": "http://www.capnordmartinique.fr",
     "icon": "https://favicons.githubusercontent.com/www.capnordmartinique.fr",
     "slug": "cap-nord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
@@ -75,7 +77,9 @@
     "timeWeek": 736,
     "timeMonth": 732,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 2
+    }
   },
   {
     "name": "Fort-de-France",
@@ -103,10 +107,10 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-schoelcher.fr",
     "slug": "schoelcher",
-    "status": "up",
+    "status": "down",
     "uptime": "97.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "97.11%",
     "uptimeYear": "97.67%",
     "time": 1476,
@@ -115,6 +119,7 @@
     "timeMonth": 1218,
     "timeYear": 1476,
     "dailyMinutesDown": {
+      "2022-06-16": 2,
       "2022-06-13": 16,
       "2022-06-04": 23,
       "2022-06-03": 42,
@@ -158,11 +163,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mairie-lelamentin.fr",
     "slug": "le-lamentin",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.19%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.58%",
     "time": 1788,
     "timeDay": 1548,
     "timeWeek": 1836,
@@ -318,7 +323,7 @@
     "uptimeYear": "100.00%",
     "time": 1358,
     "timeDay": 1095,
-    "timeWeek": 1315,
+    "timeWeek": 1300,
     "timeMonth": 1288,
     "timeYear": 1358,
     "dailyMinutesDown": {}
@@ -385,10 +390,10 @@
     "url": "https://www.ville-robert.fr",
     "icon": "https://favicons.githubusercontent.com/www.ville-robert.fr",
     "slug": "le-robert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2589,
@@ -396,7 +401,9 @@
     "timeWeek": 2595,
     "timeMonth": 2448,
     "timeYear": 2589,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 1
+    }
   },
   {
     "name": "Sainte-Marie",
@@ -458,19 +465,17 @@
     "icon": "https://favicons.githubusercontent.com/www.martinique.org",
     "slug": "comite-martiniquais-du-tourisme",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1047,
     "timeDay": 853,
     "timeWeek": 925,
     "timeMonth": 900,
     "timeYear": 1047,
-    "dailyMinutesDown": {
-      "2022-06-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Martinique Transport",
@@ -695,11 +700,11 @@
     "icon": "https://favicons.githubusercontent.com/parm.mq",
     "slug": "pole-agro-ressource-de-martinique",
     "status": "up",
-    "uptime": "54.07%",
+    "uptime": "54.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "75.12%",
-    "uptimeYear": "54.07%",
+    "uptimeYear": "54.09%",
     "time": 1343,
     "timeDay": 901,
     "timeWeek": 1100,
@@ -762,18 +767,20 @@
     "url": "http://www.initiative-martinique.com",
     "icon": "https://favicons.githubusercontent.com/www.initiative-martinique.com",
     "slug": "initiative-martinique-active",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3795,
-    "timeDay": 2781,
-    "timeWeek": 3189,
-    "timeMonth": 3534,
-    "timeYear": 3795,
-    "dailyMinutesDown": {}
+    "time": 3750,
+    "timeDay": 2294,
+    "timeWeek": 2953,
+    "timeMonth": 3455,
+    "timeYear": 3750,
+    "dailyMinutesDown": {
+      "2022-06-16": 1
+    }
   },
   {
     "name": "Institut Martiniquais du Sport",
@@ -912,9 +919,9 @@
     "url": "https://www.milcem.com",
     "icon": "https://favicons.githubusercontent.com/www.milcem.com",
     "slug": "mission-locale-du-centre-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -923,7 +930,9 @@
     "timeWeek": 832,
     "timeMonth": 851,
     "timeYear": 900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Office du tourisme du centre de la Martinique",
