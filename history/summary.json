@@ -705,11 +705,11 @@
     "icon": "https://favicons.githubusercontent.com/parm.mq",
     "slug": "pole-agro-ressource-de-martinique",
     "status": "up",
-    "uptime": "63.29%",
+    "uptime": "63.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.29%",
+    "uptimeYear": "63.30%",
     "time": 1286,
     "timeDay": 1409,
     "timeWeek": 1193,
@@ -962,17 +962,15 @@
     "slug": "prefecture-de-la-martinique",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3087,
     "timeDay": 2834,
     "timeWeek": 2773,
     "timeMonth": 3257,
     "timeYear": 3087,
-    "dailyMinutesDown": {
-      "2022-07-01": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
