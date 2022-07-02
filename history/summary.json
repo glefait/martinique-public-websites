@@ -445,19 +445,19 @@
     "url": "https://www.morne-vert.fr",
     "icon": "https://favicons.githubusercontent.com/www.morne-vert.fr",
     "slug": "morne-vert",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2902,
-    "timeDay": 3857,
-    "timeWeek": 3003,
-    "timeMonth": 2817,
-    "timeYear": 2902,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2900,
+    "timeDay": 3298,
+    "timeWeek": 2970,
+    "timeMonth": 2814,
+    "timeYear": 2900,
     "dailyMinutesDown": {
-      "2022-07-02": 1
+      "2022-07-02": 9
     }
   },
   {
