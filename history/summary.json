@@ -469,9 +469,9 @@
     "slug": "comite-martiniquais-du-tourisme",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 1177,
     "timeDay": 3583,
@@ -479,7 +479,7 @@
     "timeMonth": 1274,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2022-07-06": 17,
+      "2022-07-06": 25,
       "2022-06-21": 24
     }
   },
@@ -597,7 +597,7 @@
     "url": "https://mdph972.fr",
     "icon": "https://favicons.githubusercontent.com/mdph972.fr",
     "slug": "maison-martiniquaise-des-personnes-en-situation-d-handicap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
