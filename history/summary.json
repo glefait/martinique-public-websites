@@ -467,11 +467,11 @@
     "url": "https://www.martinique.org",
     "icon": "https://favicons.githubusercontent.com/www.martinique.org",
     "slug": "comite-martiniquais-du-tourisme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "94.51%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.91%",
     "time": 1241,
     "timeDay": 2538,
@@ -479,7 +479,7 @@
     "timeMonth": 1388,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2022-07-06": 80,
+      "2022-07-06": 81,
       "2022-06-21": 24
     }
   },
