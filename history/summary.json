@@ -583,19 +583,19 @@
     "url": "http://pnr-martinique.com",
     "icon": "https://favicons.githubusercontent.com/pnr-martinique.com",
     "slug": "parc-naturel-regional-de-la-martinique",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "87.03%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.84%",
-    "time": 1514,
-    "timeDay": 1480,
-    "timeWeek": 1353,
-    "timeMonth": 1423,
-    "timeYear": 1514,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "85.94%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.83%",
+    "time": 1516,
+    "timeDay": 1561,
+    "timeWeek": 1394,
+    "timeMonth": 1430,
+    "timeYear": 1516,
     "dailyMinutesDown": {
-      "2022-07-08": 187
+      "2022-07-08": 203
     }
   },
   {
