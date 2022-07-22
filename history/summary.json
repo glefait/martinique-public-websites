@@ -213,8 +213,8 @@
     "status": "down",
     "uptime": "98.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.39%",
-    "uptimeMonth": "94.57%",
+    "uptimeWeek": "76.33%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "98.27%",
     "time": 855,
     "timeDay": 0,
@@ -222,7 +222,7 @@
     "timeMonth": 927,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2022-07-22": 595,
+      "2022-07-22": 601,
       "2022-07-21": 1440,
       "2022-07-20": 345
     }
@@ -235,8 +235,8 @@
     "status": "down",
     "uptime": "95.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "44.51%",
-    "uptimeMonth": "87.23%",
+    "uptimeWeek": "44.44%",
+    "uptimeMonth": "87.22%",
     "uptimeYear": "95.90%",
     "time": 2257,
     "timeDay": 0,
@@ -244,7 +244,7 @@
     "timeMonth": 2676,
     "timeYear": 2257,
     "dailyMinutesDown": {
-      "2022-07-22": 595,
+      "2022-07-22": 601,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
@@ -846,19 +846,19 @@
     "url": "https://www.adilmartinique.org",
     "icon": "https://favicons.githubusercontent.com/www.adilmartinique.org",
     "slug": "adil-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1473,
-    "timeDay": 2228,
-    "timeWeek": 1508,
-    "timeMonth": 1448,
-    "timeYear": 1473,
+    "time": 1488,
+    "timeDay": 2616,
+    "timeWeek": 1657,
+    "timeMonth": 1495,
+    "timeYear": 1488,
     "dailyMinutesDown": {
-      "2022-07-22": 1
+      "2022-07-22": 6
     }
   },
   {
