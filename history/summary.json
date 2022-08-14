@@ -252,7 +252,7 @@
     "status": "up",
     "uptime": "82.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.45%",
+    "uptimeWeek": "82.50%",
     "uptimeMonth": "30.74%",
     "uptimeYear": "82.20%",
     "time": 2373,
@@ -726,19 +726,19 @@
     "url": "https://www.martiniquedev.fr",
     "icon": "https://favicons.githubusercontent.com/www.martiniquedev.fr",
     "slug": "martinique-developpement",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1667,
-    "timeDay": 1403,
-    "timeWeek": 1636,
-    "timeMonth": 1750,
-    "timeYear": 1667,
+    "time": 1665,
+    "timeDay": 1454,
+    "timeWeek": 1620,
+    "timeMonth": 1742,
+    "timeYear": 1665,
     "dailyMinutesDown": {
-      "2022-08-14": 1
+      "2022-08-14": 5
     }
   },
   {
