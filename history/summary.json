@@ -107,9 +107,9 @@
     "slug": "schoelcher",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "96.73%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "98.25%",
     "time": 1330,
     "timeDay": 1095,
@@ -117,7 +117,6 @@
     "timeMonth": 1252,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2022-09-15": 12,
       "2022-09-14": 45,
       "2022-09-13": 75,
       "2022-09-12": 2,
@@ -181,7 +180,8 @@
       "2022-05-25": 55,
       "2022-04-29": 59,
       "2022-04-28": 84,
-      "2022-04-27": 22
+      "2022-04-27": 22,
+      "2022-04-25": 17
     }
   },
   {
@@ -209,11 +209,11 @@
     "url": "http://www.mairie-lelamentin.fr",
     "icon": "https://favicons.githubusercontent.com/www.mairie-lelamentin.fr",
     "slug": "le-lamentin",
-    "status": "up",
+    "status": "down",
     "uptime": "95.93%",
-    "uptimeDay": "74.74%",
-    "uptimeWeek": "33.20%",
-    "uptimeMonth": "84.63%",
+    "uptimeDay": "74.64%",
+    "uptimeWeek": "33.18%",
+    "uptimeMonth": "84.62%",
     "uptimeYear": "95.93%",
     "time": 1908,
     "timeDay": 2045,
@@ -221,7 +221,7 @@
     "timeMonth": 2246,
     "timeYear": 1908,
     "dailyMinutesDown": {
-      "2022-09-15": 43,
+      "2022-09-15": 45,
       "2022-09-14": 321,
       "2022-09-13": 272,
       "2022-09-12": 1387,
@@ -282,7 +282,7 @@
     "uptime": "72.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.22%",
+    "uptimeMonth": "35.18%",
     "uptimeYear": "72.88%",
     "time": 2346,
     "timeDay": 2317,
@@ -290,7 +290,7 @@
     "timeMonth": 2259,
     "timeYear": 2346,
     "dailyMinutesDown": {
-      "2022-09-15": 506,
+      "2022-09-15": 522,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
