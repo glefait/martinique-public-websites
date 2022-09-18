@@ -1,7 +1,7 @@
 url: https://www.collectivitedemartinique.mq
-status: up
-code: 200
-responseTime: 1031
-lastUpdated: 2022-09-18T19:06:24.194Z
+status: down
+code: 502
+responseTime: 20814
+lastUpdated: 2022-09-18T19:16:10.060Z
 startTime: Sun Apr 17 2022 00:13:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
