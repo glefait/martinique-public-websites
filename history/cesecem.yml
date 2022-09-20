@@ -1,7 +1,7 @@
 url: http://www.cesecem.mq
-status: up
-code: 200
-responseTime: 2047
-lastUpdated: 2022-09-20T11:38:04.971Z
+status: down
+code: 502
+responseTime: 21127
+lastUpdated: 2022-09-20T22:42:41.176Z
 startTime: Sun Apr 17 2022 20:42:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
