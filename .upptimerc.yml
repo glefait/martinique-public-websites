@@ -100,6 +100,10 @@ sites:
     url: https://tourisme-centre.fr
   - name: Préfecture de la Martinique
     url: https://www.martinique.gouv.fr
+  - name: SMTVD
+    url: https://www.smtvd.fr
+  - name: zetwal
+    url: https://www.zetwal.mq
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
