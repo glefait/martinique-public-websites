@@ -1,7 +1,7 @@
 url: https://www.smtvd.fr
-status: up
-code: 200
-responseTime: 1573
-lastUpdated: 2022-11-17T23:04:53.181Z
+status: down
+code: 500
+responseTime: 390
+lastUpdated: 2022-11-18T02:49:56.343Z
 startTime: Tue Nov 01 2022 11:24:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
