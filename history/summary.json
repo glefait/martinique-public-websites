@@ -71,7 +71,7 @@
     "timeMonth": 1998,
     "timeYear": 2042,
     "dailyMinutesDown": {
-      "2022-12-06": 278,
+      "2022-12-06": 285,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -171,18 +171,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-schoelcher.fr.ico",
     "slug": "schoelcher",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.16%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "98.43%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 1286,
     "timeDay": 1239,
     "timeWeek": 1335,
     "timeMonth": 1219,
     "timeYear": 1286,
     "dailyMinutesDown": {
+      "2022-12-06": 2,
       "2022-12-05": 27,
       "2022-12-02": 30,
       "2022-11-30": 27,
@@ -229,7 +230,7 @@
       "2022-10-05": 78,
       "2022-10-04": 42,
       "2022-10-03": 37,
-      "2022-10-01": 104
+      "2022-10-01": 43
     }
   },
   {
@@ -259,9 +260,9 @@
     "slug": "le-lamentin",
     "status": "up",
     "uptime": "85.70%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "92.60%",
-    "uptimeMonth": "22.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.76%",
+    "uptimeMonth": "22.73%",
     "uptimeYear": "85.70%",
     "time": 2244,
     "timeDay": 4052,
@@ -269,7 +270,6 @@
     "timeMonth": 3761,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2022-12-06": 8,
       "2022-11-29": 1016,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -444,7 +444,7 @@
     "uptime": "93.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.85%",
+    "uptimeMonth": "51.83%",
     "uptimeYear": "93.69%",
     "time": 634,
     "timeDay": 0,
@@ -452,7 +452,7 @@
     "timeMonth": 594,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2022-12-06": 278,
+      "2022-12-06": 286,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -602,7 +602,7 @@
     "uptime": "75.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.39%",
+    "uptimeMonth": "66.41%",
     "uptimeYear": "75.45%",
     "time": 3598,
     "timeDay": 2346,
@@ -724,8 +724,8 @@
     "status": "up",
     "uptime": "68.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.01%",
-    "uptimeMonth": "15.42%",
+    "uptimeWeek": "61.09%",
+    "uptimeMonth": "15.44%",
     "uptimeYear": "68.83%",
     "time": 705,
     "timeDay": 623,
@@ -825,7 +825,7 @@
     "timeMonth": 1434,
     "timeYear": 1439,
     "dailyMinutesDown": {
-      "2022-12-06": 279,
+      "2022-12-06": 286,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -1359,7 +1359,7 @@
     "timeMonth": 4067,
     "timeYear": 4036,
     "dailyMinutesDown": {
-      "2022-12-06": 279,
+      "2022-12-06": 287,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -1508,9 +1508,9 @@
     "slug": "le-galion",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 679,
     "timeDay": 678,
@@ -1518,7 +1518,7 @@
     "timeMonth": 834,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2022-12-06": 21
+      "2022-12-06": 29
     }
   },
   {
