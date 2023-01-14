@@ -73,7 +73,7 @@
     "timeMonth": 2035,
     "timeYear": 2040,
     "dailyMinutesDown": {
-      "2023-01-14": 137,
+      "2023-01-14": 154,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -212,11 +212,11 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-schoelcher.fr.ico",
     "slug": "schoelcher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "91.90%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "94.53%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "92.07%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "99.39%",
     "time": 1247,
     "timeDay": 1207,
@@ -224,7 +224,7 @@
     "timeMonth": 1180,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2023-01-14": 58,
+      "2023-01-14": 61,
       "2023-01-13": 80,
       "2023-01-12": 124,
       "2023-01-11": 162,
@@ -245,8 +245,7 @@
       "2022-12-27": 19,
       "2022-12-26": 120,
       "2022-12-25": 155,
-      "2022-12-24": 90,
-      "2022-12-23": 16
+      "2022-12-24": 90
     }
   },
   {
@@ -469,7 +468,7 @@
     "timeMonth": 0,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-01-14": 138,
+      "2023-01-14": 155,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -886,7 +885,7 @@
     "timeMonth": 1323,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2023-01-14": 138,
+      "2023-01-14": 155,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -1466,7 +1465,7 @@
     "uptime": "75.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.82%",
+    "uptimeMonth": "95.86%",
     "uptimeYear": "75.64%",
     "time": 4066,
     "timeDay": 0,
@@ -1576,7 +1575,7 @@
     "uptime": "94.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.64%",
+    "uptimeMonth": "48.61%",
     "uptimeYear": "94.23%",
     "time": 1546,
     "timeDay": 0,
@@ -1584,7 +1583,7 @@
     "timeMonth": 1901,
     "timeYear": 1546,
     "dailyMinutesDown": {
-      "2023-01-14": 138,
+      "2023-01-14": 156,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
