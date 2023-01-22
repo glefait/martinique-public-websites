@@ -73,7 +73,7 @@
     "timeMonth": 2126,
     "timeYear": 2045,
     "dailyMinutesDown": {
-      "2023-01-22": 451,
+      "2023-01-22": 469,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -221,19 +221,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-schoelcher.fr.ico",
     "slug": "schoelcher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "93.39%",
-    "uptimeMonth": "94.75%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "99.43%",
     "time": 1241,
     "timeDay": 1198,
-    "timeWeek": 1170,
+    "timeWeek": 1171,
     "timeMonth": 1170,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2023-01-22": 72,
+      "2023-01-22": 74,
       "2023-01-21": 111,
       "2023-01-20": 171,
       "2023-01-19": 56,
@@ -255,7 +255,7 @@
       "2023-01-03": 71,
       "2023-01-02": 141,
       "2023-01-01": 68,
-      "2022-12-31": 45
+      "2022-12-31": 29
     }
   },
   {
@@ -480,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-01-22": 451,
+      "2023-01-22": 469,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -907,7 +907,7 @@
     "timeMonth": 1290,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2023-01-22": 452,
+      "2023-01-22": 470,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -1607,7 +1607,7 @@
     "uptime": "91.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.63%",
+    "uptimeMonth": "21.59%",
     "uptimeYear": "91.46%",
     "time": 1546,
     "timeDay": 0,
@@ -1615,7 +1615,7 @@
     "timeMonth": 1653,
     "timeYear": 1546,
     "dailyMinutesDown": {
-      "2023-01-22": 452,
+      "2023-01-22": 470,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
