@@ -76,7 +76,7 @@
     "timeMonth": 1935,
     "timeYear": 2037,
     "dailyMinutesDown": {
-      "2023-04-03": 453,
+      "2023-04-03": 458,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -286,7 +286,7 @@
     "timeMonth": 879,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2023-04-03": 453,
+      "2023-04-03": 458,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -368,9 +368,9 @@
     "slug": "schoelcher",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "94.92%",
-    "uptimeMonth": "93.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "93.85%",
     "uptimeYear": "99.47%",
     "time": 1240,
     "timeDay": 1209,
@@ -378,7 +378,6 @@
     "timeMonth": 1185,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2023-04-03": 5,
       "2023-04-02": 80,
       "2023-04-01": 79,
       "2023-03-31": 25,
@@ -407,7 +406,8 @@
       "2023-03-08": 76,
       "2023-03-07": 65,
       "2023-03-06": 158,
-      "2023-03-05": 123
+      "2023-03-05": 123,
+      "2023-03-04": 16
     }
   },
   {
@@ -703,7 +703,7 @@
     "timeMonth": 0,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-04-03": 454,
+      "2023-04-03": 459,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -1141,7 +1141,7 @@
     "timeMonth": 602,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-04-03": 454,
+      "2023-04-03": 459,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -1508,11 +1508,11 @@
     "url": "https://www.martinique.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.martinique.org.ico",
     "slug": "comite-martiniquais-du-tourisme",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "95.95%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "95.96%",
     "uptimeYear": "98.60%",
     "time": 1164,
     "timeDay": 815,
@@ -1520,7 +1520,7 @@
     "timeMonth": 982,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2023-04-03": 22,
+      "2023-04-03": 24,
       "2023-03-28": 20,
       "2023-03-25": 607,
       "2023-03-24": 751,
@@ -1852,7 +1852,7 @@
     "timeMonth": 3352,
     "timeYear": 4682,
     "dailyMinutesDown": {
-      "2023-04-03": 455,
+      "2023-04-03": 459,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -2241,7 +2241,7 @@
     "timeMonth": 0,
     "timeYear": 1546,
     "dailyMinutesDown": {
-      "2023-04-03": 455,
+      "2023-04-03": 459,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -2398,7 +2398,7 @@
     "timeMonth": 650,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-04-03": 455,
+      "2023-04-03": 459,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -2549,9 +2549,9 @@
     "slug": "office-du-tourisme-du-centre-de-la-martinique",
     "status": "down",
     "uptime": "93.43%",
-    "uptimeDay": "19.76%",
-    "uptimeWeek": "88.54%",
-    "uptimeMonth": "68.98%",
+    "uptimeDay": "19.46%",
+    "uptimeWeek": "88.49%",
+    "uptimeMonth": "68.97%",
     "uptimeYear": "93.43%",
     "time": 2012,
     "timeDay": 449,
@@ -2559,7 +2559,7 @@
     "timeMonth": 2890,
     "timeYear": 2012,
     "dailyMinutesDown": {
-      "2023-04-03": 455,
+      "2023-04-03": 460,
       "2023-04-02": 700,
       "2023-03-21": 792,
       "2023-03-20": 1440,
