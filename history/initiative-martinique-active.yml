@@ -1,7 +1,7 @@
 url: http://www.initiative-martinique.com
-status: down
-code: 503
-responseTime: 385
-lastUpdated: 2023-04-12T04:59:32.057Z
+status: up
+code: 200
+responseTime: 3985
+lastUpdated: 2023-04-12T05:06:18.149Z
 startTime: Sun Apr 17 2022 20:42:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
