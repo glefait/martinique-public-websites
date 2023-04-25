@@ -1,7 +1,7 @@
 url: https://www.martinique.org
-status: up
-code: 200
-responseTime: 588
-lastUpdated: 2023-04-25T09:31:44.042Z
+status: down
+code: 500
+responseTime: 525
+lastUpdated: 2023-04-25T13:22:21.906Z
 startTime: Sun Apr 17 2022 20:41:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
