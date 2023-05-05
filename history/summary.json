@@ -6,8 +6,8 @@
     "slug": "ctm",
     "status": "up",
     "uptime": "95.00%",
-    "uptimeDay": "34.08%",
-    "uptimeWeek": "4.99%",
+    "uptimeDay": "35.32%",
+    "uptimeWeek": "5.16%",
     "uptimeMonth": "58.92%",
     "uptimeYear": "94.76%",
     "time": 2828,
@@ -82,14 +82,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.18%",
+    "uptimeYear": "46.17%",
     "time": 2030,
     "timeDay": 2046,
     "timeWeek": 2011,
     "timeMonth": 1995,
     "timeYear": 2066,
     "dailyMinutesDown": {
-      "2023-05-04": 1433,
+      "2023-05-05": 11,
+      "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -322,7 +323,7 @@
     "uptime": "76.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.33%",
+    "uptimeMonth": "35.37%",
     "uptimeYear": "75.51%",
     "time": 1011,
     "timeDay": 1054,
@@ -421,8 +422,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 934,
       "2023-01-22": 19,
-      "2022-09-20": 16,
-      "2022-05-05": 44
+      "2022-09-20": 16
     }
   },
   {
@@ -430,19 +430,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-schoelcher.fr.ico",
     "slug": "schoelcher",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "93.73%",
-    "uptimeMonth": "94.47%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "94.44%",
     "uptimeYear": "99.54%",
     "time": 1221,
-    "timeDay": 1085,
+    "timeDay": 1081,
     "timeWeek": 1138,
     "timeMonth": 1148,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2023-05-04": 91,
+      "2023-05-04": 89,
       "2023-05-03": 156,
       "2023-05-02": 19,
       "2023-05-01": 51,
@@ -466,7 +466,7 @@
       "2023-04-13": 19,
       "2023-04-12": 35,
       "2023-04-11": 51,
-      "2023-04-10": 45
+      "2023-04-10": 60
     }
   },
   {
@@ -743,8 +743,7 @@
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
-      "2022-07-18": 679,
-      "2022-05-05": 45
+      "2022-07-18": 679
     }
   },
   {
@@ -764,7 +763,8 @@
     "timeMonth": 0,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-05-04": 1435,
+      "2023-05-05": 12,
+      "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -989,7 +989,7 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.83%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 1210,
     "timeDay": 1268,
@@ -1171,7 +1171,7 @@
     "status": "up",
     "uptime": "97.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.09%",
+    "uptimeWeek": "60.26%",
     "uptimeMonth": "87.37%",
     "uptimeYear": "97.89%",
     "time": 2399,
@@ -1230,7 +1230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-saintemarie.fr.ico",
     "slug": "sainte-marie",
     "status": "up",
-    "uptime": "54.98%",
+    "uptime": "54.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1241,7 +1241,8 @@
     "timeMonth": 610,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2023-05-04": 1435,
+      "2023-05-05": 12,
+      "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -1643,8 +1644,8 @@
     "status": "up",
     "uptime": "97.49%",
     "uptimeDay": "55.22%",
-    "uptimeWeek": "83.99%",
-    "uptimeMonth": "84.81%",
+    "uptimeWeek": "84.16%",
+    "uptimeMonth": "84.85%",
     "uptimeYear": "97.38%",
     "time": 1121,
     "timeDay": 1081,
@@ -1867,7 +1868,7 @@
     "slug": "cesecem",
     "status": "up",
     "uptime": "97.21%",
-    "uptimeDay": "34.14%",
+    "uptimeDay": "35.32%",
     "uptimeWeek": "86.48%",
     "uptimeMonth": "94.83%",
     "uptimeYear": "98.91%",
@@ -1988,7 +1989,7 @@
     "uptime": "79.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.68%",
+    "uptimeMonth": "75.72%",
     "uptimeYear": "78.78%",
     "time": 4625,
     "timeDay": 6012,
@@ -2198,7 +2199,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.11%",
+    "uptimeYear": "97.12%",
     "time": 1250,
     "timeDay": 1128,
     "timeWeek": 3289,
@@ -2216,8 +2217,7 @@
       "2022-05-18": 1440,
       "2022-05-17": 1430,
       "2022-05-07": 1266,
-      "2022-05-06": 1440,
-      "2022-05-05": 1440
+      "2022-05-06": 1440
     }
   },
   {
@@ -2380,7 +2380,8 @@
     "timeMonth": 0,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2023-05-04": 1436,
+      "2023-05-05": 13,
+      "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -2567,7 +2568,8 @@
     "timeMonth": 589,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2023-05-04": 1436,
+      "2023-05-05": 13,
+      "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
