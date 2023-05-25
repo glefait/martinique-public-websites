@@ -16,7 +16,7 @@
     "timeMonth": 3524,
     "timeYear": 2990,
     "dailyMinutesDown": {
-      "2023-05-25": 441,
+      "2023-05-25": 451,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -101,7 +101,7 @@
     "timeMonth": 2047,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-05-25": 441,
+      "2023-05-25": 451,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -462,19 +462,19 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-schoelcher.fr.ico",
     "slug": "schoelcher",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "89.09%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "89.25%",
+    "uptimeWeek": "92.07%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.52%",
     "time": 1213,
-    "timeDay": 1120,
+    "timeDay": 1122,
     "timeWeek": 1166,
     "timeMonth": 1160,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2023-05-25": 27,
+      "2023-05-25": 25,
       "2023-05-24": 153,
       "2023-05-23": 131,
       "2023-05-22": 90,
@@ -498,7 +498,8 @@
       "2023-05-04": 89,
       "2023-05-03": 156,
       "2023-05-02": 19,
-      "2023-05-01": 51
+      "2023-05-01": 51,
+      "2023-04-30": 15
     }
   },
   {
@@ -791,7 +792,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rivierepilote.fr.ico",
     "slug": "riviere-pilote",
     "status": "down",
-    "uptime": "54.09%",
+    "uptime": "54.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -802,7 +803,7 @@
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-05-25": 442,
+      "2023-05-25": 452,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -1301,7 +1302,7 @@
     "timeMonth": 621,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-05-25": 443,
+      "2023-05-25": 453,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -1959,7 +1960,7 @@
     "uptime": "95.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.75%",
+    "uptimeMonth": "67.73%",
     "uptimeYear": "96.48%",
     "time": 5724,
     "timeDay": 0,
@@ -1967,7 +1968,7 @@
     "timeMonth": 6701,
     "timeYear": 5996,
     "dailyMinutesDown": {
-      "2023-05-25": 443,
+      "2023-05-25": 453,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -2471,7 +2472,7 @@
     "timeMonth": 0,
     "timeYear": 1560,
     "dailyMinutesDown": {
-      "2023-05-25": 443,
+      "2023-05-25": 453,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -2679,7 +2680,7 @@
     "timeMonth": 608,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2023-05-25": 444,
+      "2023-05-25": 453,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
