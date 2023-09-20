@@ -1,7 +1,7 @@
 url: http://www.biodiversite-martinique.fr
-status: down
-code: 503
-responseTime: 1205
-lastUpdated: 2023-09-20T17:12:03.771Z
+status: up
+code: 200
+responseTime: 2574
+lastUpdated: 2023-09-20T17:19:49.756Z
 startTime: 2022-04-17T20:42:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
