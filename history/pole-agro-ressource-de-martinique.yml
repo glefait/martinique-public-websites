@@ -1,7 +1,7 @@
 url: https://parm.mq
-status: up
-code: 200
-responseTime: 2825
-lastUpdated: 2023-10-30T23:04:12.384Z
+status: down
+code: 500
+responseTime: 11126
+lastUpdated: 2023-11-02T16:53:09.666Z
 startTime: 2022-04-17T20:42:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
