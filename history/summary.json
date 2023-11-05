@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.collectivitedemartinique.mq.ico",
     "slug": "ctm",
     "status": "up",
-    "uptime": "75.00%",
+    "uptime": "75.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
@@ -203,7 +203,7 @@
     "uptime": "51.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.34%",
+    "uptimeMonth": "30.30%",
     "uptimeYear": "28.25%",
     "time": 2373,
     "timeDay": 3122,
@@ -211,7 +211,8 @@
     "timeMonth": 3087,
     "timeYear": 2338,
     "dailyMinutesDown": {
-      "2023-11-04": 1435,
+      "2023-11-05": 12,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -472,8 +473,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -612,11 +612,11 @@
     "url": "https://www.mairie-schoelcher.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-schoelcher.fr.ico",
     "slug": "schoelcher",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "86.66%",
-    "uptimeWeek": "86.94%",
-    "uptimeMonth": "92.12%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "87.06%",
+    "uptimeWeek": "86.97%",
+    "uptimeMonth": "92.05%",
     "uptimeYear": "99.34%",
     "time": 1178,
     "timeDay": 1133,
@@ -624,7 +624,7 @@
     "timeMonth": 1141,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-11-04": 189,
+      "2023-11-04": 186,
       "2023-11-03": 282,
       "2023-11-02": 138,
       "2023-11-01": 181,
@@ -641,7 +641,7 @@
       "2023-10-21": 124,
       "2023-10-20": 299,
       "2023-10-19": 150,
-      "2023-10-18": 130
+      "2023-10-18": 161
     }
   },
   {
@@ -650,10 +650,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/saintjoseph972.com.ico",
     "slug": "saint-joseph",
     "status": "up",
-    "uptime": "87.85%",
+    "uptime": "87.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.07%",
+    "uptimeMonth": "35.03%",
     "uptimeYear": "81.14%",
     "time": 2463,
     "timeDay": 1264,
@@ -661,7 +661,8 @@
     "timeMonth": 2581,
     "timeYear": 2553,
     "dailyMinutesDown": {
-      "2023-11-04": 1437,
+      "2023-11-05": 14,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -746,10 +747,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-lelamentin.fr.ico",
     "slug": "le-lamentin",
     "status": "up",
-    "uptime": "88.32%",
+    "uptime": "88.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.66%",
-    "uptimeMonth": "57.09%",
+    "uptimeWeek": "8.49%",
+    "uptimeMonth": "57.05%",
     "uptimeYear": "84.21%",
     "time": 4737,
     "timeDay": 6844,
@@ -757,7 +758,8 @@
     "timeMonth": 6893,
     "timeYear": 5783,
     "dailyMinutesDown": {
-      "2023-11-04": 1437,
+      "2023-11-05": 14,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -830,8 +832,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -842,8 +843,8 @@
     "status": "up",
     "uptime": "88.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.63%",
-    "uptimeMonth": "6.75%",
+    "uptimeWeek": "37.81%",
+    "uptimeMonth": "6.79%",
     "uptimeYear": "82.38%",
     "time": 863,
     "timeDay": 664,
@@ -930,16 +931,17 @@
     "status": "down",
     "uptime": "98.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.77%",
-    "uptimeMonth": "82.69%",
-    "uptimeYear": "98.51%",
+    "uptimeWeek": "24.59%",
+    "uptimeMonth": "82.65%",
+    "uptimeYear": "98.50%",
     "time": 1086,
     "timeDay": 0,
     "timeWeek": 1064,
     "timeMonth": 770,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2023-11-04": 1437,
+      "2023-11-05": 14,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -1019,7 +1021,8 @@
     "timeMonth": 0,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2023-11-04": 1437,
+      "2023-11-05": 14,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -1379,7 +1382,7 @@
     "uptime": "92.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.60%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "93.86%",
     "time": 3227,
     "timeDay": 1437,
@@ -1426,7 +1429,7 @@
     "uptime": "96.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.64%",
+    "uptimeMonth": "61.68%",
     "uptimeYear": "94.09%",
     "time": 1263,
     "timeDay": 1394,
@@ -1561,7 +1564,7 @@
     "uptime": "96.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.30%",
+    "uptimeMonth": "42.26%",
     "uptimeYear": "95.18%",
     "time": 1222,
     "timeDay": 934,
@@ -1569,7 +1572,8 @@
     "timeMonth": 1110,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2023-11-04": 1437,
+      "2023-11-05": 15,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -1607,7 +1611,8 @@
     "timeMonth": 3610,
     "timeYear": 3333,
     "dailyMinutesDown": {
-      "2023-11-04": 1437,
+      "2023-11-05": 15,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -1643,8 +1648,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -1664,7 +1668,8 @@
     "timeMonth": 788,
     "timeYear": 2419,
     "dailyMinutesDown": {
-      "2023-11-04": 1437,
+      "2023-11-05": 15,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -1851,8 +1856,8 @@
     "status": "up",
     "uptime": "37.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.32%",
-    "uptimeMonth": "2.54%",
+    "uptimeWeek": "19.49%",
+    "uptimeMonth": "2.58%",
     "uptimeYear": "15.29%",
     "time": 702,
     "timeDay": 561,
@@ -2168,8 +2173,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -2300,8 +2304,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -2356,7 +2359,7 @@
     "uptime": "95.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.44%",
+    "uptimeMonth": "81.48%",
     "uptimeYear": "93.29%",
     "time": 1132,
     "timeDay": 1432,
@@ -2615,7 +2618,8 @@
     "timeMonth": 0,
     "timeYear": 7521,
     "dailyMinutesDown": {
-      "2023-11-04": 1438,
+      "2023-11-05": 15,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -2819,7 +2823,7 @@
     "uptime": "95.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.13%",
+    "uptimeMonth": "76.17%",
     "uptimeYear": "93.08%",
     "time": 1689,
     "timeDay": 1646,
@@ -3039,14 +3043,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.98%",
+    "uptimeYear": "75.97%",
     "time": 1577,
     "timeDay": 1075,
     "timeWeek": 1172,
     "timeMonth": 1159,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2023-11-04": 1438,
+      "2023-11-05": 15,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -3239,7 +3244,7 @@
     "uptime": "91.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "70.07%",
-    "uptimeMonth": "76.77%",
+    "uptimeMonth": "76.73%",
     "uptimeYear": "87.46%",
     "time": 1787,
     "timeDay": 20751,
@@ -3247,7 +3252,8 @@
     "timeMonth": 1621,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2023-11-04": 1438,
+      "2023-11-05": 16,
+      "2023-11-04": 1440,
       "2023-11-03": 990,
       "2023-11-01": 203,
       "2023-10-29": 383,
@@ -3315,8 +3321,7 @@
       "2023-01-27": 1230,
       "2023-01-26": 1440,
       "2023-01-25": 924,
-      "2022-11-07": 33,
-      "2022-11-05": 41
+      "2022-11-07": 33
     }
   },
   {
@@ -3399,8 +3404,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -3409,9 +3413,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ims.mq.ico",
     "slug": "institut-martiniquais-du-sport",
     "status": "up",
-    "uptime": "96.28%",
-    "uptimeDay": "22.45%",
-    "uptimeWeek": "88.92%",
+    "uptime": "96.27%",
+    "uptimeDay": "21.25%",
+    "uptimeWeek": "88.75%",
     "uptimeMonth": "83.38%",
     "uptimeYear": "94.23%",
     "time": 3069,
@@ -3420,7 +3424,8 @@
     "timeMonth": 3090,
     "timeYear": 3221,
     "dailyMinutesDown": {
-      "2023-11-04": 1117,
+      "2023-11-05": 16,
+      "2023-11-04": 1118,
       "2023-10-21": 110,
       "2023-10-09": 291,
       "2023-10-08": 1440,
@@ -3784,8 +3789,8 @@
     "status": "up",
     "uptime": "93.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.31%",
-    "uptimeMonth": "6.68%",
+    "uptimeWeek": "37.48%",
+    "uptimeMonth": "6.72%",
     "uptimeYear": "90.18%",
     "time": 2489,
     "timeDay": 2493,
@@ -4068,9 +4073,9 @@
     "slug": "office-du-tourisme-du-centre-de-la-martinique",
     "status": "down",
     "uptime": "88.48%",
-    "uptimeDay": "42.30%",
-    "uptimeWeek": "79.42%",
-    "uptimeMonth": "84.21%",
+    "uptimeDay": "41.11%",
+    "uptimeWeek": "79.25%",
+    "uptimeMonth": "84.17%",
     "uptimeYear": "82.61%",
     "time": 2898,
     "timeDay": 355,
@@ -4078,7 +4083,8 @@
     "timeMonth": 7342,
     "timeYear": 3427,
     "dailyMinutesDown": {
-      "2023-11-04": 831,
+      "2023-11-05": 16,
+      "2023-11-04": 832,
       "2023-11-02": 217,
       "2023-11-01": 425,
       "2023-10-30": 361,
@@ -4197,7 +4203,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smtvd.fr.ico",
     "slug": "smtvd",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "72.54%",
