@@ -1,7 +1,7 @@
 url: https://tropiques-atrium.fr
-status: up
-code: 200
-responseTime: 4194
-lastUpdated: 2024-01-20T11:33:00.707Z
+status: down
+code: 503
+responseTime: 21235
+lastUpdated: 2024-01-20T11:39:54.306Z
 startTime: 2022-04-17T20:42:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
