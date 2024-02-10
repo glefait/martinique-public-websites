@@ -1,7 +1,7 @@
 url: https://www.martinique.gouv.fr
-status: down
-code: 429
-responseTime: 466
-lastUpdated: 2024-02-10T20:43:24.399Z
+status: up
+code: 200
+responseTime: 1197
+lastUpdated: 2024-02-10T20:49:13.614Z
 startTime: 2022-04-18T13:40:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
