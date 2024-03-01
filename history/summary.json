@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.collectivitedemartinique.mq.ico",
     "slug": "ctm",
     "status": "up",
-    "uptime": "76.62%",
-    "uptimeDay": "85.53%",
-    "uptimeWeek": "12.22%",
+    "uptime": "76.63%",
+    "uptimeDay": "87.22%",
+    "uptimeWeek": "12.46%",
     "uptimeMonth": "40.76%",
     "uptimeYear": "57.93%",
     "time": 1859,
     "timeDay": 1493,
     "timeWeek": 748,
-    "timeMonth": 1047,
+    "timeMonth": 1029,
     "timeYear": 1757,
     "dailyMinutesDown": {
       "2024-02-29": 204,
@@ -195,7 +195,7 @@
     "time": 1155,
     "timeDay": 812,
     "timeWeek": 1081,
-    "timeMonth": 1078,
+    "timeMonth": 1096,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-09-13": 1434,
@@ -214,11 +214,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.17%",
-    "uptimeYear": "45.54%",
+    "uptimeYear": "45.55%",
     "time": 2661,
     "timeDay": 3687,
     "timeWeek": 3068,
-    "timeMonth": 4738,
+    "timeMonth": 4898,
     "timeYear": 2915,
     "dailyMinutesDown": {
       "2024-02-05": 18,
@@ -420,8 +420,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -438,7 +437,7 @@
     "time": 765,
     "timeDay": 537,
     "timeWeek": 703,
-    "timeMonth": 708,
+    "timeMonth": 717,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2023-03-26": 189
@@ -454,11 +453,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.02%",
+    "uptimeYear": "85.03%",
     "time": 994,
     "timeDay": 769,
     "timeWeek": 1121,
-    "timeMonth": 1022,
+    "timeMonth": 1045,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2023-04-24": 963,
@@ -513,8 +512,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -531,7 +529,7 @@
     "time": 1178,
     "timeDay": 2456,
     "timeWeek": 3025,
-    "timeMonth": 3089,
+    "timeMonth": 3139,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2024-01-06": 20,
@@ -590,7 +588,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/saintjoseph972.com.ico",
     "slug": "saint-joseph",
     "status": "up",
-    "uptime": "86.62%",
+    "uptime": "86.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -598,7 +596,7 @@
     "time": 2325,
     "timeDay": 1220,
     "timeWeek": 1330,
-    "timeMonth": 1522,
+    "timeMonth": 1548,
     "timeYear": 2289,
     "dailyMinutesDown": {
       "2023-11-27": 807,
@@ -714,7 +712,7 @@
     "time": 6082,
     "timeDay": 6180,
     "timeWeek": 6208,
-    "timeMonth": 5417,
+    "timeMonth": 5444,
     "timeYear": 6233,
     "dailyMinutesDown": {
       "2024-02-24": 629,
@@ -816,7 +814,7 @@
     "time": 865,
     "timeDay": 627,
     "timeWeek": 730,
-    "timeMonth": 844,
+    "timeMonth": 856,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2024-02-12": 584,
@@ -875,13 +873,13 @@
     "status": "up",
     "uptime": "92.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.61%",
+    "uptimeWeek": "29.85%",
     "uptimeMonth": "49.35%",
     "uptimeYear": "87.16%",
     "time": 1111,
     "timeDay": 511,
     "timeWeek": 630,
-    "timeMonth": 641,
+    "timeMonth": 665,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2024-02-27": 1333,
@@ -950,7 +948,7 @@
     "time": 1924,
     "timeDay": 1580,
     "timeWeek": 1712,
-    "timeMonth": 1473,
+    "timeMonth": 1487,
     "timeYear": 2066,
     "dailyMinutesDown": {
       "2023-04-24": 18
@@ -965,7 +963,7 @@
     "uptime": "31.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 635,
     "timeDay": 0,
@@ -973,7 +971,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 1438,
+      "2024-03-01": 22,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -1336,8 +1335,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -1354,7 +1352,7 @@
     "time": 2177,
     "timeDay": 1127,
     "timeWeek": 1074,
-    "timeMonth": 1108,
+    "timeMonth": 1116,
     "timeYear": 2167,
     "dailyMinutesDown": {
       "2024-02-16": 21,
@@ -1405,17 +1403,17 @@
     "slug": "saint-pierre",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "65.74%",
-    "uptimeWeek": "73.34%",
-    "uptimeMonth": "93.87%",
+    "uptimeDay": "67.06%",
+    "uptimeWeek": "73.33%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 1546,
-    "timeDay": 1618,
-    "timeWeek": 1663,
+    "timeDay": 1610,
+    "timeWeek": 1664,
     "timeMonth": 1637,
     "timeYear": 1581,
     "dailyMinutesDown": {
-      "2024-02-29": 492,
+      "2024-02-29": 493,
       "2024-02-28": 543,
       "2024-02-27": 423,
       "2024-02-26": 483,
@@ -1437,7 +1435,7 @@
     "time": 1903,
     "timeDay": 1502,
     "timeWeek": 1514,
-    "timeMonth": 1508,
+    "timeMonth": 1522,
     "timeYear": 2001,
     "dailyMinutesDown": {
       "2024-01-29": 18,
@@ -1486,16 +1484,17 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.04%",
-    "uptimeMonth": "96.56%",
+    "uptimeWeek": "84.80%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.62%",
     "time": 1558,
     "timeDay": 1329,
     "timeWeek": 1175,
-    "timeMonth": 1262,
+    "timeMonth": 1261,
     "timeYear": 1647,
     "dailyMinutesDown": {
-      "2024-02-29": 1438,
+      "2024-03-01": 22,
+      "2024-02-29": 1440,
       "2024-02-28": 70,
       "2024-01-06": 210,
       "2024-01-05": 57,
@@ -1519,7 +1518,7 @@
     "time": 1208,
     "timeDay": 897,
     "timeWeek": 1066,
-    "timeMonth": 1190,
+    "timeMonth": 1209,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2024-01-27": 124,
@@ -1640,7 +1639,7 @@
     "time": 3490,
     "timeDay": 2350,
     "timeWeek": 3019,
-    "timeMonth": 3918,
+    "timeMonth": 3917,
     "timeYear": 3642,
     "dailyMinutesDown": {
       "2023-12-07": 7,
@@ -1702,12 +1701,12 @@
     "uptime": "64.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.58%",
+    "uptimeMonth": "58.21%",
     "uptimeYear": "34.73%",
     "time": 1766,
     "timeDay": 689,
     "timeWeek": 927,
-    "timeMonth": 782,
+    "timeMonth": 798,
     "timeYear": 1166,
     "dailyMinutesDown": {
       "2024-02-13": 1047,
@@ -1965,13 +1964,13 @@
     "status": "up",
     "uptime": "96.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "99.06%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "93.04%",
     "time": 3332,
     "timeDay": 2924,
     "timeWeek": 2899,
-    "timeMonth": 3253,
+    "timeMonth": 2948,
     "timeYear": 3570,
     "dailyMinutesDown": {
       "2024-02-23": 210,
@@ -2025,7 +2024,7 @@
     "time": 706,
     "timeDay": 544,
     "timeWeek": 664,
-    "timeMonth": 675,
+    "timeMonth": 687,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2024-02-05": 530,
@@ -2282,8 +2281,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -2292,7 +2290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mairiecasepilote.fr.ico",
     "slug": "case-pilote",
     "status": "up",
-    "uptime": "76.91%",
+    "uptime": "76.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2300,7 +2298,7 @@
     "time": 1372,
     "timeDay": 1150,
     "timeWeek": 1163,
-    "timeMonth": 1400,
+    "timeMonth": 1360,
     "timeYear": 1365,
     "dailyMinutesDown": {}
   },
@@ -2318,7 +2316,7 @@
     "time": 3014,
     "timeDay": 13153,
     "timeWeek": 7351,
-    "timeMonth": 4237,
+    "timeMonth": 4371,
     "timeYear": 3172,
     "dailyMinutesDown": {
       "2023-09-29": 1222,
@@ -2343,18 +2341,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martinique.org.ico",
     "slug": "comite-martiniquais-du-tourisme",
     "status": "up",
-    "uptime": "95.40%",
+    "uptime": "95.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.38%",
-    "uptimeMonth": "77.32%",
+    "uptimeWeek": "2.15%",
+    "uptimeMonth": "77.26%",
     "uptimeYear": "92.14%",
     "time": 1240,
     "timeDay": 1370,
     "timeWeek": 1561,
-    "timeMonth": 2258,
+    "timeMonth": 2315,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2024-02-29": 1438,
+      "2024-03-01": 22,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -2440,8 +2439,7 @@
       "2023-03-16": 31,
       "2023-03-07": 37,
       "2023-03-04": 18,
-      "2023-03-03": 740,
-      "2023-03-02": 55
+      "2023-03-03": 740
     }
   },
   {
@@ -2458,7 +2456,7 @@
     "time": 1858,
     "timeDay": 2120,
     "timeWeek": 1433,
-    "timeMonth": 1404,
+    "timeMonth": 1442,
     "timeYear": 1529,
     "dailyMinutesDown": {
       "2023-05-04": 34
@@ -2478,7 +2476,7 @@
     "time": 1208,
     "timeDay": 909,
     "timeWeek": 1106,
-    "timeMonth": 1098,
+    "timeMonth": 1114,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2023-09-29": 993,
@@ -2499,7 +2497,7 @@
     "time": 967,
     "timeDay": 865,
     "timeWeek": 988,
-    "timeMonth": 923,
+    "timeMonth": 936,
     "timeYear": 942,
     "dailyMinutesDown": {}
   },
@@ -2512,15 +2510,16 @@
     "uptime": "58.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "5.43%",
+    "uptimeMonth": "12.00%",
     "uptimeYear": "25.38%",
     "time": 5317,
     "timeDay": 192,
     "timeWeek": 201,
-    "timeMonth": 3032,
+    "timeMonth": 3041,
     "timeYear": 5332,
     "dailyMinutesDown": {
-      "2024-02-29": 1439,
+      "2024-03-01": 23,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -2818,7 +2817,7 @@
     "time": 1813,
     "timeDay": 1510,
     "timeWeek": 1645,
-    "timeMonth": 2157,
+    "timeMonth": 2199,
     "timeYear": 1797,
     "dailyMinutesDown": {
       "2024-02-06": 31,
@@ -2857,7 +2856,7 @@
     "time": 2083,
     "timeDay": 1543,
     "timeWeek": 1721,
-    "timeMonth": 1994,
+    "timeMonth": 2002,
     "timeYear": 2155,
     "dailyMinutesDown": {}
   },
@@ -2875,7 +2874,7 @@
     "time": 2168,
     "timeDay": 2059,
     "timeWeek": 2294,
-    "timeMonth": 2830,
+    "timeMonth": 2800,
     "timeYear": 2606,
     "dailyMinutesDown": {}
   },
@@ -2887,16 +2886,17 @@
     "status": "up",
     "uptime": "82.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.55%",
-    "uptimeMonth": "67.15%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "67.19%",
     "uptimeYear": "76.58%",
     "time": 4736,
     "timeDay": 4470,
     "timeWeek": 3774,
-    "timeMonth": 5111,
+    "timeMonth": 4717,
     "timeYear": 4450,
     "dailyMinutesDown": {
-      "2024-02-29": 1439,
+      "2024-03-01": 23,
+      "2024-02-29": 1440,
       "2024-02-28": 660,
       "2024-02-24": 63,
       "2024-02-22": 802,
@@ -3012,8 +3012,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -3023,14 +3022,14 @@
     "slug": "martinique-developpement",
     "status": "up",
     "uptime": "70.08%",
-    "uptimeDay": "34.53%",
-    "uptimeWeek": "4.93%",
-    "uptimeMonth": "0.00%",
+    "uptimeDay": "36.18%",
+    "uptimeWeek": "5.17%",
+    "uptimeMonth": "5.86%",
     "uptimeYear": "47.06%",
     "time": 1490,
     "timeDay": 3209,
     "timeWeek": 2065,
-    "timeMonth": 1433,
+    "timeMonth": 1420,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2024-02-29": 942,
@@ -3238,13 +3237,13 @@
     "status": "up",
     "uptime": "95.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.06%",
+    "uptimeWeek": "58.29%",
     "uptimeMonth": "77.58%",
     "uptimeYear": "91.43%",
     "time": 1323,
     "timeDay": 865,
     "timeWeek": 2681,
-    "timeMonth": 1786,
+    "timeMonth": 1853,
     "timeYear": 1396,
     "dailyMinutesDown": {
       "2024-02-25": 1347,
@@ -3298,7 +3297,7 @@
     "time": 1814,
     "timeDay": 689,
     "timeWeek": 720,
-    "timeMonth": 872,
+    "timeMonth": 883,
     "timeYear": 1658,
     "dailyMinutesDown": {
       "2024-02-15": 1127,
@@ -3350,7 +3349,7 @@
     "time": 2583,
     "timeDay": 4182,
     "timeWeek": 5053,
-    "timeMonth": 5179,
+    "timeMonth": 5291,
     "timeYear": 3270,
     "dailyMinutesDown": {
       "2023-12-11": 17,
@@ -3393,7 +3392,7 @@
     "time": 1832,
     "timeDay": 1061,
     "timeWeek": 1466,
-    "timeMonth": 1634,
+    "timeMonth": 1656,
     "timeYear": 1820,
     "dailyMinutesDown": {
       "2023-11-10": 914,
@@ -3475,18 +3474,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.initiative-martinique.com.ico",
     "slug": "initiative-martinique-active",
     "status": "down",
-    "uptime": "76.38%",
+    "uptime": "76.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "73.93%",
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "73.92%",
     "time": 3646,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3449,
     "dailyMinutesDown": {
-      "2024-02-29": 1439,
+      "2024-03-01": 23,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -3597,13 +3597,13 @@
     "status": "up",
     "uptime": "95.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.79%",
+    "uptimeWeek": "77.02%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "92.48%",
     "time": 3167,
     "timeDay": 1846,
     "timeWeek": 2259,
-    "timeMonth": 2984,
+    "timeMonth": 3066,
     "timeYear": 3268,
     "dailyMinutesDown": {
       "2024-02-28": 16,
@@ -3656,12 +3656,12 @@
     "uptime": "58.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "39.02%",
     "time": 6658,
     "timeDay": 9353,
     "timeWeek": 7903,
-    "timeMonth": 9520,
+    "timeMonth": 9760,
     "timeYear": 9983,
     "dailyMinutesDown": {
       "2024-02-15": 19,
@@ -3893,8 +3893,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -3911,7 +3910,7 @@
     "time": 4124,
     "timeDay": 4281,
     "timeWeek": 5487,
-    "timeMonth": 5388,
+    "timeMonth": 5585,
     "timeYear": 4168,
     "dailyMinutesDown": {}
   },
@@ -3929,7 +3928,7 @@
     "time": 2645,
     "timeDay": 1904,
     "timeWeek": 2189,
-    "timeMonth": 3415,
+    "timeMonth": 3544,
     "timeYear": 2672,
     "dailyMinutesDown": {
       "2024-02-25": 24,
@@ -3987,11 +3986,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.75%",
+    "uptimeYear": "74.76%",
     "time": 649,
     "timeDay": 586,
     "timeWeek": 552,
-    "timeMonth": 613,
+    "timeMonth": 620,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2023-06-01": 208,
@@ -4084,8 +4083,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -4102,7 +4100,7 @@
     "time": 3702,
     "timeDay": 3099,
     "timeWeek": 2967,
-    "timeMonth": 3189,
+    "timeMonth": 3131,
     "timeYear": 4185,
     "dailyMinutesDown": {
       "2024-02-05": 54,
@@ -4128,7 +4126,7 @@
     "time": 529,
     "timeDay": 267,
     "timeWeek": 563,
-    "timeMonth": 673,
+    "timeMonth": 701,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2023-10-21": 101,
@@ -4150,7 +4148,7 @@
     "time": 835,
     "timeDay": 645,
     "timeWeek": 705,
-    "timeMonth": 716,
+    "timeMonth": 723,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2023-10-10": 404,
@@ -4171,7 +4169,7 @@
     "time": 3225,
     "timeDay": 4265,
     "timeWeek": 3937,
-    "timeMonth": 4122,
+    "timeMonth": 4216,
     "timeYear": 3817,
     "dailyMinutesDown": {
       "2024-01-07": 31,
@@ -4284,7 +4282,7 @@
     "time": 1996,
     "timeDay": 1392,
     "timeWeek": 2162,
-    "timeMonth": 1852,
+    "timeMonth": 1838,
     "timeYear": 1778,
     "dailyMinutesDown": {
       "2024-01-29": 18,
@@ -4307,7 +4305,7 @@
     "time": 1150,
     "timeDay": 845,
     "timeWeek": 724,
-    "timeMonth": 744,
+    "timeMonth": 755,
     "timeYear": 1057,
     "dailyMinutesDown": {
       "2023-10-25": 69,
