@@ -1,7 +1,7 @@
 url: https://www.ims.mq
-status: up
-code: 200
-responseTime: 2355
-lastUpdated: 2024-03-09T23:04:18.662Z
+status: down
+code: 503
+responseTime: 232
+lastUpdated: 2024-03-10T09:08:54.788Z
 startTime: 2022-04-17T20:43:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
