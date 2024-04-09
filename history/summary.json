@@ -213,7 +213,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.22%",
+    "uptimeYear": "56.23%",
     "time": 2729,
     "timeDay": 3099,
     "timeWeek": 3026,
@@ -381,8 +381,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -433,8 +432,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -629,10 +627,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-lelamentin.fr.ico",
     "slug": "le-lamentin",
     "status": "up",
-    "uptime": "86.53%",
+    "uptime": "86.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "82.52%",
     "time": 6396,
     "timeDay": 6181,
@@ -876,7 +874,7 @@
     "uptime": "86.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.19%",
+    "uptimeMonth": "91.26%",
     "uptimeYear": "99.18%",
     "time": 1930,
     "timeDay": 1718,
@@ -908,7 +906,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 1433,
+      "2024-04-09": 21,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -1271,8 +1270,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -1281,7 +1279,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/riviere-salee.fr.ico",
     "slug": "riviere-salee",
     "status": "down",
-    "uptime": "88.04%",
+    "uptime": "88.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1292,7 +1290,8 @@
     "timeMonth": 0,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2024-04-08": 1433,
+      "2024-04-09": 21,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -1608,7 +1607,7 @@
     "status": "up",
     "uptime": "84.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.01%",
+    "uptimeWeek": "90.29%",
     "uptimeMonth": "53.82%",
     "uptimeYear": "85.55%",
     "time": 3469,
@@ -2006,7 +2005,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.41%",
+    "uptimeYear": "41.42%",
     "time": 702,
     "timeDay": 648,
     "timeWeek": 751,
@@ -2229,8 +2228,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -2296,7 +2294,7 @@
     "uptime": "92.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.88%",
+    "uptimeMonth": "40.94%",
     "uptimeYear": "85.87%",
     "time": 1331,
     "timeDay": 1774,
@@ -2475,8 +2473,8 @@
     "status": "up",
     "uptime": "57.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.78%",
-    "uptimeMonth": "40.56%",
+    "uptimeWeek": "60.06%",
+    "uptimeMonth": "40.62%",
     "uptimeYear": "18.33%",
     "time": 4924,
     "timeDay": 2954,
@@ -2882,7 +2880,7 @@
     "uptimeDay": "98.86%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "86.63%",
+    "uptimeYear": "86.64%",
     "time": 4822,
     "timeDay": 1830,
     "timeWeek": 5584,
@@ -2979,8 +2977,7 @@
       "2023-06-16": 16,
       "2023-05-15": 28,
       "2023-04-12": 569,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -3445,14 +3442,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.25%",
+    "uptimeYear": "63.24%",
     "time": 3605,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3508,
     "dailyMinutesDown": {
-      "2024-04-08": 1434,
+      "2024-04-09": 23,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -3665,7 +3663,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.70%",
+    "uptimeYear": "49.71%",
     "time": 7705,
     "timeDay": 12671,
     "timeWeek": 8651,
@@ -3862,8 +3860,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -4023,8 +4020,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -4033,18 +4029,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grandebaiemartinique.com.ico",
     "slug": "grande-baie-martinique",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "60.40%",
-    "uptimeWeek": "94.34%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.52%",
+    "uptimeDay": "58.42%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "99.56%",
     "time": 3710,
     "timeDay": 2940,
     "timeWeek": 3109,
     "timeMonth": 3442,
     "timeYear": 4029,
     "dailyMinutesDown": {
-      "2024-04-08": 570,
+      "2024-04-09": 23,
+      "2024-04-08": 576,
       "2024-03-24": 28,
       "2024-02-05": 54,
       "2023-09-06": 17,
@@ -4104,7 +4101,7 @@
     "uptime": "87.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.55%",
+    "uptimeMonth": "77.61%",
     "uptimeYear": "82.86%",
     "time": 3426,
     "timeDay": 2694,
@@ -4201,8 +4198,7 @@
       "2023-04-21": 574,
       "2023-04-19": 25,
       "2023-04-17": 99,
-      "2023-04-11": 992,
-      "2023-04-10": 638
+      "2023-04-11": 992
     }
   },
   {
@@ -4284,7 +4280,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zetwal.mq.ico",
     "slug": "zetwal",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
