@@ -1,7 +1,7 @@
 url: https://www.agefma.mq
-status: up
-code: 200
-responseTime: 2453
-lastUpdated: 2024-04-15T23:03:55.736Z
+status: down
+code: 503
+responseTime: 792
+lastUpdated: 2024-04-16T19:10:08.129Z
 startTime: 2022-04-17T20:42:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
