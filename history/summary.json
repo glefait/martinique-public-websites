@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.26%",
-    "uptimeYear": "59.57%",
+    "uptimeYear": "59.59%",
     "time": 1823,
     "timeDay": 2426,
     "timeWeek": 1930,
@@ -169,8 +169,7 @@
       "2023-05-04": 942,
       "2023-05-03": 1428,
       "2023-05-02": 1440,
-      "2023-05-01": 1440,
-      "2023-04-30": 1440
+      "2023-05-01": 1440
     }
   },
   {
@@ -205,7 +204,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.69%",
+    "uptimeYear": "61.71%",
     "time": 2748,
     "timeDay": 3526,
     "timeWeek": 3435,
@@ -353,8 +352,7 @@
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
-      "2023-05-01": 1440,
-      "2023-04-30": 1440
+      "2023-05-01": 1440
     }
   },
   {
@@ -864,7 +862,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-28": 1385,
+      "2024-04-29": 21,
+      "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -1227,8 +1226,7 @@
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
-      "2023-05-01": 1440,
-      "2023-04-30": 1440
+      "2023-05-01": 1440
     }
   },
   {
@@ -1240,7 +1238,7 @@
     "uptime": "86.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.21%",
+    "uptimeMonth": "29.38%",
     "uptimeYear": "81.24%",
     "time": 2263,
     "timeDay": 1212,
@@ -1577,7 +1575,7 @@
     "uptime": "84.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "84.32%",
+    "uptimeMonth": "84.49%",
     "uptimeYear": "85.54%",
     "time": 3471,
     "timeDay": 1766,
@@ -1660,7 +1658,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.82%",
+    "uptimeYear": "35.83%",
     "time": 1499,
     "timeDay": 697,
     "timeWeek": 889,
@@ -1902,8 +1900,7 @@
       "2023-06-26": 862,
       "2023-05-08": 34,
       "2023-05-07": 129,
-      "2023-05-02": 571,
-      "2023-04-30": 579
+      "2023-05-02": 571
     }
   },
   {
@@ -1966,11 +1963,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-saintemarie.fr.ico",
     "slug": "sainte-marie",
     "status": "up",
-    "uptime": "51.50%",
+    "uptime": "51.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.88%",
+    "uptimeYear": "46.90%",
     "time": 705,
     "timeDay": 534,
     "timeWeek": 835,
@@ -2173,8 +2170,7 @@
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
-      "2023-05-01": 1440,
-      "2023-04-30": 1440
+      "2023-05-01": 1440
     }
   },
   {
@@ -2410,7 +2406,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cesecem.mq.ico",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "58.60%",
+    "uptime": "58.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.38%",
@@ -2919,7 +2915,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martiniquedev.fr.ico",
     "slug": "martinique-developpement",
     "status": "up",
-    "uptime": "72.45%",
+    "uptime": "72.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3360,8 +3356,7 @@
       "2023-07-15": 787,
       "2023-06-18": 902,
       "2023-06-17": 1440,
-      "2023-06-16": 1161,
-      "2023-04-30": 69
+      "2023-06-16": 1161
     }
   },
   {
@@ -3370,18 +3365,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.initiative-martinique.com.ico",
     "slug": "initiative-martinique-active",
     "status": "down",
-    "uptime": "70.31%",
+    "uptime": "70.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.78%",
+    "uptimeYear": "57.76%",
     "time": 3573,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1304,
     "timeYear": 3609,
     "dailyMinutesDown": {
-      "2024-04-28": 1386,
+      "2024-04-29": 23,
+      "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -3614,7 +3610,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.17%",
+    "uptimeYear": "55.19%",
     "time": 8406,
     "timeDay": 9341,
     "timeWeek": 10089,
@@ -3791,8 +3787,7 @@
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
-      "2023-05-01": 1440,
-      "2023-04-30": 1440
+      "2023-05-01": 1440
     }
   },
   {
@@ -3894,7 +3889,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.91%",
+    "uptimeYear": "90.92%",
     "time": 663,
     "timeDay": 461,
     "timeWeek": 711,
@@ -3932,8 +3927,7 @@
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
-      "2023-05-01": 1440,
-      "2023-04-30": 1440
+      "2023-05-01": 1440
     }
   },
   {
