@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.26%",
-    "uptimeYear": "59.85%",
+    "uptimeYear": "59.86%",
     "time": 1824,
     "timeDay": 2245,
     "timeWeek": 2061,
@@ -168,8 +168,7 @@
       "2023-05-05": 26,
       "2023-05-04": 942,
       "2023-05-03": 1428,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -204,7 +203,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.97%",
+    "uptimeYear": "61.98%",
     "time": 2748,
     "timeDay": 2679,
     "timeWeek": 3315,
@@ -351,8 +350,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -584,7 +582,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-lelamentin.fr.ico",
     "slug": "le-lamentin",
     "status": "up",
-    "uptime": "86.91%",
+    "uptime": "86.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -862,7 +860,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-29": 1386,
+      "2024-04-30": 20,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -1225,8 +1224,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -1238,7 +1236,7 @@
     "uptime": "86.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.50%",
+    "uptimeMonth": "32.67%",
     "uptimeYear": "81.24%",
     "time": 2196,
     "timeDay": 887,
@@ -1575,7 +1573,7 @@
     "uptime": "84.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "87.61%",
+    "uptimeMonth": "87.77%",
     "uptimeYear": "85.54%",
     "time": 3475,
     "timeDay": 3151,
@@ -1658,7 +1656,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.09%",
+    "uptimeYear": "36.10%",
     "time": 1479,
     "timeDay": 983,
     "timeWeek": 876,
@@ -1967,7 +1965,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.16%",
+    "uptimeYear": "47.17%",
     "time": 706,
     "timeDay": 924,
     "timeWeek": 838,
@@ -2169,8 +2167,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -2335,8 +2332,7 @@
       "2023-05-06": 678,
       "2023-05-05": 81,
       "2023-05-04": 645,
-      "2023-05-02": 201,
-      "2023-05-01": 275
+      "2023-05-02": 201
     }
   },
   {
@@ -2796,7 +2792,7 @@
     "uptimeYear": "100.00%",
     "time": 2515,
     "timeDay": 3498,
-    "timeWeek": 3634,
+    "timeWeek": 3722,
     "timeMonth": 3615,
     "timeYear": 2779,
     "dailyMinutesDown": {}
@@ -3182,7 +3178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technopolemartinique.org.ico",
     "slug": "technopole-martinique",
     "status": "up",
-    "uptime": "96.63%",
+    "uptime": "96.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3369,14 +3365,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.50%",
+    "uptimeYear": "57.49%",
     "time": 3574,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1304,
     "timeYear": 3609,
     "dailyMinutesDown": {
-      "2024-04-29": 1388,
+      "2024-04-30": 21,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -3606,11 +3603,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.adilmartinique.org.ico",
     "slug": "adil-martinique",
     "status": "up",
-    "uptime": "61.76%",
+    "uptime": "61.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.45%",
+    "uptimeYear": "55.46%",
     "time": 8437,
     "timeDay": 10390,
     "timeWeek": 10155,
@@ -3786,8 +3783,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -3885,11 +3881,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/saem-legalion.net.ico",
     "slug": "le-galion",
     "status": "up",
-    "uptime": "82.92%",
+    "uptime": "82.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.18%",
+    "uptimeYear": "91.20%",
     "time": 664,
     "timeDay": 645,
     "timeWeek": 660,
@@ -3926,8 +3922,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -4097,8 +4092,7 @@
       "2023-06-17": 341,
       "2023-05-11": 663,
       "2023-05-10": 611,
-      "2023-05-03": 579,
-      "2023-05-01": 1049
+      "2023-05-03": 579
     }
   },
   {
