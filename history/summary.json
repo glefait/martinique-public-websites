@@ -9,7 +9,7 @@
     "uptimeDay": "98.82%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "64.56%",
+    "uptimeYear": "64.57%",
     "time": 1861,
     "timeDay": 1403,
     "timeWeek": 1757,
@@ -149,8 +149,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -183,12 +182,12 @@
     "status": "up",
     "uptime": "57.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "69.91%",
+    "uptimeYear": "69.92%",
     "time": 2781,
     "timeDay": 3153,
-    "timeWeek": 3060,
+    "timeWeek": 3381,
     "timeMonth": 2941,
     "timeYear": 3166,
     "dailyMinutesDown": {
@@ -305,8 +304,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -333,7 +331,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fortdefrance.fr.ico",
     "slug": "fort-de-france",
     "status": "up",
-    "uptime": "88.42%",
+    "uptime": "88.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -426,7 +424,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.51%",
+    "uptimeYear": "77.52%",
     "time": 2189,
     "timeDay": 1302,
     "timeWeek": 1542,
@@ -517,8 +515,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -803,7 +800,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-28": 1408,
+      "2024-05-29": 22,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -1166,8 +1164,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -1183,7 +1180,7 @@
     "uptimeYear": "81.24%",
     "time": 2043,
     "timeDay": 795,
-    "timeWeek": 1487,
+    "timeWeek": 1483,
     "timeMonth": 1273,
     "timeYear": 1809,
     "dailyMinutesDown": {
@@ -1517,7 +1514,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/villedulorrain.com.ico",
     "slug": "le-lorrain",
     "status": "up",
-    "uptime": "85.47%",
+    "uptime": "85.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1851,18 +1848,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-robert.fr.ico",
     "slug": "le-robert",
     "status": "up",
-    "uptime": "95.51%",
+    "uptime": "95.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.21%",
-    "uptimeYear": "90.77%",
+    "uptimeMonth": "73.09%",
+    "uptimeYear": "90.76%",
     "time": 3385,
     "timeDay": 2688,
     "timeWeek": 2954,
     "timeMonth": 2990,
     "timeYear": 3568,
     "dailyMinutesDown": {
-      "2024-05-28": 1409,
+      "2024-05-29": 23,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -1918,7 +1916,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.11%",
+    "uptimeYear": "55.12%",
     "time": 710,
     "timeDay": 438,
     "timeWeek": 795,
@@ -2091,8 +2089,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -2321,7 +2318,7 @@
     "uptimeDay": "98.83%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "22.18%",
+    "uptimeYear": "22.19%",
     "time": 4756,
     "timeDay": 3103,
     "timeWeek": 3968,
@@ -2613,8 +2610,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -2655,8 +2651,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1164,
-      "2023-05-31": 117,
-      "2023-05-30": 676
+      "2023-05-31": 117
     }
   },
   {
@@ -3182,7 +3177,7 @@
     "slug": "biodiversite-martinique",
     "status": "up",
     "uptime": "92.86%",
-    "uptimeDay": "36.02%",
+    "uptimeDay": "39.78%",
     "uptimeWeek": "47.76%",
     "uptimeMonth": "87.94%",
     "uptimeYear": "85.62%",
@@ -3280,14 +3275,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.55%",
+    "uptimeYear": "49.54%",
     "time": 3526,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3576,
     "dailyMinutesDown": {
-      "2024-05-28": 1409,
+      "2024-05-29": 24,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -3551,7 +3547,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.39%",
+    "uptimeYear": "63.40%",
     "time": 9045,
     "timeDay": 9357,
     "timeWeek": 10328,
@@ -3698,8 +3694,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -3801,7 +3796,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 660,
     "timeDay": 737,
     "timeWeek": 737,
@@ -3809,8 +3804,7 @@
     "timeYear": 641,
     "dailyMinutesDown": {
       "2023-06-01": 208,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -4061,9 +4055,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zetwal.mq.ico",
     "slug": "zetwal",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.08%",
+    "uptimeWeek": "75.62%",
     "uptimeMonth": "93.59%",
     "uptimeYear": "97.27%",
     "time": 1286,
