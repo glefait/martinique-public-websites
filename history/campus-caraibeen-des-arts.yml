@@ -1,7 +1,7 @@
 url: https://cca-martinique.com
-status: up
-code: 200
-responseTime: 893
-lastUpdated: 2024-08-23T23:05:23.503Z
+status: down
+code: 500
+responseTime: 28783
+lastUpdated: 2024-08-24T13:48:48.236Z
 startTime: 2022-04-17T20:42:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
