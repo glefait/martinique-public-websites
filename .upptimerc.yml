@@ -58,8 +58,7 @@ sites:
   - name: Odyssi
     url: https://www.odyssi.fr
   - name: cesecem
-    url: http://www.cesecem.mq
-    __dangerous__insecure: true
+    url: https://www.cesecem.mq
   - name: Parc Naturel Regional de la Martinique
     url: http://pnr-martinique.com
   - name: Maison Martiniquaise des Personnes en situation d Handicap
@@ -79,7 +78,7 @@ sites:
   - name: Biodiversite Martinique
     url: http://www.biodiversite-martinique.fr
   - name: Initiative Martinique Active
-    url: http://www.initiative-martinique.com
+    url: https://www.initiative-martinique.com
   - name: Institut Martiniquais du Sport
     url: https://www.ims.mq
   - name: ADIL Martinique
