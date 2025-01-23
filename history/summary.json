@@ -260,7 +260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sainteluce.fr.ico",
     "slug": "sainte-luce",
     "status": "up",
-    "uptime": "92.73%",
+    "uptime": "92.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -425,7 +425,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-22": 1404,
+      "2025-01-23": 24,
+      "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -788,8 +789,7 @@
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
-      "2024-01-25": 1440,
-      "2024-01-24": 1440
+      "2024-01-25": 1440
     }
   },
   {
@@ -965,7 +965,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.89%",
     "time": 1269,
     "timeDay": 1843,
     "timeWeek": 1243,
@@ -974,8 +974,7 @@
     "dailyMinutesDown": {
       "2024-01-27": 124,
       "2024-01-26": 1440,
-      "2024-01-25": 1440,
-      "2024-01-24": 1440
+      "2024-01-25": 1440
     }
   },
   {
@@ -1054,7 +1053,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.04%",
+    "uptimeYear": "94.05%",
     "time": 806,
     "timeDay": 1076,
     "timeWeek": 660,
@@ -1080,8 +1079,7 @@
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
-      "2024-01-25": 1440,
-      "2024-01-24": 1440
+      "2024-01-25": 1440
     }
   },
   {
@@ -1140,7 +1138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-saintemarie.fr.ico",
     "slug": "sainte-marie",
     "status": "up",
-    "uptime": "64.22%",
+    "uptime": "64.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.86%",
@@ -1344,14 +1342,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.88%",
+    "uptimeYear": "76.87%",
     "time": 933,
     "timeDay": 978,
     "timeWeek": 786,
     "timeMonth": 856,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2025-01-22": 1405,
+      "2025-01-23": 25,
+      "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -1444,10 +1443,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cesecem.mq.ico",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "55.74%",
+    "uptime": "55.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "67.39%",
+    "uptimeMonth": "67.53%",
     "uptimeYear": "45.61%",
     "time": 4053,
     "timeDay": 2782,
@@ -1674,7 +1673,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pnr-martinique.com.ico",
     "slug": "parc-naturel-regional-de-la-martinique",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1834,7 +1833,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.32%",
+    "uptimeYear": "89.33%",
     "time": 1335,
     "timeDay": 1853,
     "timeWeek": 1072,
@@ -1880,8 +1879,7 @@
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
-      "2024-01-25": 1440,
-      "2024-01-24": 1440
+      "2024-01-25": 1440
     }
   },
   {
@@ -2042,7 +2040,8 @@
     "timeMonth": 506,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-01-22": 1406,
+      "2025-01-23": 26,
+      "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -2405,8 +2404,7 @@
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
-      "2024-01-25": 1440,
-      "2024-01-24": 1440
+      "2024-01-25": 1440
     }
   },
   {
