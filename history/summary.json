@@ -6,9 +6,9 @@
     "slug": "ctm",
     "status": "up",
     "uptime": "83.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "94.14%",
     "time": 2340,
     "timeDay": 1681,
@@ -16,7 +16,6 @@
     "timeMonth": 2383,
     "timeYear": 2639,
     "dailyMinutesDown": {
-      "2025-01-30": 5,
       "2025-01-27": 138,
       "2025-01-16": 48,
       "2024-12-16": 761,
@@ -68,7 +67,7 @@
     "uptimeYear": "99.94%",
     "time": 1110,
     "timeDay": 1037,
-    "timeWeek": 1080,
+    "timeWeek": 1087,
     "timeMonth": 1049,
     "timeYear": 1121,
     "dailyMinutesDown": {
@@ -228,7 +227,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-lelamentin.fr.ico",
     "slug": "le-lamentin",
     "status": "up",
-    "uptime": "90.41%",
+    "uptime": "90.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -433,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 1390,
+      "2025-01-31": 24,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -796,8 +796,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -986,7 +985,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/villedulorrain.com.ico",
     "slug": "le-lorrain",
     "status": "up",
-    "uptime": "86.19%",
+    "uptime": "86.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1052,11 +1051,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-francois.fr.ico",
     "slug": "le-francois",
     "status": "up",
-    "uptime": "76.43%",
+    "uptime": "76.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.24%",
     "time": 805,
     "timeDay": 568,
     "timeWeek": 774,
@@ -1074,8 +1073,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -1335,18 +1333,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.odyssi.fr.ico",
     "slug": "odyssi",
     "status": "up",
-    "uptime": "87.74%",
+    "uptime": "87.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.69%",
+    "uptimeYear": "74.67%",
     "time": 931,
     "timeDay": 840,
     "timeWeek": 899,
     "timeMonth": 837,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2025-01-30": 1391,
+      "2025-01-31": 25,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1451,7 +1450,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "83.33%",
-    "uptimeYear": "46.78%",
+    "uptimeYear": "46.79%",
     "time": 4179,
     "timeDay": 2561,
     "timeWeek": 5983,
@@ -1663,8 +1662,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -1830,11 +1828,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martiniquedev.fr.ico",
     "slug": "martinique-developpement",
     "status": "up",
-    "uptime": "79.81%",
+    "uptime": "79.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.51%",
+    "uptimeYear": "91.52%",
     "time": 1325,
     "timeDay": 720,
     "timeWeek": 1183,
@@ -1872,8 +1870,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -2023,7 +2020,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.initiative-martinique.com.ico",
     "slug": "initiative-martinique-active",
     "status": "down",
-    "uptime": "51.20%",
+    "uptime": "51.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2034,7 +2031,8 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-01-30": 1392,
+      "2025-01-31": 25,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -2397,8 +2395,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -2619,7 +2616,7 @@
     "slug": "office-du-tourisme-du-centre-de-la-martinique",
     "status": "up",
     "uptime": "91.19%",
-    "uptimeDay": "16.54%",
+    "uptimeDay": "21.64%",
     "uptimeWeek": "82.53%",
     "uptimeMonth": "95.94%",
     "uptimeYear": "96.45%",
