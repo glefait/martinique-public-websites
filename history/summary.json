@@ -66,7 +66,7 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
     "time": 1110,
-    "timeDay": 982,
+    "timeDay": 900,
     "timeWeek": 1024,
     "timeMonth": 1047,
     "timeYear": 1120,
@@ -109,8 +109,7 @@
       "2024-05-21": 27,
       "2024-03-05": 21,
       "2024-02-05": 18,
-      "2024-02-04": 860,
-      "2024-02-03": 798
+      "2024-02-04": 860
     }
   },
   {
@@ -402,7 +401,7 @@
     "uptimeYear": "98.52%",
     "time": 1984,
     "timeDay": 1225,
-    "timeWeek": 1335,
+    "timeWeek": 1342,
     "timeMonth": 1412,
     "timeYear": 2050,
     "dailyMinutesDown": {
@@ -433,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1403,
+      "2025-02-02": 26,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -796,8 +796,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -1056,7 +1055,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.79%",
     "time": 805,
     "timeDay": 703,
     "timeWeek": 718,
@@ -1072,8 +1071,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -1133,7 +1131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-saintemarie.fr.ico",
     "slug": "sainte-marie",
     "status": "up",
-    "uptime": "64.57%",
+    "uptime": "64.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.86%",
@@ -1150,8 +1148,7 @@
       "2024-09-23": 831,
       "2024-03-02": 369,
       "2024-02-05": 530,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -1338,14 +1335,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.14%",
+    "uptimeYear": "74.13%",
     "time": 931,
     "timeDay": 639,
     "timeWeek": 846,
     "timeMonth": 837,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2025-02-01": 1404,
+      "2025-02-02": 27,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1449,17 +1447,16 @@
     "slug": "cesecem",
     "status": "up",
     "uptime": "56.17%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "83.31%",
-    "uptimeYear": "47.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "83.33%",
+    "uptimeYear": "47.34%",
     "time": 4213,
     "timeDay": 8056,
     "timeWeek": 7491,
     "timeMonth": 4622,
     "timeYear": 4225,
     "dailyMinutesDown": {
-      "2025-02-01": 8,
       "2025-01-27": 136,
       "2025-01-23": 16,
       "2025-01-16": 47,
@@ -1663,8 +1660,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -1831,11 +1827,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martiniquedev.fr.ico",
     "slug": "martinique-developpement",
     "status": "up",
-    "uptime": "79.85%",
+    "uptime": "79.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.06%",
+    "uptimeYear": "92.07%",
     "time": 1326,
     "timeDay": 1128,
     "timeWeek": 1092,
@@ -1871,8 +1867,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -2022,7 +2017,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.initiative-martinique.com.ico",
     "slug": "initiative-martinique-active",
     "status": "down",
-    "uptime": "51.10%",
+    "uptime": "51.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2033,7 +2028,8 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-02-01": 1404,
+      "2025-02-02": 27,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -2396,8 +2392,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -2446,7 +2441,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.adilmartinique.org.ico",
     "slug": "adil-martinique",
     "status": "up",
-    "uptime": "72.15%",
+    "uptime": "72.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -2480,7 +2475,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4633,
-    "timeDay": 15115,
+    "timeDay": 14984,
     "timeWeek": 13450,
     "timeMonth": 10718,
     "timeYear": 4779,
