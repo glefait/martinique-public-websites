@@ -1,7 +1,7 @@
 url: http://riviere-salee.fr
-status: up
-code: 200
-responseTime: 991
-lastUpdated: 2025-02-06T20:41:40.315Z
+status: down
+code: 503
+responseTime: 139
+lastUpdated: 2025-02-07T04:45:06.769Z
 startTime: 2022-04-17T20:41:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
