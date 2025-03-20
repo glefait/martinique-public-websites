@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2025-03-20": 1293,
+      "2025-03-20": 1299,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -417,7 +417,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 1293,
+      "2025-03-20": 1299,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -793,7 +793,7 @@
     "uptime": "89.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.41%",
+    "uptimeMonth": "42.40%",
     "uptimeYear": "86.47%",
     "time": 1184,
     "timeDay": 0,
@@ -801,7 +801,7 @@
     "timeMonth": 1136,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2025-03-20": 1293,
+      "2025-03-20": 1299,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -943,19 +943,19 @@
     "url": "https://www.villeducarbet.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.villeducarbet.fr.ico",
     "slug": "le-carbet",
-    "status": "down",
+    "status": "up",
     "uptime": "90.57%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1301,
-    "timeDay": 1528,
-    "timeWeek": 1320,
-    "timeMonth": 1538,
+    "time": 1302,
+    "timeDay": 1350,
+    "timeWeek": 1303,
+    "timeMonth": 1527,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2025-03-20": 1
+      "2025-03-20": 6
     }
   },
   {
@@ -1927,7 +1927,7 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-03-20": 1294,
+      "2025-03-20": 1300,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
