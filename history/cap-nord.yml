@@ -1,7 +1,7 @@
 url: http://www.capnordmartinique.fr
-status: up
-code: 200
-responseTime: 756
-lastUpdated: 2025-03-26T23:44:24.584Z
+status: down
+code: 503
+responseTime: 495
+lastUpdated: 2025-03-27T18:46:03.679Z
 startTime: 2022-04-17T13:46:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
