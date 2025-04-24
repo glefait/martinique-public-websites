@@ -273,8 +273,8 @@
     "status": "down",
     "uptime": "86.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.17%",
-    "uptimeMonth": "80.25%",
+    "uptimeWeek": "14.12%",
+    "uptimeMonth": "80.24%",
     "uptimeYear": "72.02%",
     "time": 844,
     "timeDay": 0,
@@ -282,7 +282,7 @@
     "timeMonth": 743,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2025-04-24": 1368,
+      "2025-04-24": 1373,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -433,7 +433,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-24": 1368,
+      "2025-04-24": 1373,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -809,7 +809,7 @@
     "uptime": "88.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.59%",
+    "uptimeMonth": "87.60%",
     "uptimeYear": "92.43%",
     "time": 1159,
     "timeDay": 1188,
@@ -1008,19 +1008,19 @@
     "url": "https://www.ville-francois.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-francois.fr.ico",
     "slug": "le-francois",
-    "status": "down",
+    "status": "up",
     "uptime": "78.23%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 1033,
-    "timeWeek": 934,
+    "timeDay": 959,
+    "timeWeek": 928,
     "timeMonth": 864,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-04-24": 2
+      "2025-04-24": 5
     }
   },
   {
@@ -1912,7 +1912,7 @@
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-04-24": 1369,
+      "2025-04-24": 1374,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
