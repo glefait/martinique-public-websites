@@ -274,7 +274,7 @@
     "uptime": "85.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.62%",
+    "uptimeMonth": "62.59%",
     "uptimeYear": "70.55%",
     "time": 846,
     "timeDay": 0,
@@ -282,7 +282,7 @@
     "timeMonth": 718,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2025-04-30": 449,
+      "2025-04-30": 464,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 449,
+      "2025-04-30": 464,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -1614,10 +1614,10 @@
     "url": "https://tropiques-atrium.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tropiques-atrium.fr.ico",
     "slug": "tropiques-atrium",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "97.13%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "97.11%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "95.32%",
     "time": 6800,
@@ -1626,7 +1626,7 @@
     "timeMonth": 9370,
     "timeYear": 7059,
     "dailyMinutesDown": {
-      "2025-04-30": 152,
+      "2025-04-30": 155,
       "2025-04-28": 138,
       "2025-04-17": 32,
       "2025-04-15": 111,
@@ -1728,8 +1728,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1161,
-      "2024-05-24": 24,
-      "2024-05-20": 19
+      "2024-05-24": 24
     }
   },
   {
@@ -1918,7 +1917,7 @@
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-04-30": 450,
+      "2025-04-30": 466,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
