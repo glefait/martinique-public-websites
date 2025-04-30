@@ -1,7 +1,7 @@
 url: https://imfpa.mq
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2025-04-29T23:04:37.816Z
+status: down
+code: 503
+responseTime: 1167
+lastUpdated: 2025-04-30T00:38:54.671Z
 startTime: 2022-04-17T20:43:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
