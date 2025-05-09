@@ -84,7 +84,7 @@
     "uptimeYear": "99.79%",
     "time": 3540,
     "timeDay": 0,
-    "timeWeek": 4232,
+    "timeWeek": 4139,
     "timeMonth": 4083,
     "timeYear": 3573,
     "dailyMinutesDown": {
@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fortdefrance.fr.ico",
     "slug": "fort-de-france",
     "status": "up",
-    "uptime": "91.99%",
+    "uptime": "92.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -222,7 +222,7 @@
     "uptimeYear": "99.86%",
     "time": 7243,
     "timeDay": 0,
-    "timeWeek": 4915,
+    "timeWeek": 4814,
     "timeMonth": 5421,
     "timeYear": 7306,
     "dailyMinutesDown": {
@@ -254,7 +254,7 @@
     "uptimeYear": "99.14%",
     "time": 796,
     "timeDay": 0,
-    "timeWeek": 687,
+    "timeWeek": 691,
     "timeMonth": 778,
     "timeYear": 803,
     "dailyMinutesDown": {
@@ -276,15 +276,16 @@
     "uptime": "85.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.19%",
-    "uptimeYear": "68.18%",
+    "uptimeMonth": "33.84%",
+    "uptimeYear": "68.15%",
     "time": 847,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 608,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-05-08": 1383,
+      "2025-05-09": 98,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -449,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 1383,
+      "2025-05-09": 98,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -812,8 +814,7 @@
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
-      "2024-05-10": 1440,
-      "2024-05-09": 1440
+      "2024-05-10": 1440
     }
   },
   {
@@ -1391,14 +1392,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cesecem.mq.ico",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "59.87%",
+    "uptime": "59.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "61.35%",
     "time": 4101,
     "timeDay": 0,
-    "timeWeek": 7636,
+    "timeWeek": 5609,
     "timeMonth": 4849,
     "timeYear": 4390,
     "dailyMinutesDown": {
@@ -1578,7 +1579,7 @@
     "uptimeYear": "99.97%",
     "time": 2274,
     "timeDay": 0,
-    "timeWeek": 1632,
+    "timeWeek": 1616,
     "timeMonth": 1626,
     "timeYear": 2327,
     "dailyMinutesDown": {
@@ -1599,7 +1600,7 @@
     "uptimeYear": "100.00%",
     "time": 4362,
     "timeDay": 0,
-    "timeWeek": 1860,
+    "timeWeek": 1820,
     "timeMonth": 1850,
     "timeYear": 4764,
     "dailyMinutesDown": {}
@@ -1617,7 +1618,7 @@
     "uptimeYear": "100.00%",
     "time": 2024,
     "timeDay": 0,
-    "timeWeek": 1029,
+    "timeWeek": 1044,
     "timeMonth": 1076,
     "timeYear": 1717,
     "dailyMinutesDown": {}
@@ -1628,18 +1629,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tropiques-atrium.fr.ico",
     "slug": "tropiques-atrium",
     "status": "down",
-    "uptime": "97.89%",
+    "uptime": "97.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "30.22%",
-    "uptimeMonth": "77.53%",
-    "uptimeYear": "93.54%",
+    "uptimeMonth": "77.18%",
+    "uptimeYear": "93.51%",
     "time": 6811,
     "timeDay": 0,
     "timeWeek": 6152,
     "timeMonth": 8079,
     "timeYear": 7050,
     "dailyMinutesDown": {
-      "2025-05-08": 1384,
+      "2025-05-09": 99,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -1756,14 +1758,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martiniquedev.fr.ico",
     "slug": "martinique-developpement",
     "status": "up",
-    "uptime": "81.58%",
+    "uptime": "81.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.64%",
     "time": 1323,
     "timeDay": 0,
-    "timeWeek": 1240,
+    "timeWeek": 1212,
     "timeMonth": 1387,
     "timeYear": 1320,
     "dailyMinutesDown": {
@@ -1786,7 +1788,7 @@
     "uptimeYear": "99.94%",
     "time": 1735,
     "timeDay": 0,
-    "timeWeek": 1150,
+    "timeWeek": 1175,
     "timeMonth": 2012,
     "timeYear": 1661,
     "dailyMinutesDown": {
@@ -1815,7 +1817,7 @@
     "uptimeYear": "100.00%",
     "time": 1031,
     "timeDay": 0,
-    "timeWeek": 1310,
+    "timeWeek": 1305,
     "timeMonth": 1299,
     "timeYear": 1079,
     "dailyMinutesDown": {}
@@ -1833,7 +1835,7 @@
     "uptimeYear": "94.55%",
     "time": 4780,
     "timeDay": 0,
-    "timeWeek": 6732,
+    "timeWeek": 7015,
     "timeMonth": 5521,
     "timeYear": 4732,
     "dailyMinutesDown": {
@@ -1883,7 +1885,7 @@
     "uptimeYear": "92.96%",
     "time": 2019,
     "timeDay": 0,
-    "timeWeek": 1793,
+    "timeWeek": 1827,
     "timeMonth": 1883,
     "timeYear": 1967,
     "dailyMinutesDown": {
@@ -1915,8 +1917,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 55,
-      "2024-05-09": 16
+      "2024-05-24": 55
     }
   },
   {
@@ -1925,7 +1926,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.initiative-martinique.com.ico",
     "slug": "initiative-martinique-active",
     "status": "down",
-    "uptime": "46.71%",
+    "uptime": "46.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1936,7 +1937,8 @@
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-05-08": 1384,
+      "2025-05-09": 99,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -2299,8 +2301,7 @@
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
-      "2024-05-10": 1440,
-      "2024-05-09": 1440
+      "2024-05-10": 1440
     }
   },
   {
@@ -2316,7 +2317,7 @@
     "uptimeYear": "98.12%",
     "time": 1637,
     "timeDay": 0,
-    "timeWeek": 448,
+    "timeWeek": 457,
     "timeMonth": 486,
     "timeYear": 1270,
     "dailyMinutesDown": {
@@ -2343,14 +2344,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.adilmartinique.org.ico",
     "slug": "adil-martinique",
     "status": "up",
-    "uptime": "74.54%",
+    "uptime": "74.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 5220,
     "timeDay": 0,
-    "timeWeek": 1359,
+    "timeWeek": 1357,
     "timeMonth": 1373,
     "timeYear": 3303,
     "dailyMinutesDown": {
@@ -2372,17 +2373,17 @@
     "url": "https://imfpa.mq",
     "icon": "https://icons.duckduckgo.com/ip3/imfpa.mq.ico",
     "slug": "institut-martiniquais-de-formation-professionnelle-pour-adultes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6682,
-    "timeDay": 822,
-    "timeWeek": 932,
-    "timeMonth": 673,
-    "timeYear": 7119,
+    "time": 6673,
+    "timeDay": 853,
+    "timeWeek": 938,
+    "timeMonth": 678,
+    "timeYear": 7109,
     "dailyMinutesDown": {}
   },
   {
@@ -2398,7 +2399,7 @@
     "uptimeYear": "99.96%",
     "time": 3411,
     "timeDay": 0,
-    "timeWeek": 1434,
+    "timeWeek": 1471,
     "timeMonth": 1645,
     "timeYear": 2566,
     "dailyMinutesDown": {
@@ -2421,7 +2422,7 @@
     "uptimeYear": "99.97%",
     "time": 691,
     "timeDay": 0,
-    "timeWeek": 583,
+    "timeWeek": 568,
     "timeMonth": 622,
     "timeYear": 695,
     "dailyMinutesDown": {
@@ -2444,7 +2445,7 @@
     "uptimeYear": "99.14%",
     "time": 3331,
     "timeDay": 0,
-    "timeWeek": 2758,
+    "timeWeek": 2800,
     "timeMonth": 3030,
     "timeYear": 3364,
     "dailyMinutesDown": {
@@ -2471,7 +2472,7 @@
     "uptimeYear": "99.98%",
     "time": 715,
     "timeDay": 0,
-    "timeWeek": 949,
+    "timeWeek": 933,
     "timeMonth": 1011,
     "timeYear": 806,
     "dailyMinutesDown": {
@@ -2491,7 +2492,7 @@
     "uptimeYear": "99.72%",
     "time": 747,
     "timeDay": 0,
-    "timeWeek": 772,
+    "timeWeek": 780,
     "timeMonth": 747,
     "timeYear": 751,
     "dailyMinutesDown": {
@@ -2515,7 +2516,7 @@
     "uptimeYear": "99.20%",
     "time": 5509,
     "timeDay": 0,
-    "timeWeek": 3784,
+    "timeWeek": 3883,
     "timeMonth": 2896,
     "timeYear": 6138,
     "dailyMinutesDown": {
@@ -2548,7 +2549,7 @@
     "uptimeYear": "98.78%",
     "time": 1668,
     "timeDay": 0,
-    "timeWeek": 1496,
+    "timeWeek": 1453,
     "timeMonth": 1575,
     "timeYear": 1659,
     "dailyMinutesDown": {
@@ -2584,7 +2585,7 @@
     "uptimeYear": "97.82%",
     "time": 847,
     "timeDay": 0,
-    "timeWeek": 825,
+    "timeWeek": 867,
     "timeMonth": 881,
     "timeYear": 838,
     "dailyMinutesDown": {
@@ -2612,7 +2613,7 @@
     "uptimeYear": "97.26%",
     "time": 2481,
     "timeDay": 0,
-    "timeWeek": 3462,
+    "timeWeek": 3388,
     "timeMonth": 3277,
     "timeYear": 2996,
     "dailyMinutesDown": {
