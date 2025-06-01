@@ -1,7 +1,7 @@
 url: https://saintpierre-mq.fr
-status: up
-code: 200
-responseTime: 2273
-lastUpdated: 2025-05-31T23:03:37.684Z
+status: down
+code: 500
+responseTime: 577
+lastUpdated: 2025-06-01T18:00:10.819Z
 startTime: 2022-04-17T20:41:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
