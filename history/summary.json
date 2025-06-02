@@ -8,15 +8,16 @@
     "uptime": "83.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "23.92%",
-    "uptimeYear": "92.92%",
+    "uptimeMonth": "23.76%",
+    "uptimeYear": "92.90%",
     "time": 2884,
     "timeDay": 2415,
     "timeWeek": 2554,
     "timeMonth": 5319,
     "timeYear": 3285,
     "dailyMinutesDown": {
-      "2025-06-01": 1398,
+      "2025-06-02": 30,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -298,14 +299,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.60%",
+    "uptimeYear": "61.59%",
     "time": 852,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2025-06-01": 1399,
+      "2025-06-02": 30,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -494,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-01": 1399,
+      "2025-06-02": 31,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -857,8 +860,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -1070,7 +1072,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-francois.fr.ico",
     "slug": "le-francois",
     "status": "up",
-    "uptime": "78.95%",
+    "uptime": "78.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1092,7 +1094,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.70%",
     "time": 3176,
     "timeDay": 3026,
     "timeWeek": 3368,
@@ -1119,8 +1121,7 @@
       "2024-08-18": 15,
       "2024-08-12": 114,
       "2024-06-04": 1155,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -1425,9 +1426,9 @@
     "slug": "cesecem",
     "status": "up",
     "uptime": "60.72%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "61.36%",
     "time": 4065,
     "timeDay": 2769,
@@ -1435,7 +1436,6 @@
     "timeMonth": 3968,
     "timeYear": 4243,
     "dailyMinutesDown": {
-      "2025-06-01": 9,
       "2025-05-05": 189,
       "2025-04-28": 115,
       "2025-04-01": 64,
@@ -1664,10 +1664,10 @@
     "uptime": "98.30%",
     "uptimeDay": "97.95%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "80.94%",
+    "uptimeMonth": "81.10%",
     "uptimeYear": "94.68%",
     "time": 6965,
-    "timeDay": 13280,
+    "timeDay": 14066,
     "timeWeek": 10671,
     "timeMonth": 8496,
     "timeYear": 7224,
@@ -1903,7 +1903,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biodiversite-martinique.fr.ico",
     "slug": "biodiversite-martinique",
     "status": "up",
-    "uptime": "93.23%",
+    "uptime": "93.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -1958,7 +1958,8 @@
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-06-01": 1400,
+      "2025-06-02": 31,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -2321,8 +2322,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -2365,12 +2365,12 @@
     "status": "up",
     "uptime": "75.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.15%",
+    "uptimeWeek": "97.45%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "99.77%",
     "time": 4828,
     "timeDay": 1183,
-    "timeWeek": 10056,
+    "timeWeek": 9967,
     "timeMonth": 7363,
     "timeYear": 3616,
     "dailyMinutesDown": {
