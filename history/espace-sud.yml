@@ -1,7 +1,7 @@
 url: http://espacesud.fr
-status: up
-code: 200
-responseTime: 4204
-lastUpdated: 2025-06-13T23:03:08.505Z
+status: down
+code: 500
+responseTime: 380
+lastUpdated: 2025-06-14T07:05:15.102Z
 startTime: 2022-04-17T13:46:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
