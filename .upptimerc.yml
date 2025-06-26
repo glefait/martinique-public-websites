@@ -78,7 +78,8 @@ sites:
   - name: Biodiversite Martinique
     url: http://www.biodiversite-martinique.fr
   - name: Initiative Martinique Active
-    url: https://www.initiative-martinique.com
+    url: https://www.ima.mq
+    # was: https://www.initiative-martinique.com
   - name: Institut Martiniquais du Sport
     url: https://www.ims.mq
   - name: ADIL Martinique
