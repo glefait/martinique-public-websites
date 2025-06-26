@@ -8,7 +8,7 @@
     "uptime": "83.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "45.70%",
-    "uptimeMonth": "65.13%",
+    "uptimeMonth": "65.14%",
     "uptimeYear": "91.72%",
     "time": 3024,
     "timeDay": 2417,
@@ -296,8 +296,8 @@
     "slug": "la-trinite",
     "status": "up",
     "uptime": "81.69%",
-    "uptimeDay": "29.01%",
-    "uptimeWeek": "4.14%",
+    "uptimeDay": "29.48%",
+    "uptimeWeek": "4.21%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "54.88%",
     "time": 863,
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 1166,
+      "2025-06-26": 1173,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1951,8 +1951,8 @@
     "slug": "initiative-martinique-active",
     "status": "up",
     "uptime": "44.78%",
-    "uptimeDay": "32.92%",
-    "uptimeWeek": "4.70%",
+    "uptimeDay": "33.38%",
+    "uptimeWeek": "4.77%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.09%",
     "time": 594,
@@ -2671,7 +2671,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 418
+      "2025-06-26": 425
     }
   },
   {
@@ -2679,7 +2679,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
