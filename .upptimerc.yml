@@ -23,10 +23,13 @@ sites:
     url: https://www.sainteluce.fr
   - name: La Trinite
     url: https://www.mairie-latrinite.fr
+    # expired certificate
+    __dangerous__insecure: true
   - name: Le Vauclin
     url: http://ville-vauclin.fr
   - name: Riviere-Pilote
     url: https://rivierepilote.fr
+    # expired. mairie-riviere-pilote.fr
   - name: Riviere-Salee
     url: http://riviere-salee.fr
   - name: Saint-Pierre
@@ -104,10 +107,20 @@ sites:
     url: https://www.smtvd.fr
   - name: zetwal
     url: https://www.zetwal.mq
+  - name: Martinique Aménagement & Equipement
+    # expired
+    url: https://martiniqueamenagementequipement.fr
+  - name: Agence de Développement Durable, d'Urbanisme et d'Aménagement de la Martinique
+    url: https://www.adduam.com
+  - name: Office de Tourisme Centre
+    url: https://terresducentremartinique.fr
+  - name: port de plaisance communautaire Etag Z'abricot
+    url: https://portetangzabricots.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: guillem.lefait.fr
   baseUrl: /martinique-public-websites
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Martinique public websites monitoring
