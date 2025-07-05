@@ -295,8 +295,8 @@
     "uptime": "81.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.23%",
-    "uptimeYear": "56.92%",
+    "uptimeMonth": "29.32%",
+    "uptimeYear": "56.93%",
     "time": 861,
     "timeDay": 687,
     "timeWeek": 751,
@@ -464,8 +464,7 @@
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
-      "2024-07-06": 1440,
-      "2024-07-05": 1440
+      "2024-07-06": 1440
     }
   },
   {
@@ -509,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-04": 1430,
+      "2025-07-05": 28,
+      "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -872,8 +872,7 @@
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
-      "2024-07-06": 1440,
-      "2024-07-05": 1440
+      "2024-07-06": 1440
     }
   },
   {
@@ -1013,7 +1012,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.villeducarbet.fr.ico",
     "slug": "le-carbet",
     "status": "up",
-    "uptime": "91.42%",
+    "uptime": "91.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1116,7 +1115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-saintemarie.fr.ico",
     "slug": "sainte-marie",
     "status": "up",
-    "uptime": "68.81%",
+    "uptime": "68.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1845,7 +1844,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/parm.mq.ico",
     "slug": "pole-agro-ressource-de-martinique",
     "status": "up",
-    "uptime": "94.17%",
+    "uptime": "94.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.96%",
@@ -1927,8 +1926,8 @@
     "uptime": "45.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.36%",
-    "uptimeYear": "2.33%",
+    "uptimeMonth": "29.45%",
+    "uptimeYear": "2.34%",
     "time": 561,
     "timeDay": 227,
     "timeWeek": 235,
@@ -2290,8 +2289,7 @@
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
-      "2024-07-06": 1440,
-      "2024-07-05": 1440
+      "2024-07-06": 1440
     }
   },
   {
@@ -2532,12 +2530,12 @@
     "slug": "prefecture-de-la-martinique",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "82.07%",
+    "uptimeDay": "84.05%",
     "uptimeWeek": "85.98%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "98.40%",
     "time": 1662,
-    "timeDay": 1520,
+    "timeDay": 1592,
     "timeWeek": 1595,
     "timeMonth": 1578,
     "timeYear": 1664,
@@ -2641,7 +2639,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-04": 1431,
+      "2025-07-05": 29,
+      "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
