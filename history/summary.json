@@ -162,7 +162,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fortdefrance.fr.ico",
     "slug": "fort-de-france",
     "status": "up",
-    "uptime": "92.43%",
+    "uptime": "92.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -297,7 +297,7 @@
     "uptime": "81.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.55%",
+    "uptimeMonth": "55.63%",
     "uptimeYear": "59.12%",
     "time": 866,
     "timeDay": 1087,
@@ -458,8 +458,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -503,7 +502,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 1439,
+      "2025-07-13": 34,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -866,8 +866,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -1047,7 +1046,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-francois.fr.ico",
     "slug": "le-francois",
     "status": "up",
-    "uptime": "79.68%",
+    "uptime": "79.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1917,10 +1916,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ima.mq.ico",
     "slug": "initiative-martinique-active",
     "status": "up",
-    "uptime": "45.53%",
+    "uptime": "45.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.68%",
+    "uptimeMonth": "55.76%",
     "uptimeYear": "4.53%",
     "time": 537,
     "timeDay": 360,
@@ -2275,8 +2274,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -2627,6 +2625,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-07-13": 35,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
