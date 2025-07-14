@@ -297,7 +297,7 @@
     "uptime": "81.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.61%",
+    "uptimeMonth": "61.66%",
     "uptimeYear": "59.62%",
     "time": 867,
     "timeDay": 1038,
@@ -501,7 +501,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 1211,
+      "2025-07-14": 1234,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -1587,9 +1587,9 @@
     "slug": "parc-naturel-regional-de-la-martinique",
     "status": "up",
     "uptime": "97.72%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2235,
     "timeDay": 2135,
@@ -1597,7 +1597,6 @@
     "timeMonth": 1733,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2025-07-14": 9,
       "2025-04-17": 32
     }
   },
@@ -1616,7 +1615,7 @@
     "timeDay": 2571,
     "timeWeek": 2204,
     "timeMonth": 1792,
-    "timeYear": 4338,
+    "timeYear": 4342,
     "dailyMinutesDown": {}
   },
   {
@@ -1919,7 +1918,7 @@
     "uptime": "45.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.74%",
+    "uptimeMonth": "61.79%",
     "uptimeYear": "5.03%",
     "time": 536,
     "timeDay": 404,
@@ -2624,7 +2623,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 1212,
+      "2025-07-14": 1236,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -2650,7 +2649,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
