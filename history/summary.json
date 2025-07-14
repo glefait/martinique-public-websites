@@ -294,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-latrinite.fr.ico",
     "slug": "la-trinite",
     "status": "up",
-    "uptime": "81.95%",
+    "uptime": "81.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.80%",
-    "uptimeYear": "59.39%",
+    "uptimeMonth": "58.92%",
+    "uptimeYear": "59.40%",
     "time": 867,
     "timeDay": 1038,
     "timeWeek": 893,
@@ -457,8 +457,7 @@
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
-      "2024-07-15": 1440,
-      "2024-07-14": 1440
+      "2024-07-15": 1440
     }
   },
   {
@@ -502,7 +501,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-13": 1419,
+      "2025-07-14": 32,
+      "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -865,8 +865,7 @@
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
-      "2024-07-15": 1440,
-      "2024-07-14": 1440
+      "2024-07-15": 1440
     }
   },
   {
@@ -1277,7 +1276,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.odyssi.fr.ico",
     "slug": "odyssi",
     "status": "up",
-    "uptime": "88.43%",
+    "uptime": "88.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1402,7 +1401,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cesecem.mq.ico",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "61.77%",
+    "uptime": "61.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.43%",
@@ -1919,8 +1918,8 @@
     "uptime": "45.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.92%",
-    "uptimeYear": "4.80%",
+    "uptimeMonth": "59.05%",
+    "uptimeYear": "4.81%",
     "time": 536,
     "timeDay": 404,
     "timeWeek": 303,
@@ -2273,8 +2272,7 @@
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
-      "2024-07-15": 1440,
-      "2024-07-14": 1440
+      "2024-07-15": 1440
     }
   },
   {
@@ -2625,7 +2623,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-13": 1420,
+      "2025-07-14": 34,
+      "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -2657,7 +2656,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1134,
-    "timeDay": 1038,
+    "timeDay": 1047,
     "timeWeek": 1161,
     "timeMonth": 1134,
     "timeYear": 1134,
