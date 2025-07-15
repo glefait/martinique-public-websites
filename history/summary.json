@@ -297,8 +297,8 @@
     "uptime": "81.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.13%",
-    "uptimeYear": "59.66%",
+    "uptimeMonth": "62.18%",
+    "uptimeYear": "59.67%",
     "time": 866,
     "timeDay": 576,
     "timeWeek": 848,
@@ -456,8 +456,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -501,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 1439,
+      "2025-07-15": 21,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -864,8 +864,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -1918,8 +1917,8 @@
     "uptime": "45.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.26%",
-    "uptimeYear": "5.07%",
+    "uptimeMonth": "62.31%",
+    "uptimeYear": "5.08%",
     "time": 532,
     "timeDay": 250,
     "timeWeek": 296,
@@ -2271,8 +2270,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -2481,7 +2479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourisme-centre.fr.ico",
     "slug": "office-du-tourisme-du-centre-de-la-martinique",
     "status": "up",
-    "uptime": "92.41%",
+    "uptime": "92.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -2623,7 +2621,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 0,
+      "2025-07-15": 22,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -2650,17 +2648,17 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1138,
-    "timeDay": 1205,
-    "timeWeek": 1165,
-    "timeMonth": 1138,
-    "timeYear": 1138,
+    "time": 1137,
+    "timeDay": 1192,
+    "timeWeek": 1163,
+    "timeMonth": 1137,
+    "timeYear": 1137,
     "dailyMinutesDown": {}
   },
   {
