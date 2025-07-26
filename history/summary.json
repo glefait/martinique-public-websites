@@ -294,7 +294,7 @@
     "uptime": "82.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "98.23%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "62.67%",
     "time": 896,
     "timeDay": 1059,
@@ -443,8 +443,7 @@
       "2024-07-30": 75,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -479,9 +478,9 @@
     "status": "up",
     "uptime": "18.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.76%",
-    "uptimeMonth": "15.82%",
-    "uptimeYear": "1.20%",
+    "uptimeWeek": "62.85%",
+    "uptimeMonth": "15.84%",
+    "uptimeYear": "1.21%",
     "time": 1378,
     "timeDay": 1084,
     "timeWeek": 1378,
@@ -847,8 +846,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -1903,7 +1901,7 @@
     "uptime": "46.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.42%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "8.09%",
     "time": 507,
     "timeDay": 356,
@@ -2245,8 +2243,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -2571,8 +2568,7 @@
       "2024-09-15": 26,
       "2024-07-29": 988,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -2592,7 +2588,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 1439,
+      "2025-07-26": 8,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -2629,17 +2626,17 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1110,
-    "timeDay": 1029,
-    "timeWeek": 1060,
-    "timeMonth": 1110,
-    "timeYear": 1110,
+    "time": 1109,
+    "timeDay": 1023,
+    "timeWeek": 1059,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   },
   {
