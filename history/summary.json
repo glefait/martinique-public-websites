@@ -6,9 +6,9 @@
     "slug": "ctm",
     "status": "up",
     "uptime": "84.03%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "91.71%",
     "time": 3166,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 3469,
     "timeYear": 3462,
     "dailyMinutesDown": {
-      "2025-07-27": 28,
+      "2025-07-28": 0,
+      "2025-07-27": 57,
       "2025-06-23": 980,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -443,8 +444,7 @@
       "2024-09-27": 1440,
       "2024-09-26": 102,
       "2024-07-30": 75,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   },
   {
@@ -477,10 +477,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rivierepilote.fr.ico",
     "slug": "riviere-pilote",
     "status": "up",
-    "uptime": "18.71%",
+    "uptime": "18.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.07%",
-    "uptimeMonth": "22.34%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "22.40%",
     "uptimeYear": "1.75%",
     "time": 1324,
     "timeDay": 1229,
@@ -845,8 +845,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   },
   {
@@ -1900,7 +1899,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "8.63%",
+    "uptimeYear": "8.64%",
     "time": 504,
     "timeDay": 0,
     "timeWeek": 289,
@@ -2239,8 +2238,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   },
   {
@@ -2563,8 +2561,7 @@
       "2024-10-09": 16,
       "2024-10-06": 35,
       "2024-09-15": 26,
-      "2024-07-29": 988,
-      "2024-07-28": 1440
+      "2024-07-29": 988
     }
   },
   {
@@ -2584,7 +2581,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 1413,
+      "2025-07-28": 2,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -2623,7 +2621,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2631,7 +2629,7 @@
     "uptimeYear": "100.00%",
     "time": 1105,
     "timeDay": 1034,
-    "timeWeek": 1052,
+    "timeWeek": 1050,
     "timeMonth": 1104,
     "timeYear": 1105,
     "dailyMinutesDown": {}
