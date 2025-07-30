@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.collectivitedemartinique.mq.ico",
     "slug": "ctm",
     "status": "up",
-    "uptime": "83.89%",
+    "uptime": "83.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.92%",
-    "uptimeMonth": "93.31%",
-    "uptimeYear": "91.16%",
+    "uptimeWeek": "70.56%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "91.15%",
     "time": 3167,
     "timeDay": 0,
     "timeWeek": 4909,
     "timeMonth": 3457,
     "timeYear": 3467,
     "dailyMinutesDown": {
-      "2025-07-29": 1435,
+      "2025-07-30": 31,
+      "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 57,
       "2025-06-23": 980,
@@ -111,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/espacesud.fr.ico",
     "slug": "espace-sud",
     "status": "up",
-    "uptime": "72.40%",
+    "uptime": "72.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -302,7 +303,7 @@
     "time": 893,
     "timeDay": 0,
     "timeWeek": 868,
-    "timeMonth": 1142,
+    "timeMonth": 1152,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2025-07-19": 25,
@@ -442,8 +443,7 @@
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
-      "2024-09-26": 102,
-      "2024-07-30": 75
+      "2024-09-26": 102
     }
   },
   {
@@ -479,8 +479,8 @@
     "uptime": "18.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.97%",
-    "uptimeYear": "2.30%",
+    "uptimeMonth": "29.05%",
+    "uptimeYear": "2.31%",
     "time": 1329,
     "timeDay": 0,
     "timeWeek": 1314,
@@ -842,8 +842,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   },
   {
@@ -1897,7 +1896,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "9.18%",
+    "uptimeYear": "9.19%",
     "time": 544,
     "timeDay": 0,
     "timeWeek": 1104,
@@ -2234,8 +2233,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   },
   {
@@ -2577,7 +2575,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 1437,
+      "2025-07-30": 33,
+      "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -2626,7 +2625,7 @@
     "uptimeYear": "100.00%",
     "time": 1100,
     "timeDay": 1009,
-    "timeWeek": 1044,
+    "timeWeek": 1043,
     "timeMonth": 1099,
     "timeYear": 1100,
     "dailyMinutesDown": {}
