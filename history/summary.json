@@ -7,16 +7,17 @@
     "status": "up",
     "uptime": "83.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.52%",
-    "uptimeMonth": "86.77%",
-    "uptimeYear": "90.62%",
+    "uptimeWeek": "42.23%",
+    "uptimeMonth": "86.71%",
+    "uptimeYear": "90.61%",
     "time": 3170,
     "timeDay": 2537,
     "timeWeek": 2529,
     "timeMonth": 3395,
     "timeYear": 3471,
     "dailyMinutesDown": {
-      "2025-07-31": 1417,
+      "2025-08-01": 7,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -480,8 +481,8 @@
     "uptime": "18.96%",
     "uptimeDay": "73.17%",
     "uptimeWeek": "96.17%",
-    "uptimeMonth": "31.33%",
-    "uptimeYear": "2.77%",
+    "uptimeMonth": "31.40%",
+    "uptimeYear": "2.78%",
     "time": 1389,
     "timeDay": 1661,
     "timeWeek": 1364,
@@ -842,8 +843,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -1893,7 +1893,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ima.mq.ico",
     "slug": "initiative-martinique-active",
     "status": "up",
-    "uptime": "46.39%",
+    "uptime": "46.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2232,8 +2232,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -2575,7 +2574,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 1419,
+      "2025-08-01": 8,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -2618,14 +2618,14 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1096,
-    "timeDay": 1026,
+    "timeDay": 1022,
     "timeWeek": 1031,
     "timeMonth": 1093,
     "timeYear": 1096,
