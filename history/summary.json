@@ -8,7 +8,7 @@
     "uptime": "83.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.87%",
+    "uptimeMonth": "76.84%",
     "uptimeYear": "89.79%",
     "time": 3176,
     "timeDay": 2337,
@@ -16,7 +16,8 @@
     "timeMonth": 3400,
     "timeYear": 3474,
     "dailyMinutesDown": {
-      "2025-08-03": 1437,
+      "2025-08-04": 7,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -485,7 +486,7 @@
     "uptime": "19.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.17%",
-    "uptimeMonth": "41.24%",
+    "uptimeMonth": "41.26%",
     "uptimeYear": "3.60%",
     "time": 1487,
     "timeDay": 1723,
@@ -844,8 +845,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1039,18 +1039,19 @@
     "url": "https://www.ville-robert.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-robert.fr.ico",
     "slug": "le-robert",
-    "status": "up",
+    "status": "down",
     "uptime": "96.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.42%",
-    "time": 3211,
+    "time": 3212,
     "timeDay": 2933,
     "timeWeek": 3133,
     "timeMonth": 3199,
     "timeYear": 3275,
     "dailyMinutesDown": {
+      "2025-08-04": 2,
       "2025-07-25": 16,
       "2025-06-29": 17,
       "2025-06-24": 25,
@@ -2230,8 +2231,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -2473,7 +2473,7 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "98.39%",
     "time": 1650,
     "timeDay": 1433,
@@ -2573,7 +2573,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 1438,
+      "2025-08-04": 9,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
