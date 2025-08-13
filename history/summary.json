@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "83.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.91%",
+    "uptimeWeek": "60.00%",
     "uptimeMonth": "58.44%",
     "uptimeYear": "88.27%",
     "time": 3233,
@@ -491,7 +491,7 @@
     "uptime": "19.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.45%",
+    "uptimeMonth": "73.47%",
     "uptimeYear": "6.28%",
     "time": 1551,
     "timeDay": 2381,
@@ -1115,9 +1115,9 @@
     "slug": "case-pilote",
     "status": "down",
     "uptime": "87.00%",
-    "uptimeDay": "92.66%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 1308,
     "timeDay": 1211,
@@ -1125,7 +1125,7 @@
     "timeMonth": 1000,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2025-08-13": 106
+      "2025-08-13": 115
     }
   },
   {
@@ -2261,7 +2261,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.adilmartinique.org.ico",
     "slug": "adil-martinique",
     "status": "up",
-    "uptime": "76.52%",
+    "uptime": "76.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2563,7 +2563,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1149,
+      "2025-08-13": 1158,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -2619,7 +2619,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2627,7 +2627,7 @@
     "uptimeYear": "100.00%",
     "time": 1106,
     "timeDay": 1057,
-    "timeWeek": 1150,
+    "timeWeek": 1151,
     "timeMonth": 1093,
     "timeYear": 1106,
     "dailyMinutesDown": {}
@@ -2656,18 +2656,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "97.62%",
+    "uptime": "97.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.60%",
-    "uptimeMonth": "96.23%",
-    "uptimeYear": "97.62%",
+    "uptimeWeek": "83.51%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "97.61%",
     "time": 2542,
     "timeDay": 0,
     "timeWeek": 2596,
     "timeMonth": 2360,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-08-13": 1149,
+      "2025-08-13": 1158,
       "2025-08-12": 504
     }
   }
