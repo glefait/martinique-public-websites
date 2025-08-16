@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "83.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.34%",
+    "uptimeWeek": "91.40%",
     "uptimeMonth": "58.44%",
     "uptimeYear": "88.27%",
     "time": 3234,
@@ -492,7 +492,7 @@
     "uptime": "19.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.68%",
+    "uptimeMonth": "80.70%",
     "uptimeYear": "6.88%",
     "time": 1968,
     "timeDay": 5761,
@@ -839,8 +839,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -1555,8 +1554,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -2215,8 +2213,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -2559,7 +2556,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 1437,
+      "2025-08-16": 3,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -2617,14 +2615,14 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
-    "timeDay": 1098,
+    "timeDay": 1101,
     "timeWeek": 1074,
     "timeMonth": 1091,
     "timeYear": 1105,
@@ -2654,18 +2652,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "93.37%",
+    "uptime": "93.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.17%",
-    "uptimeMonth": "88.99%",
-    "uptimeYear": "93.37%",
+    "uptimeWeek": "52.11%",
+    "uptimeMonth": "88.98%",
+    "uptimeYear": "93.36%",
     "time": 2542,
     "timeDay": 0,
     "timeWeek": 2658,
     "timeMonth": 2343,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-08-15": 1437,
+      "2025-08-16": 4,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 504
