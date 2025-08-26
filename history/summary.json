@@ -146,7 +146,7 @@
     "uptime": "99.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.00%",
+    "uptimeMonth": "71.93%",
     "uptimeYear": "97.60%",
     "time": 846,
     "timeDay": 700,
@@ -154,7 +154,8 @@
     "timeMonth": 854,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-08-25": 1435,
+      "2025-08-26": 28,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -481,7 +482,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 2132,
     "timeDay": 1490,
     "timeWeek": 2284,
@@ -490,8 +491,7 @@
     "dailyMinutesDown": {
       "2025-04-17": 34,
       "2024-11-26": 51,
-      "2024-08-27": 1186,
-      "2024-08-26": 1440
+      "2024-08-27": 1186
     }
   },
   {
@@ -504,7 +504,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "9.62%",
+    "uptimeYear": "9.63%",
     "time": 1905,
     "timeDay": 1642,
     "timeWeek": 1710,
@@ -840,8 +840,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -892,8 +891,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 893,
-      "2024-08-26": 1161
+      "2025-03-03": 893
     }
   },
   {
@@ -1034,10 +1032,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-robert.fr.ico",
     "slug": "le-robert",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "95.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.92%",
+    "uptimeMonth": "71.84%",
     "uptimeYear": "97.13%",
     "time": 3232,
     "timeDay": 2879,
@@ -1045,7 +1043,8 @@
     "timeMonth": 3317,
     "timeYear": 3288,
     "dailyMinutesDown": {
-      "2025-08-25": 1436,
+      "2025-08-26": 28,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -1190,15 +1189,16 @@
     "uptime": "94.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.00%",
-    "uptimeYear": "97.61%",
+    "uptimeMonth": "71.93%",
+    "uptimeYear": "97.60%",
     "time": 2034,
     "timeDay": 1851,
     "timeWeek": 2028,
     "timeMonth": 2058,
     "timeYear": 2011,
     "dailyMinutesDown": {
-      "2025-08-25": 1436,
+      "2025-08-26": 29,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -1394,11 +1394,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cesecem.mq.ico",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "63.11%",
+    "uptime": "63.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "63.37%",
+    "uptimeYear": "63.38%",
     "time": 4235,
     "timeDay": 3933,
     "timeWeek": 3623,
@@ -1558,8 +1558,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -1897,7 +1896,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.58%",
+    "uptimeYear": "16.59%",
     "time": 844,
     "timeDay": 216,
     "timeWeek": 5864,
@@ -2207,8 +2206,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -2393,7 +2391,7 @@
     "uptime": "99.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.91%",
+    "uptimeMonth": "71.84%",
     "uptimeYear": "97.37%",
     "time": 989,
     "timeDay": 3116,
@@ -2401,7 +2399,8 @@
     "timeMonth": 3420,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2025-08-25": 1437,
+      "2025-08-26": 30,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -2561,7 +2560,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 1437,
+      "2025-08-26": 30,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -2637,7 +2637,7 @@
     "uptimeYear": "100.00%",
     "time": 1120,
     "timeDay": 1119,
-    "timeWeek": 1206,
+    "timeWeek": 1207,
     "timeMonth": 1129,
     "timeYear": 1120,
     "dailyMinutesDown": {}
@@ -2668,18 +2668,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "77.93%",
+    "uptime": "77.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.12%",
-    "uptimeYear": "77.93%",
+    "uptimeMonth": "56.05%",
+    "uptimeYear": "77.90%",
     "time": 2542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2321,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-08-25": 1437,
+      "2025-08-26": 30,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
