@@ -1,7 +1,7 @@
 url: https://tourisme-centre.fr
-status: up
-code: 200
-responseTime: 3151
-lastUpdated: 2025-09-06T23:04:29.408Z
+status: down
+code: 500
+responseTime: 23139
+lastUpdated: 2025-09-07T21:27:07.148Z
 startTime: 2022-04-17T23:10:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
