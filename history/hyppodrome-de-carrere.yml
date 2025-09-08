@@ -1,7 +1,7 @@
 url: http://hippodromedecarrere.fr
-status: up
-code: 200
-responseTime: 1850
-lastUpdated: 2025-09-07T23:04:10.588Z
+status: down
+code: 500
+responseTime: 353
+lastUpdated: 2025-09-08T22:40:12.043Z
 startTime: 2022-04-17T20:43:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
