@@ -1076,7 +1076,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-saintemarie.fr.ico",
     "slug": "sainte-marie",
     "status": "up",
-    "uptime": "70.54%",
+    "uptime": "70.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1134,7 +1134,7 @@
     "uptime": "95.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.26%",
+    "uptimeMonth": "69.24%",
     "uptimeYear": "91.23%",
     "time": 2634,
     "timeDay": 2029,
@@ -1142,7 +1142,7 @@
     "timeMonth": 2141,
     "timeYear": 2485,
     "dailyMinutesDown": {
-      "2025-09-11": 1377,
+      "2025-09-11": 1383,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -1239,7 +1239,7 @@
     "timeDay": 2858,
     "timeWeek": 2697,
     "timeMonth": 2775,
-    "timeYear": 1659,
+    "timeYear": 1660,
     "dailyMinutesDown": {
       "2025-07-23": 386
     }
@@ -1259,7 +1259,7 @@
     "timeDay": 1554,
     "timeWeek": 1523,
     "timeMonth": 1391,
-    "timeYear": 1242,
+    "timeYear": 1243,
     "dailyMinutesDown": {
       "2025-06-17": 23,
       "2025-06-03": 31,
@@ -1282,7 +1282,7 @@
     "timeDay": 1279,
     "timeWeek": 1696,
     "timeMonth": 1098,
-    "timeYear": 928,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-04-17": 32,
       "2025-02-11": 1163,
@@ -1875,7 +1875,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ima.mq.ico",
     "slug": "initiative-martinique-active",
     "status": "up",
-    "uptime": "48.20%",
+    "uptime": "48.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2531,7 +2531,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 1378,
+      "2025-09-11": 1385,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -2616,7 +2616,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2659,7 +2659,7 @@
     "uptime": "60.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.37%",
+    "uptimeMonth": "0.36%",
     "uptimeYear": "60.86%",
     "time": 2542,
     "timeDay": 0,
@@ -2667,7 +2667,7 @@
     "timeMonth": 2726,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-09-11": 1379,
+      "2025-09-11": 1385,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
