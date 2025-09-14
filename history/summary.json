@@ -827,8 +827,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -992,8 +991,7 @@
     "dailyMinutesDown": {
       "2025-04-23": 16,
       "2025-04-17": 34,
-      "2025-03-11": 23,
-      "2024-09-14": 40
+      "2025-03-11": 23
     }
   },
   {
@@ -1109,7 +1107,7 @@
     "uptime": "87.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.96%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "99.75%",
     "time": 1298,
     "timeDay": 978,
@@ -1131,7 +1129,7 @@
     "uptime": "95.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.54%",
+    "uptimeMonth": "62.50%",
     "uptimeYear": "90.67%",
     "time": 2632,
     "timeDay": 1043,
@@ -1139,6 +1137,7 @@
     "timeMonth": 2076,
     "timeYear": 2483,
     "dailyMinutesDown": {
+      "2025-09-14": 19,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -1545,8 +1544,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -2420,18 +2418,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martinique.gouv.fr.ico",
     "slug": "prefecture-de-la-martinique",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "86.16%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "90.04%",
-    "uptimeYear": "98.45%",
+    "uptime": "99.26%",
+    "uptimeDay": "84.80%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "98.44%",
     "time": 1677,
     "timeDay": 1784,
     "timeWeek": 1802,
     "timeMonth": 1766,
     "timeYear": 1699,
     "dailyMinutesDown": {
-      "2025-09-14": 1,
+      "2025-09-14": 20,
       "2025-09-13": 199,
       "2025-09-03": 735,
       "2025-09-02": 1440,
@@ -2526,7 +2524,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-14": 1,
+      "2025-09-14": 20,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -2614,14 +2612,14 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1121,
-    "timeDay": 1057,
+    "timeDay": 1059,
     "timeWeek": 1101,
     "timeMonth": 1138,
     "timeYear": 1121,
@@ -2654,18 +2652,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "59.30%",
+    "uptime": "59.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.30%",
+    "uptimeYear": "59.29%",
     "time": 2542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-09-14": 1,
+      "2025-09-14": 21,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
