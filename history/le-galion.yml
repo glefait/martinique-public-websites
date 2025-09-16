@@ -1,7 +1,7 @@
 url: http://saem-legalion.net
-status: up
-code: 200
-responseTime: 849
-lastUpdated: 2025-09-15T11:58:55.494Z
+status: down
+code: 401
+responseTime: 267
+lastUpdated: 2025-09-16T12:11:00.210Z
 startTime: 2022-04-17T20:43:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
