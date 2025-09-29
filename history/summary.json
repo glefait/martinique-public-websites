@@ -481,8 +481,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -818,8 +817,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -1119,10 +1117,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.morne-vert.fr.ico",
     "slug": "morne-vert",
     "status": "down",
-    "uptime": "94.33%",
+    "uptime": "94.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.23%",
+    "uptimeMonth": "13.17%",
     "uptimeYear": "90.17%",
     "time": 2592,
     "timeDay": 1258,
@@ -1130,6 +1128,7 @@
     "timeMonth": 1346,
     "timeYear": 2421,
     "dailyMinutesDown": {
+      "2025-09-29": 29,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -1171,8 +1170,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -1223,7 +1221,7 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.41%",
+    "uptimeWeek": "92.70%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.21%",
     "time": 1596,
@@ -1397,7 +1395,7 @@
     "uptimeDay": "86.58%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "91.12%",
-    "uptimeYear": "71.95%",
+    "uptimeYear": "71.96%",
     "time": 4410,
     "timeDay": 5051,
     "timeWeek": 5539,
@@ -1598,16 +1596,16 @@
     "status": "up",
     "uptime": "99.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.33%",
-    "uptimeMonth": "93.48%",
-    "uptimeYear": "96.84%",
+    "uptimeWeek": "74.05%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "96.83%",
     "time": 7826,
     "timeDay": 2478,
     "timeWeek": 5166,
     "timeMonth": 10414,
     "timeYear": 8429,
     "dailyMinutesDown": {
-      "2025-09-29": 0,
+      "2025-09-29": 29,
       "2025-09-28": 1440,
       "2025-09-27": 1147,
       "2025-08-31": 31,
@@ -2499,7 +2497,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-29": 1,
+      "2025-09-29": 30,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -2643,18 +2641,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "49.88%",
+    "uptime": "49.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.88%",
+    "uptimeYear": "49.87%",
     "time": 2542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-09-29": 1,
+      "2025-09-29": 30,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
