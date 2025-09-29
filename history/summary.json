@@ -1122,7 +1122,7 @@
     "uptime": "94.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.25%",
+    "uptimeMonth": "13.23%",
     "uptimeYear": "90.17%",
     "time": 2592,
     "timeDay": 1258,
@@ -1130,7 +1130,7 @@
     "timeMonth": 1346,
     "timeYear": 2421,
     "dailyMinutesDown": {
-      "2025-09-28": 1430,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1223,7 +1223,7 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.31%",
+    "uptimeWeek": "92.41%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.21%",
     "time": 1596,
@@ -1531,8 +1531,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -1597,10 +1596,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tropiques-atrium.fr.ico",
     "slug": "tropiques-atrium",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.43%",
-    "uptimeMonth": "93.51%",
+    "uptimeWeek": "74.33%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "96.84%",
     "time": 7826,
     "timeDay": 2478,
@@ -1608,7 +1607,8 @@
     "timeMonth": 10414,
     "timeYear": 8429,
     "dailyMinutesDown": {
-      "2025-09-28": 1431,
+      "2025-09-29": 0,
+      "2025-09-28": 1440,
       "2025-09-27": 1147,
       "2025-08-31": 31,
       "2025-08-30": 185,
@@ -1864,7 +1864,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.89%",
+    "uptimeYear": "25.90%",
     "time": 758,
     "timeDay": 309,
     "timeWeek": 338,
@@ -2140,8 +2140,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -2431,8 +2430,7 @@
       "2025-01-01": 59,
       "2024-12-31": 320,
       "2024-12-08": 29,
-      "2024-12-07": 66,
-      "2024-09-29": 36
+      "2024-12-07": 66
     }
   },
   {
@@ -2501,7 +2499,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 1432,
+      "2025-09-29": 1,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -2603,15 +2602,15 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1116,
-    "timeDay": 1092,
-    "timeWeek": 1091,
+    "timeDay": 1094,
+    "timeWeek": 1092,
     "timeMonth": 1109,
     "timeYear": 1116,
     "dailyMinutesDown": {}
@@ -2644,18 +2643,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "49.89%",
+    "uptime": "49.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.89%",
+    "uptimeYear": "49.88%",
     "time": 2542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-09-28": 1432,
+      "2025-09-29": 1,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
