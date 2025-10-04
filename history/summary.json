@@ -1120,7 +1120,7 @@
     "timeMonth": 1239,
     "timeYear": 2400,
     "dailyMinutesDown": {
-      "2025-10-04": 692,
+      "2025-10-04": 699,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -1584,7 +1584,7 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.94%",
+    "uptimeWeek": "61.01%",
     "uptimeMonth": "90.10%",
     "uptimeYear": "96.51%",
     "time": 7803,
@@ -2138,7 +2138,7 @@
     "time": 755,
     "timeDay": 737,
     "timeWeek": 729,
-    "timeMonth": 682,
+    "timeMonth": 692,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2025-09-25": 23,
@@ -2483,7 +2483,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-04": 693,
+      "2025-10-04": 701,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -2591,7 +2591,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2599,7 +2599,7 @@
     "uptimeYear": "100.00%",
     "time": 1115,
     "timeDay": 1089,
-    "timeWeek": 1090,
+    "timeWeek": 1091,
     "timeMonth": 1099,
     "timeYear": 1115,
     "dailyMinutesDown": {}
@@ -2643,7 +2643,7 @@
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-10-04": 693,
+      "2025-10-04": 701,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
