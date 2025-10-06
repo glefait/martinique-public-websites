@@ -97,9 +97,9 @@
     "slug": "cacem",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "33.54%",
-    "uptimeWeek": "90.51%",
-    "uptimeMonth": "95.42%",
+    "uptimeDay": "33.10%",
+    "uptimeWeek": "90.44%",
+    "uptimeMonth": "95.40%",
     "uptimeYear": "99.56%",
     "time": 1113,
     "timeDay": 1071,
@@ -107,7 +107,7 @@
     "timeMonth": 1002,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2025-10-05": 957,
+      "2025-10-05": 963,
       "2025-09-20": 1051,
       "2025-07-07": 16,
       "2025-02-28": 17,
@@ -216,9 +216,9 @@
     "slug": "schoelcher",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "33.54%",
-    "uptimeWeek": "90.51%",
-    "uptimeMonth": "95.42%",
+    "uptimeDay": "33.09%",
+    "uptimeWeek": "90.44%",
+    "uptimeMonth": "95.40%",
     "uptimeYear": "99.61%",
     "time": 3213,
     "timeDay": 3427,
@@ -226,7 +226,7 @@
     "timeMonth": 3019,
     "timeYear": 3230,
     "dailyMinutesDown": {
-      "2025-10-05": 957,
+      "2025-10-05": 963,
       "2025-09-20": 1051,
       "2025-07-26": 18,
       "2025-07-07": 15,
@@ -274,9 +274,9 @@
     "slug": "le-lamentin",
     "status": "up",
     "uptime": "92.16%",
-    "uptimeDay": "33.54%",
-    "uptimeWeek": "90.51%",
-    "uptimeMonth": "95.42%",
+    "uptimeDay": "33.09%",
+    "uptimeWeek": "90.44%",
+    "uptimeMonth": "95.40%",
     "uptimeYear": "99.54%",
     "time": 7005,
     "timeDay": 7506,
@@ -284,7 +284,7 @@
     "timeMonth": 6153,
     "timeYear": 7142,
     "dailyMinutesDown": {
-      "2025-10-05": 957,
+      "2025-10-05": 964,
       "2025-09-20": 1051,
       "2025-08-19": 42,
       "2025-08-08": 38,
@@ -1007,7 +1007,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.68%",
+    "uptimeYear": "96.69%",
     "time": 3249,
     "timeDay": 3471,
     "timeWeek": 3249,
@@ -1109,7 +1109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.morne-vert.fr.ico",
     "slug": "morne-vert",
     "status": "down",
-    "uptime": "93.81%",
+    "uptime": "93.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1120,7 +1120,7 @@
     "timeMonth": 1290,
     "timeYear": 2383,
     "dailyMinutesDown": {
-      "2025-10-05": 1433,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -1583,7 +1583,7 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.57%",
+    "uptimeWeek": "82.64%",
     "uptimeMonth": "90.10%",
     "uptimeYear": "96.51%",
     "time": 7786,
@@ -1810,8 +1810,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -2119,8 +2118,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -2155,9 +2153,9 @@
     "slug": "adil-martinique",
     "status": "down",
     "uptime": "77.39%",
-    "uptimeDay": "4.87%",
-    "uptimeWeek": "77.77%",
-    "uptimeMonth": "94.88%",
+    "uptimeDay": "4.37%",
+    "uptimeWeek": "77.70%",
+    "uptimeMonth": "94.87%",
     "uptimeYear": "99.39%",
     "time": 3102,
     "timeDay": 1069,
@@ -2165,7 +2163,8 @@
     "timeMonth": 3425,
     "timeYear": 3574,
     "dailyMinutesDown": {
-      "2025-10-05": 1370,
+      "2025-10-06": 1,
+      "2025-10-05": 1376,
       "2025-10-04": 798,
       "2025-09-30": 73,
       "2025-05-29": 36,
@@ -2331,8 +2330,7 @@
       "2025-06-07": 17,
       "2025-05-04": 17,
       "2025-01-31": 17,
-      "2025-01-29": 21,
-      "2024-10-06": 507
+      "2025-01-29": 21
     }
   },
   {
@@ -2461,8 +2459,7 @@
       "2024-11-24": 51,
       "2024-11-17": 16,
       "2024-11-10": 62,
-      "2024-10-09": 16,
-      "2024-10-06": 35
+      "2024-10-09": 16
     }
   },
   {
@@ -2482,7 +2479,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-05": 1434,
+      "2025-10-06": 1,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -2591,15 +2589,15 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1114,
-    "timeDay": 1071,
-    "timeWeek": 1085,
+    "timeDay": 1066,
+    "timeWeek": 1084,
     "timeMonth": 1095,
     "timeYear": 1114,
     "dailyMinutesDown": {}
@@ -2643,7 +2641,8 @@
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-10-05": 1434,
+      "2025-10-06": 2,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
