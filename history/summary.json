@@ -98,7 +98,7 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.42%",
+    "uptimeWeek": "59.64%",
     "uptimeMonth": "79.53%",
     "uptimeYear": "98.25%",
     "time": 1114,
@@ -220,7 +220,7 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.42%",
+    "uptimeWeek": "59.64%",
     "uptimeMonth": "79.53%",
     "uptimeYear": "98.28%",
     "time": 3213,
@@ -809,8 +809,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -819,7 +818,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/riviere-salee.fr.ico",
     "slug": "riviere-salee",
     "status": "up",
-    "uptime": "90.23%",
+    "uptime": "90.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1116,14 +1115,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.97%",
+    "uptimeYear": "87.96%",
     "time": 2559,
     "timeDay": 1057,
     "timeWeek": 1191,
     "timeMonth": 1300,
     "timeYear": 2360,
     "dailyMinutesDown": {
-      "2025-10-14": 1419,
+      "2025-10-15": 1,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1521,8 +1521,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -1808,8 +1807,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -2110,8 +2108,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -2471,7 +2468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-14": 1421,
+      "2025-10-15": 3,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -2589,15 +2587,15 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1132,
-    "timeDay": 1567,
-    "timeWeek": 1355,
+    "timeDay": 1572,
+    "timeWeek": 1356,
     "timeMonth": 1159,
     "timeYear": 1132,
     "dailyMinutesDown": {}
@@ -2641,7 +2639,8 @@
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-10-14": 1422,
+      "2025-10-15": 3,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
