@@ -523,7 +523,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.13%",
+    "uptimeYear": "24.14%",
     "time": 1830,
     "timeDay": 1778,
     "timeWeek": 2016,
@@ -1122,7 +1122,7 @@
     "timeMonth": 1270,
     "timeYear": 2350,
     "dailyMinutesDown": {
-      "2025-10-17": 1386,
+      "2025-10-17": 1397,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1399,7 +1399,7 @@
     "uptime": "64.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.09%",
-    "uptimeMonth": "93.16%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "77.06%",
     "time": 4378,
     "timeDay": 3020,
@@ -1540,7 +1540,7 @@
     "timeDay": 2252,
     "timeWeek": 2090,
     "timeMonth": 2055,
-    "timeYear": 2148,
+    "timeYear": 2149,
     "dailyMinutesDown": {
       "2025-10-02": 21,
       "2025-04-17": 32
@@ -1561,7 +1561,7 @@
     "timeDay": 1394,
     "timeWeek": 1799,
     "timeMonth": 1871,
-    "timeYear": 2886,
+    "timeYear": 2887,
     "dailyMinutesDown": {}
   },
   {
@@ -1579,7 +1579,7 @@
     "timeDay": 907,
     "timeWeek": 1182,
     "timeMonth": 1298,
-    "timeYear": 1193,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   },
   {
@@ -1597,7 +1597,7 @@
     "timeDay": 2084,
     "timeWeek": 4413,
     "timeMonth": 4401,
-    "timeYear": 8394,
+    "timeYear": 8393,
     "dailyMinutesDown": {
       "2025-10-16": 21,
       "2025-09-30": 310,
@@ -1711,7 +1711,7 @@
     "timeDay": 1007,
     "timeWeek": 1183,
     "timeMonth": 1320,
-    "timeYear": 1285,
+    "timeYear": 1284,
     "dailyMinutesDown": {
       "2025-10-02": 21,
       "2025-04-17": 32
@@ -1763,7 +1763,7 @@
     "timeDay": 591,
     "timeWeek": 838,
     "timeMonth": 967,
-    "timeYear": 1098,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2025-10-16": 37,
       "2025-10-05": 18
@@ -2125,7 +2125,7 @@
     "timeDay": 472,
     "timeWeek": 526,
     "timeMonth": 703,
-    "timeYear": 473,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2025-09-25": 23,
       "2025-08-11": 47,
@@ -2150,7 +2150,7 @@
     "timeDay": 1073,
     "timeWeek": 1764,
     "timeMonth": 3567,
-    "timeYear": 3612,
+    "timeYear": 3618,
     "dailyMinutesDown": {
       "2025-10-06": 429,
       "2025-10-05": 1376,
@@ -2183,7 +2183,7 @@
     "timeDay": 764,
     "timeWeek": 914,
     "timeMonth": 1034,
-    "timeYear": 6937,
+    "timeYear": 6944,
     "dailyMinutesDown": {}
   },
   {
@@ -2201,7 +2201,7 @@
     "timeDay": 1122,
     "timeWeek": 1192,
     "timeMonth": 1580,
-    "timeYear": 2129,
+    "timeYear": 2127,
     "dailyMinutesDown": {
       "2025-09-30": 34,
       "2025-09-11": 140,
@@ -2279,7 +2279,7 @@
     "timeDay": 939,
     "timeWeek": 1012,
     "timeMonth": 1093,
-    "timeYear": 1018,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2024-12-20": 112
     }
@@ -2299,7 +2299,7 @@
     "timeDay": 3103,
     "timeWeek": 3336,
     "timeMonth": 3346,
-    "timeYear": 1377,
+    "timeYear": 1378,
     "dailyMinutesDown": {
       "2025-10-07": 756,
       "2025-10-06": 877,
@@ -2373,7 +2373,7 @@
     "timeDay": 1458,
     "timeWeek": 1687,
     "timeMonth": 1791,
-    "timeYear": 1695,
+    "timeYear": 1686,
     "dailyMinutesDown": {
       "2025-09-26": 31,
       "2025-09-14": 288,
@@ -2418,7 +2418,7 @@
     "timeDay": 662,
     "timeWeek": 714,
     "timeMonth": 793,
-    "timeYear": 848,
+    "timeYear": 849,
     "dailyMinutesDown": {}
   },
   {
@@ -2436,7 +2436,7 @@
     "timeDay": 3226,
     "timeWeek": 3289,
     "timeMonth": 3492,
-    "timeYear": 3398,
+    "timeYear": 3400,
     "dailyMinutesDown": {
       "2025-03-19": 587,
       "2025-03-18": 669,
@@ -2467,7 +2467,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 1387,
+      "2025-10-17": 1398,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -2588,7 +2588,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2640,7 +2640,7 @@
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-10-17": 1387,
+      "2025-10-17": 1399,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
