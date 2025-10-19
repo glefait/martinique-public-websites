@@ -805,8 +805,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -1122,7 +1121,8 @@
     "timeMonth": 1265,
     "timeYear": 2350,
     "dailyMinutesDown": {
-      "2025-10-18": 1433,
+      "2025-10-19": 2,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -1400,7 +1400,7 @@
     "uptime": "64.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.85%",
-    "uptimeMonth": "96.56%",
+    "uptimeMonth": "96.58%",
     "uptimeYear": "77.34%",
     "time": 4377,
     "timeDay": 4733,
@@ -1521,8 +1521,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -1779,7 +1778,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.40%",
     "time": 4772,
     "timeDay": 5403,
     "timeWeek": 7795,
@@ -1806,8 +1805,7 @@
       "2024-10-23": 481,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -1848,7 +1846,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.37%",
+    "uptimeYear": "31.38%",
     "time": 719,
     "timeDay": 395,
     "timeWeek": 362,
@@ -2104,8 +2102,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -2215,9 +2212,9 @@
     "slug": "le-galion",
     "status": "up",
     "uptime": "90.06%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
     "time": 707,
     "timeDay": 677,
@@ -2225,7 +2222,6 @@
     "timeMonth": 774,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-10-18": 6,
       "2025-10-17": 32,
       "2025-09-29": 30,
       "2025-09-19": 20,
@@ -2240,19 +2236,19 @@
     "url": "https://grandebaiemartinique.com",
     "icon": "https://icons.duckduckgo.com/ip3/grandebaiemartinique.com.ico",
     "slug": "grande-baie-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.12%",
-    "time": 3542,
-    "timeDay": 4554,
-    "timeWeek": 3977,
-    "timeMonth": 4458,
-    "timeYear": 3622,
+    "time": 3541,
+    "timeDay": 3978,
+    "timeWeek": 3905,
+    "timeMonth": 4420,
+    "timeYear": 3621,
     "dailyMinutesDown": {
-      "2025-10-18": 57,
+      "2025-10-18": 58,
       "2025-10-01": 47,
       "2025-04-17": 32,
       "2025-04-14": 937,
@@ -2329,10 +2325,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourisme-centre.fr.ico",
     "slug": "office-du-tourisme-du-centre-de-la-martinique",
     "status": "down",
-    "uptime": "92.83%",
-    "uptimeDay": "82.05%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "94.89%",
+    "uptime": "92.82%",
+    "uptimeDay": "81.41%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "94.87%",
     "uptimeYear": "99.08%",
     "time": 5310,
     "timeDay": 0,
@@ -2340,7 +2336,8 @@
     "timeMonth": 4714,
     "timeYear": 4306,
     "dailyMinutesDown": {
-      "2025-10-18": 259,
+      "2025-10-19": 3,
+      "2025-10-18": 265,
       "2025-09-27": 428,
       "2025-09-26": 1440,
       "2025-09-25": 58,
@@ -2467,7 +2464,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 1434,
+      "2025-10-19": 3,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -2589,14 +2587,14 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1133,
-    "timeDay": 1102,
+    "timeDay": 1098,
     "timeWeek": 1383,
     "timeMonth": 1167,
     "timeYear": 1133,
@@ -2609,9 +2607,9 @@
     "slug": "office-de-tourisme-centre",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "82.06%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "81.42%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.77%",
     "time": 2626,
     "timeDay": 0,
@@ -2619,7 +2617,8 @@
     "timeMonth": 3103,
     "timeYear": 2626,
     "dailyMinutesDown": {
-      "2025-10-18": 258,
+      "2025-10-19": 4,
+      "2025-10-18": 264,
       "2025-09-23": 54,
       "2025-09-10": 32,
       "2025-08-18": 29
@@ -2642,7 +2641,8 @@
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-10-18": 1434,
+      "2025-10-19": 4,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
