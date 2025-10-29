@@ -1,7 +1,7 @@
 url: http://ville-vauclin.fr
-status: up
-code: 200
-responseTime: 1536
-lastUpdated: 2025-10-27T23:03:29.405Z
+status: down
+code: 503
+responseTime: 350
+lastUpdated: 2025-10-29T21:04:03.642Z
 startTime: 2022-04-17T20:41:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
