@@ -1,7 +1,7 @@
 url: https://www.mairie-latrinite.fr
-status: up
-code: 200
-responseTime: 2154
-lastUpdated: 2025-10-28T23:54:34.342Z
+status: down
+code: 504
+responseTime: 654
+lastUpdated: 2025-10-29T21:31:00.543Z
 startTime: 2022-04-17T20:41:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
