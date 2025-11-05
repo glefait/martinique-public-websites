@@ -1,7 +1,7 @@
 url: https://www.zetwal.mq
-status: up
-code: 200
-responseTime: 4148
-lastUpdated: 2025-11-03T23:05:35.668Z
+status: down
+code: 500
+responseTime: 8670
+lastUpdated: 2025-11-05T05:48:35.864Z
 startTime: 2022-11-01T11:24:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
