@@ -105,7 +105,7 @@
     "slug": "cacem",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "66.36%",
+    "uptimeDay": "69.05%",
     "uptimeWeek": "94.34%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "98.12%",
@@ -145,7 +145,7 @@
     "status": "up",
     "uptime": "74.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.12%",
+    "uptimeWeek": "76.51%",
     "uptimeMonth": "74.38%",
     "uptimeYear": "97.81%",
     "time": 3513,
@@ -208,8 +208,7 @@
       "2025-01-31": 18,
       "2025-01-29": 22,
       "2025-01-08": 56,
-      "2024-11-18": 30,
-      "2024-11-17": 2
+      "2024-11-18": 30
     }
   },
   {
@@ -219,8 +218,8 @@
     "slug": "fort-de-france",
     "status": "up",
     "uptime": "92.53%",
-    "uptimeDay": "33.96%",
-    "uptimeWeek": "4.85%",
+    "uptimeDay": "36.65%",
+    "uptimeWeek": "5.24%",
     "uptimeMonth": "72.50%",
     "uptimeYear": "97.70%",
     "time": 976,
@@ -241,8 +240,7 @@
       "2025-11-05": 27,
       "2025-11-01": 901,
       "2025-10-29": 19,
-      "2025-04-17": 35,
-      "2024-11-17": 28
+      "2025-04-17": 35
     }
   },
   {
@@ -252,7 +250,7 @@
     "slug": "schoelcher",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "66.36%",
+    "uptimeDay": "69.05%",
     "uptimeWeek": "94.49%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "98.17%",
@@ -332,7 +330,7 @@
     "slug": "le-lamentin",
     "status": "up",
     "uptime": "92.07%",
-    "uptimeDay": "66.36%",
+    "uptimeDay": "69.05%",
     "uptimeWeek": "94.49%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "98.30%",
@@ -375,15 +373,16 @@
     "uptime": "92.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "15.96%",
-    "uptimeYear": "92.11%",
+    "uptimeMonth": "15.87%",
+    "uptimeYear": "92.10%",
     "time": 815,
     "timeDay": 895,
     "timeWeek": 748,
     "timeMonth": 829,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2025-11-16": 1431,
+      "2025-11-17": 30,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
@@ -609,7 +608,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "32.35%",
+    "uptimeYear": "32.36%",
     "time": 1829,
     "timeDay": 2065,
     "timeWeek": 1770,
@@ -864,8 +863,7 @@
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
-      "2024-11-18": 1440,
-      "2024-11-17": 1440
+      "2024-11-18": 1440
     }
   },
   {
@@ -954,17 +952,18 @@
     "slug": "les-anses-d-arlet",
     "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "80.22%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "77.51%",
+    "uptimeWeek": "91.69%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.30%",
     "time": 1232,
-    "timeDay": 581,
+    "timeDay": 582,
     "timeWeek": 617,
     "timeMonth": 625,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2025-11-16": 284,
+      "2025-11-17": 30,
+      "2025-11-16": 293,
       "2025-11-15": 295,
       "2025-11-14": 200,
       "2025-11-13": 17,
@@ -1004,18 +1003,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.villeducarbet.fr.ico",
     "slug": "le-carbet",
     "status": "up",
-    "uptime": "91.24%",
+    "uptime": "91.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.86%",
-    "uptimeYear": "96.15%",
+    "uptimeMonth": "53.78%",
+    "uptimeYear": "96.14%",
     "time": 1360,
     "timeDay": 1404,
     "timeWeek": 1229,
     "timeMonth": 1304,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2025-11-16": 1431,
+      "2025-11-17": 30,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
@@ -1199,18 +1199,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.morne-vert.fr.ico",
     "slug": "morne-vert",
     "status": "down",
-    "uptime": "90.80%",
+    "uptime": "90.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.31%",
+    "uptimeYear": "79.30%",
     "time": 2485,
     "timeDay": 3545,
     "timeWeek": 2149,
     "timeMonth": 1700,
     "timeYear": 2208,
     "dailyMinutesDown": {
-      "2025-11-16": 1432,
+      "2025-11-17": 31,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
@@ -1330,8 +1331,7 @@
       "2025-03-22": 1,
       "2025-01-31": 17,
       "2025-01-29": 21,
-      "2024-12-18": 30,
-      "2024-11-17": 85
+      "2024-12-18": 30
     }
   },
   {
@@ -1396,7 +1396,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.21%",
+    "uptimeYear": "76.22%",
     "time": 930,
     "timeDay": 826,
     "timeWeek": 811,
@@ -1489,8 +1489,7 @@
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
-      "2024-11-18": 1440,
-      "2024-11-17": 1440
+      "2024-11-18": 1440
     }
   },
   {
@@ -1500,9 +1499,9 @@
     "slug": "cesecem",
     "status": "down",
     "uptime": "65.09%",
-    "uptimeDay": "86.05%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "94.43%",
+    "uptimeDay": "83.31%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "94.34%",
     "uptimeYear": "84.82%",
     "time": 4486,
     "timeDay": 811,
@@ -1510,7 +1509,8 @@
     "timeMonth": 6000,
     "timeYear": 4449,
     "dailyMinutesDown": {
-      "2025-11-16": 201,
+      "2025-11-17": 31,
+      "2025-11-16": 209,
       "2025-11-11": 52,
       "2025-11-10": 129,
       "2025-11-07": 26,
@@ -1603,8 +1603,7 @@
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
-      "2024-11-18": 1440,
-      "2024-11-17": 1440
+      "2024-11-18": 1440
     }
   },
   {
@@ -1867,17 +1866,18 @@
     "slug": "pole-agro-ressource-de-martinique",
     "status": "up",
     "uptime": "94.77%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.57%",
     "time": 4802,
     "timeDay": 4766,
     "timeWeek": 4429,
     "timeMonth": 4843,
     "timeYear": 4855,
     "dailyMinutesDown": {
-      "2025-11-16": 6,
+      "2025-11-17": 32,
+      "2025-11-16": 13,
       "2025-09-27": 42,
       "2025-08-28": 17,
       "2025-08-22": 33,
@@ -1938,7 +1938,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "39.31%",
+    "uptimeYear": "39.32%",
     "time": 809,
     "timeDay": 477,
     "timeWeek": 315,
@@ -2166,8 +2166,7 @@
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
-      "2024-11-18": 1440,
-      "2024-11-17": 1440
+      "2024-11-18": 1440
     }
   },
   {
@@ -2405,7 +2404,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourisme-centre.fr.ico",
     "slug": "office-du-tourisme-du-centre-de-la-martinique",
     "status": "up",
-    "uptime": "92.23%",
+    "uptime": "92.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "67.16%",
@@ -2535,8 +2534,7 @@
       "2025-01-26": 74,
       "2024-12-18": 63,
       "2024-12-01": 67,
-      "2024-11-24": 51,
-      "2024-11-17": 16
+      "2024-11-24": 51
     }
   },
   {
@@ -2556,7 +2554,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-16": 1433,
+      "2025-11-17": 33,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
@@ -2716,7 +2715,7 @@
     "time": 1131,
     "timeDay": 1071,
     "timeWeek": 1119,
-    "timeMonth": 1127,
+    "timeMonth": 1128,
     "timeYear": 1131,
     "dailyMinutesDown": {}
   },
@@ -2759,18 +2758,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "32.85%",
+    "uptime": "32.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.85%",
+    "uptimeYear": "32.84%",
     "time": 2542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-11-16": 1433,
+      "2025-11-17": 34,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
