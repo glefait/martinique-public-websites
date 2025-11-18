@@ -1,7 +1,7 @@
 url: https://ville-ansesdarlet.fr
-status: up
-code: 200
-responseTime: 453
-lastUpdated: 2025-11-18T07:03:49.622Z
+status: down
+code: 503
+responseTime: 290
+lastUpdated: 2025-11-18T08:15:13.044Z
 startTime: 2022-04-17T20:41:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
