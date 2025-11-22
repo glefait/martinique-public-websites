@@ -220,7 +220,7 @@
     "status": "up",
     "uptime": "92.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.30%",
+    "uptimeWeek": "76.37%",
     "uptimeMonth": "72.50%",
     "uptimeYear": "97.70%",
     "time": 975,
@@ -288,7 +288,7 @@
     "uptime": "92.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.50%",
+    "uptimeMonth": "86.52%",
     "uptimeYear": "97.97%",
     "time": 3123,
     "timeDay": 5969,
@@ -384,7 +384,7 @@
     "timeMonth": 843,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2025-11-21": 1433,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -865,8 +865,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -876,9 +875,9 @@
     "slug": "riviere-salee",
     "status": "up",
     "uptime": "90.49%",
-    "uptimeDay": "65.96%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "65.48%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "92.91%",
     "time": 1006,
     "timeDay": 1146,
@@ -886,7 +885,8 @@
     "timeMonth": 939,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2025-11-21": 490,
+      "2025-11-22": 0,
+      "2025-11-21": 497,
       "2025-11-13": 82,
       "2025-08-07": 37,
       "2025-07-26": 18,
@@ -957,7 +957,7 @@
     "status": "up",
     "uptime": "96.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.64%",
+    "uptimeWeek": "87.67%",
     "uptimeMonth": "96.67%",
     "uptimeYear": "99.18%",
     "time": 1233,
@@ -1011,7 +1011,7 @@
     "uptime": "90.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.42%",
+    "uptimeMonth": "37.41%",
     "uptimeYear": "94.78%",
     "time": 1360,
     "timeDay": 1503,
@@ -1019,7 +1019,8 @@
     "timeMonth": 1320,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2025-11-21": 1433,
+      "2025-11-22": 0,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -1220,7 +1221,8 @@
     "timeMonth": 1604,
     "timeYear": 2180,
     "dailyMinutesDown": {
-      "2025-11-21": 1434,
+      "2025-11-22": 1,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -1357,7 +1359,7 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.43%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "98.61%",
     "time": 1757,
     "timeDay": 2977,
@@ -1498,8 +1500,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -1512,7 +1513,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.49%",
     "uptimeMonth": "91.87%",
-    "uptimeYear": "85.95%",
+    "uptimeYear": "85.96%",
     "time": 4401,
     "timeDay": 2828,
     "timeWeek": 2524,
@@ -1609,8 +1610,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -1875,7 +1875,7 @@
     "slug": "pole-agro-ressource-de-martinique",
     "status": "up",
     "uptime": "94.45%",
-    "uptimeDay": "51.93%",
+    "uptimeDay": "52.45%",
     "uptimeWeek": "35.91%",
     "uptimeMonth": "85.25%",
     "uptimeYear": "98.35%",
@@ -2175,8 +2175,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -2186,9 +2185,9 @@
     "slug": "institut-martiniquais-du-sport",
     "status": "up",
     "uptime": "97.20%",
-    "uptimeDay": "65.92%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "65.40%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.85%",
     "time": 590,
     "timeDay": 1243,
@@ -2196,7 +2195,8 @@
     "timeMonth": 885,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-11-21": 491,
+      "2025-11-22": 2,
+      "2025-11-21": 496,
       "2025-11-13": 82,
       "2025-10-26": 47,
       "2025-09-25": 23,
@@ -2320,7 +2320,7 @@
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.36%",
+    "uptimeMonth": "86.38%",
     "uptimeYear": "97.40%",
     "time": 3587,
     "timeDay": 3114,
@@ -2418,7 +2418,7 @@
     "uptime": "92.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.62%",
+    "uptimeMonth": "77.64%",
     "uptimeYear": "96.40%",
     "time": 5112,
     "timeDay": 9631,
@@ -2565,7 +2565,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 1435,
+      "2025-11-22": 3,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -2721,7 +2722,7 @@
     "url": "https://www.adduam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adduam.com.ico",
     "slug": "agence-de-developpement-durable-d-urbanisme-et-d-amenagement-de-la-martinique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2743,7 +2744,7 @@
     "uptime": "93.25%",
     "uptimeDay": "98.34%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "77.78%",
+    "uptimeMonth": "77.79%",
     "uptimeYear": "93.25%",
     "time": 2726,
     "timeDay": 10367,
@@ -2785,7 +2786,8 @@
     "timeMonth": 0,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-11-21": 1436,
+      "2025-11-22": 4,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
