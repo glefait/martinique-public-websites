@@ -1,7 +1,7 @@
 url: https://rivierepilote.fr
-status: up
-code: 200
-responseTime: 2252
-lastUpdated: 2026-01-12T11:26:15.459Z
+status: down
+code: 503
+responseTime: 634
+lastUpdated: 2026-01-13T00:36:31.332Z
 startTime: 2022-04-17T20:41:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
