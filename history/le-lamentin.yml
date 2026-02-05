@@ -1,7 +1,7 @@
 url: http://www.mairie-lelamentin.fr
-status: up
-code: 200
-responseTime: 9217
-lastUpdated: 2026-02-04T23:57:32.565Z
+status: down
+code: 503
+responseTime: 797
+lastUpdated: 2026-02-05T02:19:50.576Z
 startTime: 2022-04-17T13:46:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
