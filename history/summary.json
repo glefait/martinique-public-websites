@@ -122,7 +122,7 @@
     "time": 1012,
     "timeDay": 863,
     "timeWeek": 935,
-    "timeMonth": 961,
+    "timeMonth": 964,
     "timeYear": 1010,
     "dailyMinutesDown": {
       "2026-02-06": 105,
@@ -350,7 +350,7 @@
     "time": 2822,
     "timeDay": 2270,
     "timeWeek": 2448,
-    "timeMonth": 2497,
+    "timeMonth": 2504,
     "timeYear": 2757,
     "dailyMinutesDown": {
       "2026-02-06": 105,
@@ -434,7 +434,7 @@
     "uptime": "91.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.92%",
+    "uptimeMonth": "81.07%",
     "uptimeYear": "91.94%",
     "time": 3224,
     "timeDay": 3719,
@@ -503,7 +503,7 @@
     "time": 5900,
     "timeDay": 4611,
     "timeWeek": 4642,
-    "timeMonth": 4980,
+    "timeMonth": 4983,
     "timeYear": 5630,
     "dailyMinutesDown": {
       "2026-02-06": 105,
@@ -656,15 +656,16 @@
     "uptime": "83.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.83%",
-    "uptimeYear": "66.51%",
+    "uptimeMonth": "67.68%",
+    "uptimeYear": "66.50%",
     "time": 870,
     "timeDay": 471,
     "timeWeek": 687,
     "timeMonth": 758,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2026-02-06": 1394,
+      "2026-02-07": 22,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -849,7 +850,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.69%",
-    "uptimeYear": "54.39%",
+    "uptimeYear": "54.40%",
     "time": 1849,
     "timeDay": 1604,
     "timeWeek": 1513,
@@ -1038,8 +1039,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
@@ -1138,8 +1138,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 598
+      "2025-02-08": 1440
     }
   },
   {
@@ -1202,10 +1201,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.villeducarbet.fr.ico",
     "slug": "le-carbet",
     "status": "up",
-    "uptime": "90.27%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "96.91%",
+    "uptime": "90.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "90.52%",
     "time": 1250,
     "timeDay": 929,
@@ -1213,7 +1212,6 @@
     "timeMonth": 924,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2026-02-06": 7,
       "2026-02-05": 40,
       "2026-02-03": 15,
       "2026-02-02": 16,
@@ -1277,14 +1275,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.30%",
+    "uptimeYear": "82.29%",
     "time": 3055,
     "timeDay": 116,
     "timeWeek": 137,
     "timeMonth": 145,
     "timeYear": 2575,
     "dailyMinutesDown": {
-      "2026-02-06": 1395,
+      "2026-02-07": 23,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -1513,18 +1512,19 @@
     "url": "https://mairiecasepilote.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mairiecasepilote.fr.ico",
     "slug": "case-pilote",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "89.87%",
-    "uptimeWeek": "94.22%",
+    "uptimeDay": "89.71%",
+    "uptimeWeek": "94.39%",
     "uptimeMonth": "86.65%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.14%",
     "time": 1328,
     "timeDay": 1511,
-    "timeWeek": 1479,
-    "timeMonth": 1437,
+    "timeWeek": 1489,
+    "timeMonth": 1439,
     "timeYear": 1332,
     "dailyMinutesDown": {
+      "2026-02-07": 2,
       "2026-02-06": 146,
       "2026-02-05": 70,
       "2026-02-04": 116,
@@ -1581,7 +1581,7 @@
       "2025-12-08": 22,
       "2025-12-07": 359,
       "2025-12-06": 430,
-      "2025-12-05": 256
+      "2025-12-05": 171
     }
   },
   {
@@ -1590,18 +1590,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.morne-vert.fr.ico",
     "slug": "morne-vert",
     "status": "down",
-    "uptime": "85.45%",
+    "uptime": "85.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.86%",
+    "uptimeYear": "56.85%",
     "time": 2277,
     "timeDay": 1483,
     "timeWeek": 1973,
     "timeMonth": 1894,
     "timeYear": 1968,
     "dailyMinutesDown": {
-      "2026-02-06": 1395,
+      "2026-02-07": 23,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -1884,7 +1885,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.62%",
     "time": 1111,
     "timeDay": 582,
     "timeWeek": 841,
@@ -1899,8 +1900,7 @@
       "2025-02-11": 1163,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
@@ -1909,10 +1909,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cesecem.mq.ico",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "65.17%",
+    "uptime": "65.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.56%",
+    "uptimeMonth": "24.72%",
     "uptimeYear": "89.92%",
     "time": 4431,
     "timeDay": 4293,
@@ -2167,8 +2167,7 @@
       "2025-02-11": 39,
       "2025-02-10": 31,
       "2025-02-09": 36,
-      "2025-02-08": 37,
-      "2025-02-07": 39
+      "2025-02-08": 37
     }
   },
   {
@@ -2225,8 +2224,7 @@
       "2025-03-11": 56,
       "2025-02-16": 37,
       "2025-02-09": 28,
-      "2025-02-08": 30,
-      "2025-02-07": 9
+      "2025-02-08": 30
     }
   },
   {
@@ -2313,8 +2311,7 @@
       "2025-03-11": 84,
       "2025-02-16": 36,
       "2025-02-09": 27,
-      "2025-02-08": 31,
-      "2025-02-07": 8
+      "2025-02-08": 31
     }
   },
   {
@@ -2393,7 +2390,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "61.59%",
+    "uptimeYear": "61.60%",
     "time": 790,
     "timeDay": 448,
     "timeWeek": 350,
@@ -2541,8 +2538,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
@@ -2639,7 +2635,7 @@
     "timeDay": 811,
     "timeWeek": 1027,
     "timeMonth": 955,
-    "timeYear": 3055,
+    "timeYear": 3004,
     "dailyMinutesDown": {}
   },
   {
@@ -2946,16 +2942,17 @@
     "status": "down",
     "uptime": "96.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "37.01%",
-    "uptimeMonth": "85.51%",
-    "uptimeYear": "98.78%",
+    "uptimeWeek": "36.33%",
+    "uptimeMonth": "85.35%",
+    "uptimeYear": "98.76%",
     "time": 945,
     "timeDay": 0,
     "timeWeek": 1529,
     "timeMonth": 1627,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2026-02-06": 1396,
+      "2026-02-07": 25,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -3008,7 +3005,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-06": 1396,
+      "2026-02-07": 25,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -3250,7 +3248,7 @@
     "time": 1144,
     "timeDay": 396,
     "timeWeek": 318,
-    "timeMonth": 1149,
+    "timeMonth": 1150,
     "timeYear": 1144,
     "dailyMinutesDown": {}
   },
@@ -3302,11 +3300,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "up",
-    "uptime": "39.91%",
+    "uptime": "39.93%",
     "uptimeDay": "92.72%",
     "uptimeWeek": "96.98%",
     "uptimeMonth": "90.54%",
-    "uptimeYear": "39.91%",
+    "uptimeYear": "39.93%",
     "time": 1753,
     "timeDay": 1302,
     "timeWeek": 1728,
