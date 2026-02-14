@@ -1,7 +1,7 @@
 url: https://www.ville-saintemarie.fr
-status: up
-code: 200
-responseTime: 959
-lastUpdated: 2026-02-14T22:09:58.923Z
+status: down
+code: 415
+responseTime: 384
+lastUpdated: 2026-02-14T22:46:15.593Z
 startTime: 2022-04-17T20:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
