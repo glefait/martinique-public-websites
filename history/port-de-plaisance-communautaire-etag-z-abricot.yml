@@ -1,7 +1,7 @@
 url: https://portetangzabricots.fr
-status: up
-code: 200
-responseTime: 2097
-lastUpdated: 2026-02-16T23:08:50.501Z
+status: down
+code: 503
+responseTime: 506
+lastUpdated: 2026-02-17T00:50:51.030Z
 startTime: 2025-06-26T12:29:51.233Z
 generator: Upptime <https://github.com/upptime/upptime>
