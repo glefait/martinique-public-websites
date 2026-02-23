@@ -1,7 +1,7 @@
 url: https://www.ville-robert.fr
-status: up
-code: 200
-responseTime: 3014
-lastUpdated: 2026-02-22T23:05:50.555Z
+status: down
+code: 503
+responseTime: 1505
+lastUpdated: 2026-02-23T14:52:44.091Z
 startTime: 2022-04-17T20:41:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
