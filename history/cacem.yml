@@ -1,7 +1,7 @@
 url: https://www.cacem.fr
-status: up
-code: 200
-responseTime: 1384
-lastUpdated: 2026-03-10T11:16:42.521Z
+status: down
+code: 503
+responseTime: 490
+lastUpdated: 2026-03-10T22:58:08.410Z
 startTime: 2022-04-17T13:46:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
