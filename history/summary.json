@@ -650,7 +650,8 @@
     "timeMonth": 770,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2026-03-11": 1401,
+      "2026-03-12": 33,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -791,8 +792,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -810,7 +810,7 @@
     "timeDay": 1862,
     "timeWeek": 1771,
     "timeMonth": 1845,
-    "timeYear": 2127,
+    "timeYear": 2130,
     "dailyMinutesDown": {
       "2026-02-13": 16,
       "2026-01-18": 345,
@@ -838,7 +838,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "63.43%",
+    "uptimeYear": "63.44%",
     "time": 1836,
     "timeDay": 2120,
     "timeWeek": 2188,
@@ -995,8 +995,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1005,10 +1004,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/riviere-salee.fr.ico",
     "slug": "riviere-salee",
     "status": "down",
-    "uptime": "89.43%",
+    "uptime": "89.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.34%",
+    "uptimeMonth": "73.18%",
     "uptimeYear": "88.26%",
     "time": 980,
     "timeDay": 0,
@@ -1016,7 +1015,8 @@
     "timeMonth": 1124,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2026-03-11": 1401,
+      "2026-03-12": 33,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1069,8 +1069,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1166,12 +1165,12 @@
     "uptime": "90.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.70%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "90.49%",
     "time": 1222,
     "timeDay": 1057,
     "timeWeek": 1060,
-    "timeMonth": 1121,
+    "timeMonth": 1132,
     "timeYear": 1183,
     "dailyMinutesDown": {
       "2026-03-10": 18,
@@ -1240,18 +1239,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/villedulorrain.com.ico",
     "slug": "le-lorrain",
     "status": "down",
-    "uptime": "83.27%",
+    "uptime": "83.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "73.26%",
+    "uptimeYear": "73.25%",
     "time": 2826,
     "timeDay": 80,
     "timeWeek": 121,
     "timeMonth": 133,
     "timeYear": 2201,
     "dailyMinutesDown": {
-      "2026-03-11": 1401,
+      "2026-03-12": 33,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1361,7 +1361,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ville-francois.fr.ico",
     "slug": "le-francois",
     "status": "up",
-    "uptime": "82.38%",
+    "uptime": "82.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.85%",
@@ -1472,15 +1472,16 @@
     "uptime": "72.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.49%",
-    "uptimeYear": "93.27%",
+    "uptimeMonth": "47.32%",
+    "uptimeYear": "93.25%",
     "time": 1002,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 643,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2026-03-11": 1402,
+      "2026-03-12": 34,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1596,18 +1597,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.morne-vert.fr.ico",
     "slug": "morne-vert",
     "status": "down",
-    "uptime": "83.47%",
+    "uptime": "83.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "47.82%",
+    "uptimeYear": "47.80%",
     "time": 2178,
     "timeDay": 1844,
     "timeWeek": 1446,
     "timeMonth": 1376,
     "timeYear": 1893,
     "dailyMinutesDown": {
-      "2026-03-11": 1402,
+      "2026-03-12": 34,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1874,7 +1876,7 @@
     "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "83.85%",
-    "uptimeMonth": "93.50%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "97.38%",
     "time": 1995,
     "timeDay": 1830,
@@ -1963,18 +1965,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cesecem.mq.ico",
     "slug": "cesecem",
     "status": "up",
-    "uptime": "65.26%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "44.59%",
-    "uptimeYear": "85.35%",
+    "uptime": "64.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "44.62%",
+    "uptimeYear": "85.36%",
     "time": 4350,
     "timeDay": 3631,
     "timeWeek": 3440,
     "timeMonth": 2734,
     "timeYear": 4401,
     "dailyMinutesDown": {
-      "2026-03-11": 11,
       "2026-03-04": 937,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -2212,8 +2213,7 @@
       "2025-03-16": 17,
       "2025-03-15": 21,
       "2025-03-14": 38,
-      "2025-03-13": 22,
-      "2025-03-12": 27
+      "2025-03-13": 22
     }
   },
   {
@@ -2447,7 +2447,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.63%",
+    "uptimeYear": "70.64%",
     "time": 750,
     "timeDay": 287,
     "timeWeek": 600,
@@ -2563,8 +2563,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -3074,7 +3073,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 1403,
+      "2026-03-12": 36,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
