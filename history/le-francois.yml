@@ -1,7 +1,7 @@
 url: https://www.ville-francois.fr
-status: up
-code: 200
-responseTime: 2020
-lastUpdated: 2026-03-14T23:07:10.091Z
+status: down
+code: 503
+responseTime: 968
+lastUpdated: 2026-03-16T08:17:57.452Z
 startTime: 2022-04-17T20:41:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
