@@ -116,9 +116,9 @@
     "slug": "cacem",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "96.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "99.37%",
     "time": 986,
     "timeDay": 693,
@@ -126,7 +126,6 @@
     "timeMonth": 932,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2026-04-01": 11,
       "2026-03-31": 36,
       "2026-03-30": 48,
       "2026-03-28": 53,
@@ -168,7 +167,7 @@
       "2026-02-15": 711,
       "2026-02-14": 105,
       "2026-02-13": 76,
-      "2026-02-12": 94
+      "2026-02-12": 117
     }
   },
   {
@@ -229,9 +228,9 @@
     "slug": "cap-nord",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "95.31%",
     "time": 896,
     "timeDay": 916,
@@ -239,7 +238,6 @@
     "timeMonth": 854,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2026-04-01": 10,
       "2026-03-29": 16,
       "2026-03-25": 69,
       "2026-03-22": 66,
@@ -364,9 +362,9 @@
     "slug": "schoelcher",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "95.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "95.31%",
     "uptimeYear": "99.49%",
     "time": 2673,
     "timeDay": 1583,
@@ -374,7 +372,6 @@
     "timeMonth": 2298,
     "timeYear": 2640,
     "dailyMinutesDown": {
-      "2026-04-01": 10,
       "2026-03-31": 35,
       "2026-03-30": 48,
       "2026-03-28": 52,
@@ -408,7 +405,7 @@
       "2026-02-23": 161,
       "2026-02-22": 39,
       "2026-02-21": 47,
-      "2026-02-20": 17
+      "2026-02-20": 38
     }
   },
   {
@@ -484,9 +481,9 @@
     "slug": "le-lamentin",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.37%",
     "time": 5254,
     "timeDay": 2182,
@@ -494,7 +491,6 @@
     "timeMonth": 3966,
     "timeYear": 5036,
     "dailyMinutesDown": {
-      "2026-04-01": 10,
       "2026-03-31": 36,
       "2026-03-30": 48,
       "2026-03-28": 52,
@@ -538,7 +534,7 @@
       "2026-02-15": 711,
       "2026-02-14": 104,
       "2026-02-13": 77,
-      "2026-02-12": 55
+      "2026-02-12": 74
     }
   },
   {
@@ -628,7 +624,7 @@
     "timeMonth": 649,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2026-04-01": 1395,
+      "2026-04-01": 1401,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -824,7 +820,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "69.17%",
+    "uptimeYear": "69.18%",
     "time": 1856,
     "timeDay": 2039,
     "timeWeek": 2173,
@@ -974,7 +970,7 @@
     "uptime": "88.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.36%",
+    "uptimeMonth": "4.34%",
     "uptimeYear": "87.09%",
     "time": 946,
     "timeDay": 0,
@@ -982,7 +978,7 @@
     "timeMonth": 1510,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2026-04-01": 1395,
+      "2026-04-01": 1402,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -1075,7 +1071,7 @@
     "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "98.01%",
     "time": 1007,
     "timeDay": 439,
@@ -1233,7 +1229,7 @@
     "timeMonth": 121,
     "timeYear": 2060,
     "dailyMinutesDown": {
-      "2026-04-01": 1395,
+      "2026-04-01": 1402,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -1493,7 +1489,7 @@
     "timeMonth": 0,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2026-04-01": 1396,
+      "2026-04-01": 1402,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -1583,19 +1579,19 @@
     "url": "https://mairiecasepilote.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mairiecasepilote.fr.ico",
     "slug": "case-pilote",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "91.92%",
+    "uptimeDay": "89.70%",
+    "uptimeWeek": "91.88%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "99.42%",
     "time": 1369,
-    "timeDay": 1448,
-    "timeWeek": 1394,
-    "timeMonth": 1467,
+    "timeDay": 1387,
+    "timeWeek": 1389,
+    "timeMonth": 1466,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2026-04-01": 145,
+      "2026-04-01": 148,
       "2026-03-31": 55,
       "2026-03-30": 204,
       "2026-03-29": 73,
@@ -1628,7 +1624,7 @@
     "uptime": "82.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "21.89%",
+    "uptimeMonth": "21.91%",
     "uptimeYear": "44.05%",
     "time": 2157,
     "timeDay": 3144,
@@ -2018,7 +2014,7 @@
     "uptime": "65.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.38%",
-    "uptimeMonth": "90.25%",
+    "uptimeMonth": "90.27%",
     "uptimeYear": "85.33%",
     "time": 4421,
     "timeDay": 3806,
@@ -2721,17 +2717,16 @@
     "slug": "le-galion",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "99.30%",
     "time": 760,
     "timeDay": 560,
     "timeWeek": 521,
     "timeMonth": 840,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2026-04-01": 10,
       "2026-03-31": 35,
       "2026-03-30": 47,
       "2026-03-29": 54,
@@ -2781,7 +2776,8 @@
       "2026-02-05": 374,
       "2026-02-04": 32,
       "2026-02-03": 17,
-      "2026-02-01": 17
+      "2026-02-01": 17,
+      "2026-01-31": 19
     }
   },
   {
@@ -3102,7 +3098,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 1398,
+      "2026-04-01": 1404,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -3454,9 +3450,9 @@
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "96.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "99.18%",
     "time": 1681,
     "timeDay": 1185,
@@ -3464,7 +3460,6 @@
     "timeMonth": 1635,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2026-04-01": 10,
       "2026-03-31": 35,
       "2026-03-30": 47,
       "2026-03-28": 52,
@@ -3509,7 +3504,7 @@
       "2026-02-12": 189,
       "2026-02-11": 47,
       "2026-02-10": 45,
-      "2026-02-09": 34
+      "2026-02-09": 57
     }
   }
 ]
