@@ -1,7 +1,7 @@
 url: https://www.mairie-schoelcher.fr
-status: up
-code: 200
-responseTime: 1650
-lastUpdated: 2026-05-08T23:19:25.694Z
+status: down
+code: 503
+responseTime: 691
+lastUpdated: 2026-05-09T15:57:54.861Z
 startTime: 2022-04-17T13:46:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
