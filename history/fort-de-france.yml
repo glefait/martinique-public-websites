@@ -1,7 +1,7 @@
 url: https://www.fortdefrance.fr
-status: up
-code: 200
-responseTime: 2499
-lastUpdated: 2026-05-23T23:19:07.851Z
+status: down
+code: 403
+responseTime: 320
+lastUpdated: 2026-05-25T15:29:38.292Z
 startTime: 2022-04-17T13:46:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
