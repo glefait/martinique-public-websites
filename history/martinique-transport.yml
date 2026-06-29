@@ -1,7 +1,7 @@
 url: http://www.martiniquetransport.mq
-status: up
-code: 200
-responseTime: 1360
-lastUpdated: 2026-06-28T23:30:20.650Z
+status: down
+code: 502
+responseTime: 668
+lastUpdated: 2026-06-29T01:27:42.269Z
 startTime: 2022-04-17T20:41:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
