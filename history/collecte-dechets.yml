@@ -1,7 +1,7 @@
 url: http://collecte-dechets.cacem.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-09T20:14:54.335Z
+status: up
+code: 200
+responseTime: 1043
+lastUpdated: 2026-07-09T21:40:41.768Z
 startTime: 2022-04-17T23:10:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
