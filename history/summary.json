@@ -87,13 +87,13 @@
     "slug": "cacem",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "85.24%",
-    "uptimeYear": "98.61%",
+    "uptimeDay": "85.68%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "85.08%",
+    "uptimeYear": "98.59%",
     "time": 1070,
     "timeDay": 1039,
-    "timeWeek": 981,
+    "timeWeek": 978,
     "timeMonth": 1571,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
       "2026-07-11": 105,
       "2026-07-15": 69,
       "2026-07-16": 127,
-      "2026-07-17": 9
+      "2026-07-17": 80
     }
   },
   {
@@ -318,13 +318,13 @@
     "slug": "fort-de-france",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "83.84%",
-    "uptimeYear": "98.65%",
+    "uptimeDay": "86.00%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "83.68%",
+    "uptimeYear": "98.64%",
     "time": 2162,
     "timeDay": 2605,
-    "timeWeek": 2494,
+    "timeWeek": 2493,
     "timeMonth": 2428,
     "timeYear": 2317,
     "dailyMinutesDown": {
@@ -353,7 +353,7 @@
       "2026-07-12": 171,
       "2026-07-15": 69,
       "2026-07-16": 122,
-      "2026-07-17": 9
+      "2026-07-17": 80
     }
   },
   {
@@ -363,13 +363,13 @@
     "slug": "schoelcher",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "85.84%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "86.03%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "85.68%",
+    "uptimeYear": "98.62%",
     "time": 2539,
     "timeDay": 1639,
-    "timeWeek": 1675,
+    "timeWeek": 1662,
     "timeMonth": 2514,
     "timeYear": 2480,
     "dailyMinutesDown": {
@@ -402,7 +402,7 @@
       "2026-07-11": 88,
       "2026-07-15": 69,
       "2026-07-16": 122,
-      "2026-07-17": 9
+      "2026-07-17": 80
     }
   },
   {
@@ -544,13 +544,13 @@
     "slug": "le-lamentin",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "85.87%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "86.03%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "85.70%",
+    "uptimeYear": "98.63%",
     "time": 4412,
     "timeDay": 3164,
-    "timeWeek": 3070,
+    "timeWeek": 3073,
     "timeMonth": 3211,
     "timeYear": 4262,
     "dailyMinutesDown": {
@@ -583,7 +583,7 @@
       "2026-07-11": 88,
       "2026-07-15": 68,
       "2026-07-16": 122,
-      "2026-07-17": 9
+      "2026-07-17": 80
     }
   },
   {
@@ -728,11 +728,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mairie-latrinite.fr.ico",
     "slug": "la-trinite",
     "status": "down",
-    "uptime": "75.19%",
+    "uptime": "75.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.00%",
+    "uptimeYear": "52.98%",
     "time": 793,
     "timeDay": 473,
     "timeWeek": 359,
@@ -756,7 +756,7 @@
       "2025-12-01": 883,
       "2026-01-19": 150,
       "2026-01-18": 22,
-      "2026-07-17": 1014,
+      "2026-07-17": 1085,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -1038,7 +1038,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "95.67%",
+    "uptimeYear": "95.69%",
     "time": 2033,
     "timeDay": 1885,
     "timeWeek": 2238,
@@ -1406,7 +1406,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.28%",
+    "uptimeYear": "38.27%",
     "time": 1917,
     "timeDay": 21,
     "timeWeek": 30,
@@ -1416,7 +1416,7 @@
       "2025-09-15": 18,
       "2025-11-24": 18,
       "2025-12-04": 796,
-      "2026-07-17": 1015,
+      "2026-07-17": 1086,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -1907,11 +1907,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mairiecasepilote.fr.ico",
     "slug": "case-pilote",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "95.38%",
-    "uptimeMonth": "87.79%",
-    "uptimeYear": "98.46%",
+    "uptime": "99.63%",
+    "uptimeDay": "86.66%",
+    "uptimeWeek": "94.67%",
+    "uptimeMonth": "87.63%",
+    "uptimeYear": "98.45%",
     "time": 1403,
     "timeDay": 1885,
     "timeWeek": 1450,
@@ -1949,7 +1949,7 @@
       "2026-07-12": 245,
       "2026-07-15": 64,
       "2026-07-16": 117,
-      "2026-07-17": 4
+      "2026-07-17": 75
     }
   },
   {
@@ -2398,7 +2398,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.48%",
+    "uptimeYear": "74.47%",
     "time": 1240,
     "timeDay": 962,
     "timeWeek": 667,
@@ -2406,7 +2406,7 @@
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2026-03-12": 22,
-      "2026-07-17": 1015,
+      "2026-07-17": 1086,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -2858,16 +2858,16 @@
     "url": "https://www.technopolemartinique.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.technopolemartinique.org.ico",
     "slug": "technopole-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "97.43%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "95.92%",
-    "time": 1088,
-    "timeDay": 764,
-    "timeWeek": 854,
-    "timeMonth": 891,
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "95.91%",
+    "time": 1089,
+    "timeDay": 837,
+    "timeWeek": 879,
+    "timeMonth": 896,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-10-05": 18,
@@ -2914,7 +2914,7 @@
       "2026-07-02": 79,
       "2026-07-07": 141,
       "2026-07-16": 46,
-      "2026-07-17": 4
+      "2026-07-17": 66
     }
   },
   {
@@ -3244,19 +3244,19 @@
     "url": "http://saem-legalion.net",
     "icon": "https://icons.duckduckgo.com/ip3/saem-legalion.net.ico",
     "slug": "le-galion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "86.09%",
-    "uptimeYear": "98.62%",
-    "time": 750,
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "86.08%",
+    "uptimeYear": "98.63%",
+    "time": 749,
     "timeDay": 858,
-    "timeWeek": 699,
+    "timeWeek": 723,
     "timeMonth": 693,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2026-06-14": 256,
+      "2026-06-14": 207,
       "2026-06-15": 388,
       "2026-06-16": 268,
       "2026-06-17": 321,
@@ -3284,7 +3284,8 @@
       "2026-07-10": 93,
       "2026-07-11": 31,
       "2026-07-15": 59,
-      "2026-07-16": 112
+      "2026-07-16": 112,
+      "2026-07-17": 5
     }
   },
   {
@@ -3580,7 +3581,7 @@
     "slug": "prefecture-de-la-martinique",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "81.52%",
+    "uptimeDay": "82.11%",
     "uptimeWeek": "80.30%",
     "uptimeMonth": "94.17%",
     "uptimeYear": "95.86%",
@@ -3722,7 +3723,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1017,
+      "2026-07-17": 1088,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -4113,7 +4114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/terresducentremartinique.fr.ico",
     "slug": "office-de-tourisme-centre",
     "status": "up",
-    "uptime": "81.20%",
+    "uptime": "81.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -4224,14 +4225,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/portetangzabricots.fr.ico",
     "slug": "port-de-plaisance-communautaire-etag-z-abricot",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "87.48%",
-    "uptimeYear": "98.73%",
+    "uptime": "98.79%",
+    "uptimeDay": "86.86%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "87.32%",
+    "uptimeYear": "98.72%",
     "time": 1696,
     "timeDay": 1755,
-    "timeWeek": 1762,
+    "timeWeek": 1752,
     "timeMonth": 1733,
     "timeYear": 1679,
     "dailyMinutesDown": {
@@ -4264,7 +4265,7 @@
       "2026-07-11": 78,
       "2026-07-15": 59,
       "2026-07-16": 112,
-      "2026-07-17": 6
+      "2026-07-17": 77
     }
   }
 ]
