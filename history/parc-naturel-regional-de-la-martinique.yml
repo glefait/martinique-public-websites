@@ -1,7 +1,7 @@
 url: http://pnr-martinique.com
-status: down
-code: 503
-responseTime: 245
-lastUpdated: 2026-08-15T05:51:20.221Z
+status: up
+code: 200
+responseTime: 5003
+lastUpdated: 2026-08-15T06:03:05.021Z
 startTime: 2022-04-17T20:42:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
