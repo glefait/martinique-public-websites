@@ -136,8 +136,8 @@
     "status": "down",
     "uptime": "77.13%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "85.85%",
+    "uptimeWeek": "85.60%",
+    "uptimeMonth": "85.83%",
     "uptimeYear": "91.60%",
     "time": 3647,
     "timeDay": 288,
@@ -221,7 +221,7 @@
       "2026-07-25": 711,
       "2026-07-29": 245,
       "2026-07-31": 107,
-      "2026-08-15": 965,
+      "2026-08-15": 974,
       "2026-08-14": 478
     }
   },
@@ -799,7 +799,7 @@
       "2025-12-01": 883,
       "2026-01-19": 150,
       "2026-01-18": 22,
-      "2026-08-15": 966,
+      "2026-08-15": 975,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -1486,7 +1486,7 @@
       "2025-09-15": 18,
       "2025-11-24": 18,
       "2025-12-04": 796,
-      "2026-08-15": 967,
+      "2026-08-15": 975,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -2006,16 +2006,16 @@
     "url": "https://mairiecasepilote.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mairiecasepilote.fr.ico",
     "slug": "case-pilote",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "92.18%",
-    "uptimeMonth": "88.48%",
+    "uptimeDay": "94.60%",
+    "uptimeWeek": "92.13%",
+    "uptimeMonth": "88.47%",
     "uptimeYear": "98.38%",
     "time": 1399,
-    "timeDay": 1388,
-    "timeWeek": 1359,
-    "timeMonth": 1402,
+    "timeDay": 1412,
+    "timeWeek": 1366,
+    "timeMonth": 1404,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2026-06-24": 154,
@@ -2064,7 +2064,7 @@
       "2026-08-12": 138,
       "2026-08-13": 292,
       "2026-08-14": 92,
-      "2026-08-15": 29
+      "2026-08-15": 34
     }
   },
   {
@@ -2522,7 +2522,7 @@
     "timeYear": 1163,
     "dailyMinutesDown": {
       "2026-03-12": 22,
-      "2026-08-15": 967,
+      "2026-08-15": 976,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -3133,17 +3133,17 @@
     "url": "http://www.biodiversite-martinique.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.biodiversite-martinique.fr.ico",
     "slug": "biodiversite-martinique",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "98.90%",
     "time": 2129,
-    "timeDay": 2515,
-    "timeWeek": 1982,
-    "timeMonth": 1984,
-    "timeYear": 2154,
+    "timeDay": 2562,
+    "timeWeek": 2057,
+    "timeMonth": 2002,
+    "timeYear": 2155,
     "dailyMinutesDown": {
       "2026-05-19": 94,
       "2026-05-21": 65,
@@ -3185,7 +3185,7 @@
       "2026-07-25": 169,
       "2026-07-26": 62,
       "2026-07-27": 194,
-      "2026-08-15": 4
+      "2026-08-15": 9
     }
   },
   {
@@ -3908,7 +3908,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 969,
+      "2026-08-15": 978,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
